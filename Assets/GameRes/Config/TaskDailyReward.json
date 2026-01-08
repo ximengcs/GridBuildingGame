@@ -1,0 +1,82 @@
+[
+  {
+    "id": 1,
+    "need_point": 20,
+    "reward": [
+      {
+        "type": 1,
+        "confId": 103,
+        "num": 3000
+      }, 
+      {
+        "type": 1,
+        "confId": 105,
+        "num": 20
+      }
+    ]
+  }, 
+  {
+    "id": 2,
+    "need_point": 40,
+    "reward": [
+      {
+        "type": 1,
+        "confId": 103,
+        "num": 4000
+      }, 
+      {
+        "type": 1,
+        "confId": 104,
+        "num": 50
+      }
+    ]
+  }, 
+  {
+    "id": 3,
+    "need_point": 60,
+    "reward": [
+      {
+        "type": 1,
+        "confId": 103,
+        "num": 5000
+      }, 
+      {
+        "type": 1,
+        "confId": 105,
+        "num": 30
+      }
+    ]
+  }, 
+  {
+    "id": 4,
+    "need_point": 80,
+    "reward": [
+      {
+        "type": 1,
+        "confId": 103,
+        "num": 5000
+      }, 
+      {
+        "type": 1,
+        "confId": 104,
+        "num": 50
+      }
+    ]
+  }, 
+  {
+    "id": 5,
+    "need_point": 100,
+    "reward": [
+      {
+        "type": 1,
+        "confId": 103,
+        "num": 5000
+      }, 
+      {
+        "type": 1,
+        "confId": 107,
+        "num": 1
+      }
+    ]
+  }
+]

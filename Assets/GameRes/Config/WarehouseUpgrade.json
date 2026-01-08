@@ -1,0 +1,170 @@
+[
+  {
+    "id": 1,
+    "warehouse_type": 4,
+    "storage_num": 50,
+    "upgrade_use": [
+      {
+        "type": 2,
+        "confId": 200001,
+        "num": 1
+      }, 
+      {
+        "type": 2,
+        "confId": 200002,
+        "num": 2
+      }
+    ]
+  }, 
+  {
+    "id": 2,
+    "warehouse_type": 4,
+    "storage_num": 60,
+    "upgrade_use": [
+      {
+        "type": 2,
+        "confId": 200001,
+        "num": 1
+      }, 
+      {
+        "type": 2,
+        "confId": 200002,
+        "num": 3
+      }
+    ]
+  }, 
+  {
+    "id": 3,
+    "warehouse_type": 4,
+    "storage_num": 70,
+    "upgrade_use": [
+      {
+        "type": 2,
+        "confId": 200001,
+        "num": 1
+      }, 
+      {
+        "type": 2,
+        "confId": 200002,
+        "num": 4
+      }
+    ]
+  }, 
+  {
+    "id": 4,
+    "warehouse_type": 4,
+    "storage_num": 80,
+    "upgrade_use": [
+      {
+        "type": 2,
+        "confId": 200001,
+        "num": 1
+      }, 
+      {
+        "type": 2,
+        "confId": 200002,
+        "num": 5
+      }
+    ]
+  }, 
+  {
+    "id": 5,
+    "warehouse_type": 4,
+    "storage_num": 90,
+    "upgrade_use": [
+      {
+        "type": 2,
+        "confId": 200001,
+        "num": 1
+      }, 
+      {
+        "type": 2,
+        "confId": 200002,
+        "num": 6
+      }
+    ]
+  }, 
+  {
+    "id": 6,
+    "warehouse_type": 4,
+    "storage_num": 100,
+    "upgrade_use": [
+      {
+        "type": 2,
+        "confId": 200001,
+        "num": 1
+      }, 
+      {
+        "type": 2,
+        "confId": 200002,
+        "num": 7
+      }
+    ]
+  }, 
+  {
+    "id": 7,
+    "warehouse_type": 4,
+    "storage_num": 110,
+    "upgrade_use": [
+      {
+        "type": 2,
+        "confId": 200001,
+        "num": 1
+      }, 
+      {
+        "type": 2,
+        "confId": 200002,
+        "num": 8
+      }
+    ]
+  }, 
+  {
+    "id": 8,
+    "warehouse_type": 4,
+    "storage_num": 120,
+    "upgrade_use": [
+      {
+        "type": 2,
+        "confId": 200001,
+        "num": 1
+      }, 
+      {
+        "type": 2,
+        "confId": 200002,
+        "num": 9
+      }
+    ]
+  }, 
+  {
+    "id": 9,
+    "warehouse_type": 4,
+    "storage_num": 130,
+    "upgrade_use": [
+      {
+        "type": 2,
+        "confId": 200001,
+        "num": 1
+      }, 
+      {
+        "type": 2,
+        "confId": 200002,
+        "num": 10
+      }
+    ]
+  }, 
+  {
+    "id": 10,
+    "warehouse_type": 4,
+    "storage_num": 140
+  }, 
+  {
+    "id": 11,
+    "warehouse_type": 2,
+    "storage_num": 999
+  }, 
+  {
+    "id": 12,
+    "warehouse_type": 3,
+    "storage_num": 999
+  }
+]

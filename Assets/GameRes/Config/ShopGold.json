@@ -1,0 +1,43 @@
+[
+  {
+    "id": 10410001,
+    "name": "免费&广告",
+    "free_times": 1,
+    "ads_id": 4,
+    "reward": {
+      "type": 1,
+      "confId": 202,
+      "num": 10
+    },
+    "goods_name": "UI_Text_shop1",
+    "goods_icon": "page_shop_cell_ingot_1"
+  }, 
+  {
+    "id": 10410002,
+    "name": "金币10000",
+    "cost_id": 104,
+    "cost_price": 500,
+    "buy_limit": 100,
+    "reward": {
+      "type": 1,
+      "confId": 103,
+      "num": 10000
+    },
+    "goods_name": "UI_Text_shop2",
+    "goods_icon": "page_shop_cell_ingot_2"
+  }, 
+  {
+    "id": 10410003,
+    "name": "金币60000",
+    "cost_id": 104,
+    "cost_price": 3000,
+    "buy_limit": 100,
+    "reward": {
+      "type": 1,
+      "confId": 103,
+      "num": 60000
+    },
+    "goods_name": "UI_Text_shop3",
+    "goods_icon": "page_shop_cell_ingot_3"
+  }
+]

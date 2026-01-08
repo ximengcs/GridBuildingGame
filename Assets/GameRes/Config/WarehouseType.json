@@ -1,0 +1,22 @@
+[
+  {
+    "id": 1,
+    "name": "全部",
+    "warehouse_type": "WarehouseType_Name_01"
+  }, 
+  {
+    "id": 2,
+    "name": "鲜花",
+    "warehouse_type": "WarehouseType_Name_02"
+  }, 
+  {
+    "id": 3,
+    "name": "制品",
+    "warehouse_type": "WarehouseType_Name_03"
+  }, 
+  {
+    "id": 4,
+    "name": "其他",
+    "warehouse_type": "WarehouseType_Name_04"
+  }
+]

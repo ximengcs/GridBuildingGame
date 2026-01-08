@@ -1,0 +1,54 @@
+[
+  {
+    "id": 1,
+    "num": 1,
+    "reward": {
+      "type": 1,
+      "confId": 112,
+      "num": 80
+    },
+    "alliance_reward": {
+      "type": 1,
+      "confId": 113,
+      "num": 15
+    }
+  }, 
+  {
+    "id": 2,
+    "num": 1,
+    "cost": {
+      "type": 1,
+      "confId": 103,
+      "num": 500
+    },
+    "reward": {
+      "type": 1,
+      "confId": 112,
+      "num": 80
+    },
+    "alliance_reward": {
+      "type": 1,
+      "confId": 113,
+      "num": 15
+    }
+  }, 
+  {
+    "id": 3,
+    "num": 1,
+    "cost": {
+      "type": 1,
+      "confId": 104,
+      "num": 50
+    },
+    "reward": {
+      "type": 1,
+      "confId": 112,
+      "num": 80
+    },
+    "alliance_reward": {
+      "type": 1,
+      "confId": 113,
+      "num": 15
+    }
+  }
+]

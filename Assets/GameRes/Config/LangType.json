@@ -1,0 +1,17 @@
+[
+  {
+    "id": 1,
+    "lang_type_name": "简中",
+    "lang_type": "cn"
+  }, 
+  {
+    "id": 2,
+    "lang_type_name": "繁中",
+    "lang_type": "tw"
+  }, 
+  {
+    "id": 3,
+    "lang_type_name": "英文",
+    "lang_type": "en"
+  }
+]

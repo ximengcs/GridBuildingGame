@@ -1,0 +1,27 @@
+[
+  {
+    "id": 10331101,
+    "day": 1,
+    "tab": 1,
+    "condition": {
+      "type": 3001,
+      "para1": 0,
+      "para2": 1,
+      "add": 1
+    },
+    "reward": [
+      {
+        "type": 1,
+        "confId": 104,
+        "num": 50
+      }, 
+      {
+        "type": 1,
+        "confId": 203,
+        "num": 1
+      }
+    ],
+    "tab_desc": "FiveDay_tab_1101",
+    "trans_desc": "FiveDay_desc_1101"
+  }
+]

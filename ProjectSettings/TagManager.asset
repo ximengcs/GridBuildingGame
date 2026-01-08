@@ -1,0 +1,61 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags: []
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - World
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Surface
+    uniqueID: 1591838867
+    locked: 0
+  - name: SurfaceDecorate
+    uniqueID: 1608415003
+    locked: 0
+  - name: SurfaceFeat
+    uniqueID: 333822697
+    locked: 0
+  - name: Common
+    uniqueID: 3986643523
+    locked: 0
+  - name: CommonFeat
+    uniqueID: 2047181631
+    locked: 0
+  - name: Sky
+    uniqueID: 1382535429
+    locked: 0

@@ -1,0 +1,80 @@
+[
+  {
+    "id": 1,
+    "challenge_score": 10,
+    "reward": [
+      {
+        "type": 1,
+        "confId": 104,
+        "num": 150
+      }, 
+      {
+        "type": 1,
+        "confId": 112,
+        "num": 90
+      }, 
+      {
+        "type": 1,
+        "confId": 113,
+        "num": 90
+      }, 
+      {
+        "type": 1,
+        "confId": 103,
+        "num": 1000
+      }
+    ]
+  }, 
+  {
+    "id": 2,
+    "challenge_score": 20,
+    "reward": [
+      {
+        "type": 1,
+        "confId": 105,
+        "num": 90
+      }, 
+      {
+        "type": 1,
+        "confId": 112,
+        "num": 125
+      }, 
+      {
+        "type": 1,
+        "confId": 113,
+        "num": 125
+      }, 
+      {
+        "type": 1,
+        "confId": 103,
+        "num": 1500
+      }
+    ]
+  }, 
+  {
+    "id": 3,
+    "challenge_score": 30,
+    "reward": [
+      {
+        "type": 1,
+        "confId": 106,
+        "num": 2
+      }, 
+      {
+        "type": 1,
+        "confId": 112,
+        "num": 150
+      }, 
+      {
+        "type": 1,
+        "confId": 113,
+        "num": 150
+      }, 
+      {
+        "type": 1,
+        "confId": 103,
+        "num": 3000
+      }
+    ]
+  }
+]

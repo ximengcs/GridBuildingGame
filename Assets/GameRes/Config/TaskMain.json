@@ -1,0 +1,62 @@
+[
+  {
+    "id": 1,
+    "next_task_id": 2,
+    "condition": {
+      "type": 3001,
+      "para1": 0,
+      "para2": 1,
+      "add": 1
+    },
+    "reward": [
+      {
+        "type": 1,
+        "confId": 202,
+        "num": 10
+      }
+    ],
+    "task_desc": "DailyTask_text_1",
+    "task_complete_num_max": 1,
+    "jump_id": 0
+  }, 
+  {
+    "id": 2,
+    "next_task_id": 3,
+    "condition": {
+      "type": 3011,
+      "para1": 3,
+      "para2": 5,
+      "add": 1
+    },
+    "reward": [
+      {
+        "type": 1,
+        "confId": 202,
+        "num": 10
+      }
+    ],
+    "task_desc": "DailyTask_text_2",
+    "task_complete_num_max": 50,
+    "jump_id": 1
+  }, 
+  {
+    "id": 3,
+    "next_task_id": 0,
+    "condition": {
+      "type": 3009,
+      "para1": 103,
+      "para2": 100,
+      "add": 1
+    },
+    "reward": [
+      {
+        "type": 1,
+        "confId": 202,
+        "num": 10
+      }
+    ],
+    "task_desc": "DailyTask_text_3",
+    "task_complete_num_max": 100,
+    "jump_id": 2
+  }
+]

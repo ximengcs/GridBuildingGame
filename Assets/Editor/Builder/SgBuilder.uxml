@@ -1,0 +1,21 @@
+<ui:UXML xmlns:ui="UnityEngine.UIElements" xmlns:uie="UnityEditor.UIElements" xsi="http://www.w3.org/2001/XMLSchema-instance" engine="UnityEngine.UIElements" editor="UnityEditor.UIElements" noNamespaceSchemaLocation="../../../UIElementsSchema/UIElements.xsd" editor-extension-mode="False">
+    <Style src="project://database/Assets/Editor/Builder/SgBuilder.uss?fileID=7433441132597879392&amp;guid=426b1be992979704488c24ea26d366ed&amp;type=3#SgBuilder" />
+    <ui:GroupBox name="GroupBox" style="align-items: flex-end; flex-direction: row-reverse;">
+        <ui:Button text="加载配置" parse-escape-sequences="true" display-tooltip-when-elided="true" name="btn-load" />
+        <ui:Button text="保存配置" parse-escape-sequences="true" display-tooltip-when-elided="true" name="btn-save" />
+    </ui:GroupBox>
+    <ui:GroupBox name="GroupBox" style="align-items: stretch;">
+        <ui:EnumField label="构建目标" type="UnityEditor.BuildTarget, UnityEditor" name="dd-build-target" value="Android" view-data-key="build_target" />
+        <ui:TextField picking-mode="Ignore" label="Version" value="1.0.0" name="input-version" />
+        <ui:DropdownField label="Game Config" name="dropdown-game-config" />
+        <ui:Toggle label="生成Proto" name="tg-gen-proto" tooltip="是否生成proto" style="flex-basis: auto; width: auto; -unity-text-align: upper-left;" />
+        <ui:Toggle label="导入配置" name="tg-gen-config" tooltip="是否导表" style="flex-basis: auto; width: auto; -unity-text-align: upper-left;" />
+        <ui:Toggle label="Generate All" name="tg-generate-all" tooltip="一般首次打包需要勾选，生成AOT相关link.xml和il2cpp相关代码" style="flex-basis: auto; width: auto; -unity-text-align: upper-left;" />
+        <ui:Toggle label="编译目标代码" name="tg-compile-target" tooltip="是否编译代码，包含编译、Strip元数据、CopyTo GameRes" style="flex-basis: auto; width: auto; -unity-text-align: upper-left;" />
+        <ui:Toggle label="构建资源" name="tg-build-res" tooltip="是否构建资源" />
+        <ui:Toggle label="复制资源进包" name="tg-copy-res" tooltip="是否复制资源到StreamingAssets目录，母包需要勾选。" />
+        <ui:TextField picking-mode="Ignore" label="Copy Tags" value="dev" name="input-copy-tags" />
+        <ui:Toggle label="Build Player" name="tg-build-player" tooltip="构建Player，比如Android是apk，iOS是ipa，Windows是exe，具体根据各平台的构建流程决定。" />
+        <ui:Button text="执行构建" parse-escape-sequences="true" display-tooltip-when-elided="true" name="btn-build" class="execute-button" style="height: 40px; width: 100px; align-self: center;" />
+    </ui:GroupBox>
+</ui:UXML>

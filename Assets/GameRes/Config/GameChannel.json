@@ -1,0 +1,22 @@
+[
+  {
+    "id": 101,
+    "name": "微信小游戏",
+    "download_address": "https://www.baidu.com/"
+  }, 
+  {
+    "id": 102,
+    "name": "抖音小游戏",
+    "download_address": "https://www.baidu.com/"
+  }, 
+  {
+    "id": 103,
+    "name": "官方安卓",
+    "download_address": "https://www.baidu.com/"
+  }, 
+  {
+    "id": 104,
+    "name": "官方IOS",
+    "download_address": "https://www.baidu.com/"
+  }
+]

@@ -1,0 +1,110 @@
+[
+  {
+    "id": 10430001,
+    "name": "宝石商店档位1",
+    "reward": {
+      "type": 1,
+      "confId": 202,
+      "num": 10
+    },
+    "reward_first": {
+      "type": 1,
+      "confId": 202,
+      "num": 10
+    },
+    "pay_id": 1010007,
+    "goods_name": "UI_Text_shop4",
+    "goods_slogan": "ShopDiamondsSlogan_01",
+    "goods_icon": "page_shop_cell_jade_1"
+  }, 
+  {
+    "id": 10430002,
+    "name": "宝石商店档位2",
+    "reward": {
+      "type": 1,
+      "confId": 104,
+      "num": 960
+    },
+    "reward_first": {
+      "type": 1,
+      "confId": 104,
+      "num": 960
+    },
+    "pay_id": 1010008,
+    "goods_name": "UI_Text_shop5",
+    "goods_slogan": "ShopDiamondsSlogan_01",
+    "goods_icon": "page_shop_cell_jade_2"
+  }, 
+  {
+    "id": 10430003,
+    "name": "宝石商店档位3",
+    "reward": {
+      "type": 1,
+      "confId": 104,
+      "num": 3150
+    },
+    "reward_first": {
+      "type": 1,
+      "confId": 104,
+      "num": 3150
+    },
+    "pay_id": 1010009,
+    "goods_name": "UI_Text_shop6",
+    "goods_slogan": "ShopDiamondsSlogan_02",
+    "goods_icon": "page_shop_cell_jade_3"
+  }, 
+  {
+    "id": 10430004,
+    "name": "宝石商店档位4",
+    "reward": {
+      "type": 1,
+      "confId": 104,
+      "num": 6400
+    },
+    "reward_first": {
+      "type": 1,
+      "confId": 104,
+      "num": 6400
+    },
+    "pay_id": 1010010,
+    "goods_name": "UI_Text_shop10",
+    "goods_slogan": "ShopDiamondsSlogan_02",
+    "goods_icon": "page_shop_cell_jade_4"
+  }, 
+  {
+    "id": 10430005,
+    "name": "宝石商店档位5",
+    "reward": {
+      "type": 1,
+      "confId": 104,
+      "num": 10800
+    },
+    "reward_first": {
+      "type": 1,
+      "confId": 104,
+      "num": 10800
+    },
+    "pay_id": 1010011,
+    "goods_name": "UI_Text_shop11",
+    "goods_slogan": "ShopDiamondsSlogan_03",
+    "goods_icon": "page_shop_cell_jade_5"
+  }, 
+  {
+    "id": 10430006,
+    "name": "宝石商店档位6",
+    "reward": {
+      "type": 1,
+      "confId": 104,
+      "num": 21600
+    },
+    "reward_first": {
+      "type": 1,
+      "confId": 104,
+      "num": 21600
+    },
+    "pay_id": 1010012,
+    "goods_name": "UI_Text_shop12",
+    "goods_slogan": "ShopDiamondsSlogan_03",
+    "goods_icon": "page_shop_cell_jade_6"
+  }
+]

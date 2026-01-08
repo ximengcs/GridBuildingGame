@@ -1,0 +1,713 @@
+[
+  {
+    "id": 10001,
+    "bundle": "battle_sound",
+    "path": "res/sound/ingame_units_arrow_attack_1"
+  }, 
+  {
+    "id": 10002,
+    "bundle": "battle_sound",
+    "path": "res/sound/ingame_units_arrow_attack_2"
+  }, 
+  {
+    "id": 10003,
+    "bundle": "battle_sound",
+    "path": "res/sound/ingame_hero_selling"
+  }, 
+  {
+    "id": 10004,
+    "bundle": "battle_sound",
+    "path": "res/sound/ingame_ui_button"
+  }, 
+  {
+    "id": 10005,
+    "bundle": "battle_sound",
+    "path": "res/sound/ingame_ui_notification"
+  }, 
+  {
+    "id": 10006,
+    "bundle": "battle_sound",
+    "path": "res/sound/ingame_hunting_boss_appear"
+  }, 
+  {
+    "id": 10007,
+    "bundle": "battle_sound",
+    "path": "res/sound/ingame_hunting_boss_death"
+  }, 
+  {
+    "id": 10008,
+    "bundle": "battle_sound",
+    "path": "res/sound/ingame_boss_appear"
+  }, 
+  {
+    "id": 10009,
+    "bundle": "battle_sound",
+    "path": "res/sound/ingame_boss_death"
+  }, 
+  {
+    "id": 10010,
+    "bundle": "battle_sound",
+    "path": "res/sound/ingame_hero_call"
+  }, 
+  {
+    "id": 10011,
+    "bundle": "battle_sound",
+    "path": "res/sound/ingame_hero_ground"
+  }, 
+  {
+    "id": 10012,
+    "bundle": "battle_sound",
+    "path": "res/sound/ingame_summonheroes_vox1"
+  }, 
+  {
+    "id": 10013,
+    "bundle": "battle_sound",
+    "path": "res/sound/ingame_summonheroes_vox2"
+  }, 
+  {
+    "id": 10014,
+    "bundle": "battle_sound",
+    "path": "res/sound/ingame_summonheroes_vox3"
+  }, 
+  {
+    "id": 10015,
+    "bundle": "battle_sound",
+    "path": "res/sound/ingame_summonheroes_vox4"
+  }, 
+  {
+    "id": 10016,
+    "bundle": "battle_sound",
+    "path": "res/sound/ingame_summonheroes_vox5"
+  }, 
+  {
+    "id": 10017,
+    "bundle": "battle_sound",
+    "path": "res/sound/ingame_strengthen_vox1"
+  }, 
+  {
+    "id": 10018,
+    "bundle": "battle_sound",
+    "path": "res/sound/ingame_strengthen_vox1"
+  }, 
+  {
+    "id": 10019,
+    "bundle": "battle_sound",
+    "path": "res/sound/ingame_strengthen_vox1"
+  }, 
+  {
+    "id": 10020,
+    "bundle": "battle_sound",
+    "path": "res/sound/ingame_strengthen_vox4"
+  }, 
+  {
+    "id": 10021,
+    "bundle": "battle_sound",
+    "path": "res/sound/ingame_blessing_vox1"
+  }, 
+  {
+    "id": 10022,
+    "bundle": "battle_sound",
+    "path": "res/sound/ingame_blessing_vox2"
+  }, 
+  {
+    "id": 10023,
+    "bundle": "battle_sound",
+    "path": "res/sound/ingame_blessing_vox3"
+  }, 
+  {
+    "id": 10024,
+    "bundle": "battle_sound",
+    "path": "res/sound/ingame_blessing_vox4"
+  }, 
+  {
+    "id": 10025,
+    "bundle": "battle_sound",
+    "path": "res/sound/ingame_blessing_vox5"
+  }, 
+  {
+    "id": 10026,
+    "bundle": "battle_sound",
+    "path": "res/sound/ingame_blessing_vox6"
+  }, 
+  {
+    "id": 10027,
+    "bundle": "battle_sound",
+    "path": "res/sound/ingame_coin"
+  }, 
+  {
+    "id": 10028,
+    "bundle": "lobby",
+    "path": "res/sound/bgm_dating"
+  }, 
+  {
+    "id": 10029,
+    "bundle": "battle",
+    "path": "res/sound/bgm_zhandou"
+  }, 
+  {
+    "id": 10030,
+    "bundle": "recruit",
+    "path": "res/sound/bgm_zhaomu"
+  }, 
+  {
+    "id": 10031,
+    "bundle": "battle_sound",
+    "path": "res/sound/ingame_shengli"
+  }, 
+  {
+    "id": 10032,
+    "bundle": "battle_sound",
+    "path": "res/sound/ingame_shibai"
+  }, 
+  {
+    "id": 10033,
+    "bundle": "lobby",
+    "path": "res/sound/outgame_yuanbao"
+  }, 
+  {
+    "id": 10034,
+    "bundle": "lobby",
+    "path": "res/sound/outgame_lingyu"
+  }, 
+  {
+    "id": 10035,
+    "bundle": "lobby",
+    "path": "res/sound/outgame_tianmingshi"
+  }, 
+  {
+    "id": 10036,
+    "bundle": "lobby",
+    "path": "res/sound/outgame_huode"
+  }, 
+  {
+    "id": 10037,
+    "bundle": "guide",
+    "path": "res/sound/outgame_gongneng"
+  }, 
+  {
+    "id": 10038,
+    "bundle": "lobby",
+    "path": "res/sound/common_ui_tanchu"
+  }, 
+  {
+    "id": 10039,
+    "bundle": "lobby",
+    "path": "res/sound/outgame_xiangzi"
+  }, 
+  {
+    "id": 10040,
+    "bundle": "battle_sound",
+    "path": "res/sound/ingame_coin"
+  }, 
+  {
+    "id": 10041,
+    "bundle": "battle_sound",
+    "path": "res/sound/ingame_coin"
+  }, 
+  {
+    "id": 10042,
+    "bundle": "battle_sound",
+    "path": "res/sound/ingame_hero_panda_skill_3"
+  }, 
+  {
+    "id": 10043,
+    "bundle": "battle_sound",
+    "path": "res/sound/ingame_hero_guardian_skill"
+  }, 
+  {
+    "id": 10044,
+    "bundle": "battle_sound",
+    "path": "res/sound/ingame_hero_mazu_skill"
+  }, 
+  {
+    "id": 10045,
+    "bundle": "battle_sound",
+    "path": "res/sound/ingame_hero_mazu_ultimate"
+  }, 
+  {
+    "id": 10046,
+    "bundle": "battle_sound",
+    "path": "res/sound/ingame_hero_daji_ultimate_1"
+  }, 
+  {
+    "id": 10047,
+    "bundle": "battle_sound",
+    "path": "res/sound/ingame_hero_daji_ultimate_2"
+  }, 
+  {
+    "id": 10048,
+    "bundle": "battle_sound",
+    "path": "res/sound/ingame_hero_xintian_skill_3"
+  }, 
+  {
+    "id": 10049,
+    "bundle": "battle_sound",
+    "path": "res/sound/ingame_hero_xintian_skill_4"
+  }, 
+  {
+    "id": 10050,
+    "bundle": "battle_sound",
+    "path": "res/sound/ingame_hero_xintian_skill_2"
+  }, 
+  {
+    "id": 10051,
+    "bundle": "battle_sound",
+    "path": "res/sound/ingame_hero_kun_skill_2"
+  }, 
+  {
+    "id": 10052,
+    "bundle": "battle_sound",
+    "path": "res/sound/ingame_hero_kun_skill_1"
+  }, 
+  {
+    "id": 10053,
+    "bundle": "battle_sound",
+    "path": "res/sound/ingame__hero_qiyou_skill_1"
+  }, 
+  {
+    "id": 10054,
+    "bundle": "battle_sound",
+    "path": "res/sound/ingame__hero_qiyou_skill_2"
+  }, 
+  {
+    "id": 10055,
+    "bundle": "battle_sound",
+    "path": "res/sound/ingame__hero_qiyou_skill_5"
+  }, 
+  {
+    "id": 10056,
+    "bundle": "battle_sound",
+    "path": "res/sound/ingame_hero_jingwei_attack"
+  }, 
+  {
+    "id": 10057,
+    "bundle": "battle_sound",
+    "path": "res/sound/ingame_hero_btjinwei_skill"
+  }, 
+  {
+    "id": 10058,
+    "bundle": "battle_sound",
+    "path": "res/sound/ingame_hero_btjinwei_ultimate"
+  }, 
+  {
+    "id": 10059,
+    "bundle": "battle_sound",
+    "path": "res/sound/ingame_hero_tianlu_ultimate"
+  }, 
+  {
+    "id": 10060,
+    "bundle": "battle_sound",
+    "path": "res/sound/ingame_hreo_nvhuo_skill"
+  }, 
+  {
+    "id": 10061,
+    "bundle": "battle_sound",
+    "path": "res/sound/ingame_hreo_nvhuo_ultimate"
+  }, 
+  {
+    "id": 10062,
+    "bundle": "battle_sound",
+    "path": "res/sound/ingame_hreo_horse_skill_1"
+  }, 
+  {
+    "id": 10063,
+    "bundle": "battle_sound",
+    "path": "res/sound/ingame_hreo_horse_skill_2"
+  }, 
+  {
+    "id": 10064,
+    "bundle": "battle_sound",
+    "path": "res/sound/ingame_hreo_whitedragon_ultimate"
+  }, 
+  {
+    "id": 10065,
+    "bundle": "battle_sound",
+    "path": "res/sound/ingame_hero_attack",
+    "frequency": 1
+  }, 
+  {
+    "id": 10066,
+    "bundle": "battle_sound",
+    "path": "res/sound/ingame_hero_hit",
+    "frequency": 1
+  }, 
+  {
+    "id": 10067,
+    "bundle": "battle_sound",
+    "path": "res/sound/ingame_bgm_daojishi"
+  }, 
+  {
+    "id": 10068,
+    "bundle": "recruit",
+    "path": "res/sound/outgame_zhaomu_tieshan"
+  }, 
+  {
+    "id": 10069,
+    "bundle": "recruit",
+    "path": "res/sound/outgame_zhaomu_huluxiru"
+  }, 
+  {
+    "id": 10070,
+    "bundle": "lobby",
+    "path": "res/sound/outgame_external_click"
+  }, 
+  {
+    "id": 10071,
+    "bundle": "battle_sound",
+    "path": "res/sound/ingame_countdown_kill"
+  }, 
+  {
+    "id": 10072,
+    "bundle": "lobby",
+    "path": "res/sound/outgame_character_development"
+  }, 
+  {
+    "id": 10073,
+    "bundle": "lobby",
+    "path": "res/sound/outgame_treasure_cultivation"
+  }, 
+  {
+    "id": 10074,
+    "bundle": "lobby",
+    "path": "res/sound/outgame_magic_animation"
+  }, 
+  {
+    "id": 10075,
+    "bundle": "recruit",
+    "path": "res/sound/outgame_zhaomu_huode"
+  }, 
+  {
+    "id": 10076,
+    "bundle": "lobby",
+    "path": "res/sound/outgame_magic_weapon"
+  }, 
+  {
+    "id": 10077,
+    "bundle": "battle_sound",
+    "path": "res/sound/ingame_throw_attack_1",
+    "frequency": 3
+  }, 
+  {
+    "id": 10078,
+    "bundle": "battle_sound",
+    "path": "res/sound/ingame_throw_hit_1",
+    "frequency": 3
+  }, 
+  {
+    "id": 10079,
+    "bundle": "battle_sound",
+    "path": "res/sound/ingame_throw_attack_2",
+    "frequency": 4
+  }, 
+  {
+    "id": 10080,
+    "bundle": "battle_sound",
+    "path": "res/sound/ingame_throw_hit_2",
+    "frequency": 4
+  }, 
+  {
+    "id": 10081,
+    "bundle": "battle_sound",
+    "path": "res/sound/ingame_fist_attack_1",
+    "frequency": 5
+  }, 
+  {
+    "id": 10082,
+    "bundle": "battle_sound",
+    "path": "res/sound/ingame_fist_hit_1",
+    "frequency": 5
+  }, 
+  {
+    "id": 10083,
+    "bundle": "battle_sound",
+    "path": "res/sound/ingame_fist_attack_2",
+    "frequency": 6
+  }, 
+  {
+    "id": 10084,
+    "bundle": "battle_sound",
+    "path": "res/sound/ingame_fist_hit_2",
+    "frequency": 6
+  }, 
+  {
+    "id": 10085,
+    "bundle": "battle_sound",
+    "path": "res/sound/ingame_shot_attack_1",
+    "frequency": 7
+  }, 
+  {
+    "id": 10086,
+    "bundle": "battle_sound",
+    "path": "res/sound/ingame_shot_hit_1",
+    "frequency": 7
+  }, 
+  {
+    "id": 10087,
+    "bundle": "battle_sound",
+    "path": "res/sound/ingame_shot_attack_2",
+    "frequency": 8
+  }, 
+  {
+    "id": 10088,
+    "bundle": "battle_sound",
+    "path": "res/sound/ingame_shot_hit_2",
+    "frequency": 8
+  }, 
+  {
+    "id": 10089,
+    "bundle": "battle_sound",
+    "path": "res/sound/ingame_hero_attack_2",
+    "frequency": 2
+  }, 
+  {
+    "id": 10090,
+    "bundle": "battle_sound",
+    "path": "res/sound/ingame_hero_hit_2",
+    "frequency": 2
+  }, 
+  {
+    "id": 10091,
+    "bundle": "lobby",
+    "path": "res/sound/outgame_upgrade"
+  }, 
+  {
+    "id": 10092,
+    "bundle": "battle_sound",
+    "path": "res/sound/ingame_fail"
+  }, 
+  {
+    "id": 10093,
+    "bundle": "battle_sound",
+    "path": "res/sound/ingame_warning"
+  }, 
+  {
+    "id": 10094,
+    "bundle": "battle_sound",
+    "path": "res/sound/ingame_countdown_huode"
+  }, 
+  {
+    "id": 10095,
+    "bundle": "battle_sound",
+    "path": "res/sound/ingame_immortal_products"
+  }, 
+  {
+    "id": 10096,
+    "bundle": "battle_sound",
+    "path": "res/sound/ingame_zise"
+  }, 
+  {
+    "id": 10097,
+    "bundle": "battle_sound",
+    "path": "res/sound/ingame_transformation"
+  }, 
+  {
+    "id": 10098,
+    "bundle": "battle_sound",
+    "path": "res/sound/ingame_transformation_two"
+  }, 
+  {
+    "id": 10099,
+    "bundle": "recruit",
+    "path": "res/sound/outgame_recruiting_fireworks"
+  }, 
+  {
+    "id": 10100,
+    "bundle": "recruit",
+    "path": "res/sound/outgame_recruiting_heroes"
+  }, 
+  {
+    "id": 10101,
+    "bundle": "recruit",
+    "path": "res/sound/outgame_mythical_hero"
+  }, 
+  {
+    "id": 10102,
+    "bundle": "battle_sound",
+    "path": "res/sound/ingame_shengli"
+  }, 
+  {
+    "id": 10103,
+    "bundle": "battle_sound",
+    "path": "res/sound/ingame_shengli"
+  }, 
+  {
+    "id": 10104,
+    "bundle": "battle_sound",
+    "path": "res/sound/ingame_shengli"
+  }, 
+  {
+    "id": 10105,
+    "bundle": "battle_sound",
+    "path": "res/sound/ingame_shengli"
+  }, 
+  {
+    "id": 10106,
+    "bundle": "battle_sound",
+    "path": "res/sound/ingame_shengli"
+  }, 
+  {
+    "id": 10107,
+    "bundle": "battle_sound",
+    "path": "res/sound/ingame_boss_death"
+  }, 
+  {
+    "id": 10108,
+    "bundle": "battle_sound",
+    "path": "res/sound/ingame_boss_death"
+  }, 
+  {
+    "id": 10109,
+    "bundle": "battle_sound",
+    "path": "res/sound/ingame_boss_death"
+  }, 
+  {
+    "id": 10110,
+    "bundle": "battle_sound",
+    "path": "res/sound/ingame_boss_death"
+  }, 
+  {
+    "id": 10111,
+    "bundle": "battle_sound",
+    "path": "res/sound/ingame_boss_death"
+  }, 
+  {
+    "id": 10112,
+    "bundle": "battle_sound",
+    "path": "res/sound/ingame_boss_death"
+  }, 
+  {
+    "id": 10113,
+    "bundle": "battle_sound",
+    "path": "res/sound/ingame_boss_death"
+  }, 
+  {
+    "id": 10114,
+    "bundle": "battle_sound",
+    "path": "res/sound/ingame_boss_death"
+  }, 
+  {
+    "id": 10115,
+    "bundle": "game_common",
+    "path": "res/sound/ingame_tudigonggong"
+  }, 
+  {
+    "id": 10116,
+    "bundle": "game_common",
+    "path": "res/sound/ingame_change"
+  }, 
+  {
+    "id": 10117,
+    "bundle": "game_common",
+    "path": "res/sound/ingame_mazu"
+  }, 
+  {
+    "id": 10118,
+    "bundle": "game_common",
+    "path": "res/sound/ingame_daji"
+  }, 
+  {
+    "id": 10119,
+    "bundle": "game_common",
+    "path": "res/sound/ingame_taishanglaojun"
+  }, 
+  {
+    "id": 10120,
+    "bundle": "game_common",
+    "path": "res/sound/ingame_xingtian"
+  }, 
+  {
+    "id": 10121,
+    "bundle": "game_common",
+    "path": "res/sound/ingame_kun"
+  }, 
+  {
+    "id": 10122,
+    "bundle": "game_common",
+    "path": "res/sound/ingame_chiyou"
+  }, 
+  {
+    "id": 10123,
+    "bundle": "game_common",
+    "path": "res/sound/ingame_jingwei"
+  }, 
+  {
+    "id": 10124,
+    "bundle": "game_common",
+    "path": "res/sound/ingame_hundun"
+  }, 
+  {
+    "id": 10125,
+    "bundle": "game_common",
+    "path": "res/sound/ingame_fenghuang"
+  }, 
+  {
+    "id": 10126,
+    "bundle": "game_common",
+    "path": "res/sound/ingame_tianlu"
+  }, 
+  {
+    "id": 10127,
+    "bundle": "game_common",
+    "path": "res/sound/ingame_nawa"
+  }, 
+  {
+    "id": 10128,
+    "bundle": "game_common",
+    "path": "res/sound/ingame_bailong"
+  }, 
+  {
+    "id": 10129,
+    "bundle": "game_common",
+    "path": "res/sound/ingame_sunwukong"
+  }, 
+  {
+    "id": 10130,
+    "bundle": "battle_sound",
+    "path": "res/sound/arena_bgm"
+  }, 
+  {
+    "id": 10131,
+    "bundle": "battle_sound",
+    "path": "res/sound/arena_damage01"
+  }, 
+  {
+    "id": 10132,
+    "bundle": "battle_sound",
+    "path": "res/sound/arena_damage02"
+  }, 
+  {
+    "id": 10133,
+    "bundle": "battle_sound",
+    "path": "res/sound/arena_drum01"
+  }, 
+  {
+    "id": 10134,
+    "bundle": "battle_sound",
+    "path": "res/sound/arena_monster01"
+  }, 
+  {
+    "id": 10135,
+    "bundle": "battle_sound",
+    "path": "res/sound/arena_monster02"
+  }, 
+  {
+    "id": 10136,
+    "bundle": "battle_sound",
+    "path": "res/sound/ingame_fail"
+  }, 
+  {
+    "id": 10137,
+    "bundle": "lobby",
+    "path": "res/sound/single_draw"
+  }, 
+  {
+    "id": 10138,
+    "bundle": "lobby",
+    "path": "res/sound/ten_consecutive"
+  }, 
+  {
+    "id": 10139,
+    "bundle": "lobby",
+    "path": "res/sound/winning_the_lottery"
+  }
+]

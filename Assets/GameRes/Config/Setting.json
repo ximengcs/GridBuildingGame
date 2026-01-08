@@ -1,0 +1,58 @@
+[
+  {
+    "id": 1,
+    "setting_text": "setting_name_01",
+    "setting_icon": "setting_icon_01",
+    "is_open": true,
+    "is_show": true
+  }, 
+  {
+    "id": 2,
+    "setting_text": "setting_name_02",
+    "setting_icon": "setting_icon_02",
+    "is_open": true,
+    "is_show": true
+  }, 
+  {
+    "id": 3,
+    "setting_text": "setting_name_03",
+    "setting_icon": "setting_icon_03",
+    "is_open": true,
+    "is_show": true
+  }, 
+  {
+    "id": 4,
+    "setting_text": "setting_name_04",
+    "setting_icon": "setting_icon_04",
+    "is_open": true,
+    "is_show": false
+  }, 
+  {
+    "id": 5,
+    "setting_text": "setting_name_05",
+    "setting_icon": "setting_icon_05",
+    "is_open": false,
+    "is_show": false
+  }, 
+  {
+    "id": 6,
+    "setting_text": "setting_name_06",
+    "setting_icon": "setting_icon_06",
+    "is_open": false,
+    "is_show": false
+  }, 
+  {
+    "id": 7,
+    "setting_text": "setting_name_07",
+    "setting_icon": "setting_icon_07",
+    "is_open": true,
+    "is_show": false
+  }, 
+  {
+    "id": 8,
+    "setting_text": "setting_name_08",
+    "setting_icon": "setting_icon_08",
+    "is_open": true,
+    "is_show": true
+  }
+]

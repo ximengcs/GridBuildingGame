@@ -1,0 +1,221 @@
+﻿[
+  {
+    "id": 100001,
+    "type": 1,
+    "desc": "[地块]草地",
+    "size": {
+      "x": 1,
+      "y": 1
+    },
+    "layer": "Surface",
+    "res": "100001"
+  },
+  {
+    "id": 100002,
+    "type": 1,
+    "desc": "[地块]地砖",
+    "size": {
+      "x": 1,
+      "y": 1
+    },
+    "layer": "Surface",
+    "res": "100002"
+  },
+  {
+    "id": 100003,
+    "type": 1,
+    "desc": "[地块]雪地",
+    "size": {
+      "x": 1,
+      "y": 1
+    },
+    "layer": "Surface",
+    "res": "100003"
+  },
+  {
+    "id": 100004,
+    "type": 1,
+    "desc": "[地块]水",
+    "size": {
+      "x": 1,
+      "y": 1
+    },
+    "layer": "Surface",
+    "res": "100004"
+  },
+  {
+    "id": 100005,
+    "type": 1,
+    "desc": "[地块]公路",
+    "size": {
+      "x": 1,
+      "y": 1
+    },
+    "layer": "Surface",
+    "res": "100005"
+  },
+  {
+    "id": 100006,
+    "type": 1,
+    "desc": "[地块]",
+    "size": {
+      "x": 1,
+      "y": 1
+    },
+    "layer": "Surface",
+    "res": "100006"
+  },
+  {
+    "id": 100007,
+    "type": 1,
+    "desc": "[地块]",
+    "size": {
+      "x": 1,
+      "y": 1
+    },
+    "layer": "Surface",
+    "res": "100007"
+  },
+  {
+    "id": 100008,
+    "type": 1,
+    "desc": "[地块]",
+    "size": {
+      "x": 1,
+      "y": 1
+    },
+    "layer": "Surface",
+    "res": "100008"
+  },
+  {
+    "id": 100009,
+    "type": 1,
+    "desc": "[地块装饰]1",
+    "size": {
+      "x": 1,
+      "y": 1
+    },
+    "layer": "Surface",
+    "res": "100009"
+  },
+  {
+    "id": 200001,
+    "type": 2,
+    "desc": "[地块装饰]1",
+    "size": {
+      "x": 2,
+      "y": 3
+    },
+    "layer": "SurfaceDecorate",
+    "res": "200001"
+  },
+  {
+    "id": 200004,
+    "type": 2,
+    "desc": "[地块装饰]1",
+    "size": {
+      "x": 2,
+      "y": 2
+    },
+    "layer": "SurfaceDecorate",
+    "res": "200004"
+  },
+  {
+    "id": 300008,
+    "type": 3,
+    "desc": "[通用]高物块1",
+    "size": {
+      "x": 1,
+      "y": 1
+    },
+    "layer": "Common",
+    "res": "300008"
+  },
+  {
+    "id": 300009,
+    "type": 3,
+    "desc": "[通用]高物块2",
+    "size": {
+      "x": 1,
+      "y": 3
+    },
+    "layer": "Common",
+    "res": "300009"
+  },
+  {
+    "id": 300010,
+    "type": 3,
+    "desc": "[通用]高物块3",
+    "size": {
+      "x": 2,
+      "y": 1
+    },
+    "layer": "Common",
+    "res": "300010",
+    "directions": [
+      1,
+      2
+    ]
+  },
+  {
+    "id": 300011,
+    "type": 3,
+    "desc": "[通用]高物块4",
+    "size": {
+      "x": 2,
+      "y": 2
+    },
+    "layer": "Common",
+    "res": "300011",
+    "directions": [
+      1,
+      2,
+      3,
+      4
+    ]
+  },
+  {
+    "id": 300013,
+    "type": 3,
+    "desc": "[通用]Dest",
+    "size": {
+      "x": 1,
+      "y": 1
+    },
+    "layer": "Common",
+    "res": "300013"
+  },
+  {
+    "id": 300014,
+    "type": 4,
+    "desc": "[通用]作物",
+    "size": {
+      "x": 2,
+      "y": 2
+    },
+    "layer": "Common",
+    "res": "300014"
+  },
+  {
+    "id": 300015,
+    "type": 4,
+    "desc": "[通用]作物2",
+    "size": {
+      "x": 2,
+      "y": 2
+    },
+    "layer": "Common",
+    "res": "300015"
+  },
+  {
+    "id": 300016,
+    "type": 3,
+    "desc": "[通用]房子",
+    "size": {
+      "x": 3,
+      "y": 3
+    },
+    "layer": "Common",
+    "res": "300016"
+  }
+]

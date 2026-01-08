@@ -1,0 +1,67 @@
+[
+  {
+    "id": 101,
+    "currency_name": "currency_name_101",
+    "currency_desc": "currency_desc_101",
+    "currency_icon": "currency_icon_101"
+  }, 
+  {
+    "id": 102,
+    "currency_name": "currency_name_102",
+    "currency_desc": "currency_desc_102",
+    "currency_icon": "currency_icon_102"
+  }, 
+  {
+    "id": 103,
+    "color": 3,
+    "currency_name": "currency_name_103",
+    "currency_desc": "currency_desc_103",
+    "currency_icon": "currency_icon_103"
+  }, 
+  {
+    "id": 104,
+    "color": 4,
+    "currency_name": "currency_name_104",
+    "currency_desc": "currency_desc_104",
+    "currency_icon": "currency_icon_104"
+  }, 
+  {
+    "id": 105,
+    "color": 4,
+    "currency_name": "currency_name_105",
+    "currency_desc": "currency_desc_105",
+    "currency_icon": "currency_icon_105"
+  }, 
+  {
+    "id": 106,
+    "color": 5,
+    "currency_name": "currency_name_106",
+    "currency_desc": "currency_desc_106",
+    "currency_icon": "currency_icon_106"
+  }, 
+  {
+    "id": 201,
+    "currency_name": "currency_name_201",
+    "currency_desc": "currency_desc_201",
+    "currency_icon": "currency_icon_201"
+  }, 
+  {
+    "id": 202,
+    "currency_name": "currency_name_202",
+    "currency_desc": "currency_desc_202",
+    "currency_icon": "currency_icon_202"
+  }, 
+  {
+    "id": 203,
+    "currency_name": "currency_name_203",
+    "currency_desc": "currency_desc_203",
+    "currency_icon": "currency_icon_203"
+  }, 
+  {
+    "id": 1004,
+    "color": 5,
+    "currency_name": "currency_name_1004",
+    "currency_desc": "currency_desc_1004",
+    "currency_icon": "currency_icon_1004"
+  }
+]

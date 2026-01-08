@@ -1,6 +1,6 @@
 # This .gitignore file should be placed at the root of your Unity project directory
 #
-# Get latest from https://github.com/github/gitignore/blob/master/Unity.gitignore
+# Get latest from https://github.com/github/gitignore/blob/main/Unity.gitignore
 #
 /[Ll]ibrary/
 /[Tt]emp/
@@ -9,14 +9,13 @@
 /[Bb]uilds/
 /[Ll]ogs/
 /[Uu]ser[Ss]ettings/
-/Packages
 
 # MemoryCaptures can get excessive in size.
 # They also could contain extremely sensitive data
 /[Mm]emoryCaptures/
 
-# Asset meta data should only be ignored when the corresponding asset is also ignored
-!/[Aa]ssets/**/*.meta
+# Recordings can get excessive in size
+/[Rr]ecordings/
 
 # Uncomment this line if you wish to ignore the asset store tools plugin
 # /[Aa]ssets/AssetStoreTools*
@@ -59,7 +58,8 @@ sysinfo.txt
 # Builds
 *.apk
 *.aab
-# *.unitypackage
+*.unitypackage
+*.app
 
 # Crashlytics generated file
 crashlytics-build.properties
@@ -70,15 +70,8 @@ crashlytics-build.properties
 # Temporary auto-generated Android Assets
 /[Aa]ssets/[Ss]treamingAssets/aa.meta
 /[Aa]ssets/[Ss]treamingAssets/aa/*
-/.idea/
-/Bundles/
-/HybridCLRData/
-*.csproj.DotSettings
-/Assets/Resources/yoo/DefaultPackage.meta
-/Assets/Resources/yoo.meta
-/Assets/Resources/yoo/DefaultPackage/BuildinCatalog.asset
-/Assets/Resources/yoo/DefaultPackage/BuildinCatalog.asset.meta
-.vsconfig
-/UIElementsSchema/
-.editorconfig
-.vscode
+Assets/UnityXFrame/Editor/UserfulToolData.asset
+Assets/UnityXFrame/Editor/UserfulToolData.asset.meta
+Assets/AddressableAssetsData/WebGL.meta
+ServerData/
+ServerData/

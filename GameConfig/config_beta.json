@@ -1,0 +1,11 @@
+{
+    "env": "beta",
+    "config": {
+        "version": "1.0.0",
+        "httpServer": "http://192.168.30.101:6100",
+        "cdnServer": "https://t-lab-oss.oss-cn-chengdu.aliyuncs.com",
+        "frameRate": 60,
+        "logReportEnable": true,
+        "playMode": 2
+    }
+}

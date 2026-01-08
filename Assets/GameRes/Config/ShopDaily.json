@@ -1,0 +1,643 @@
+[
+  {
+    "id": 10400001,
+    "name": "免费&广告",
+    "goods_type": 1,
+    "reward": {
+      "type": 1,
+      "confId": 202,
+      "num": 10
+    },
+    "free_times": 1,
+    "ads_id": 2
+  }, 
+  {
+    "id": 10400002,
+    "name": "文物",
+    "goods_type": 4,
+    "cost_id": 103,
+    "cost_price": 20000,
+    "goods_weight": 300,
+    "unit_num": 1
+  }, 
+  {
+    "id": 10400003,
+    "name": "文物",
+    "goods_type": 4,
+    "cost_id": 104,
+    "cost_price": 1000,
+    "goods_weight": 300,
+    "unit_num": 1
+  }, 
+  {
+    "id": 10400004,
+    "name": "招募券x30",
+    "goods_type": 1,
+    "cost_id": 103,
+    "cost_price": 1200,
+    "goods_weight": 500,
+    "reward": {
+      "type": 1,
+      "confId": 105,
+      "num": 30
+    }
+  }, 
+  {
+    "id": 10400005,
+    "name": "招募券x100",
+    "goods_type": 1,
+    "cost_id": 103,
+    "cost_price": 4000,
+    "goods_weight": 500,
+    "reward": {
+      "type": 1,
+      "confId": 105,
+      "num": 100
+    }
+  }, 
+  {
+    "id": 10400006,
+    "name": "招募券x300",
+    "goods_type": 1,
+    "cost_id": 103,
+    "cost_price": 12000,
+    "goods_weight": 300,
+    "reward": {
+      "type": 1,
+      "confId": 105,
+      "num": 300
+    }
+  }, 
+  {
+    "id": 10400007,
+    "name": "招募券x30",
+    "goods_type": 1,
+    "cost_id": 104,
+    "cost_price": 60,
+    "goods_weight": 500,
+    "reward": {
+      "type": 1,
+      "confId": 105,
+      "num": 30
+    }
+  }, 
+  {
+    "id": 10400008,
+    "name": "招募券x100",
+    "goods_type": 1,
+    "cost_id": 104,
+    "cost_price": 200,
+    "goods_weight": 500,
+    "reward": {
+      "type": 1,
+      "confId": 105,
+      "num": 100
+    }
+  }, 
+  {
+    "id": 10400009,
+    "name": "招募券x300",
+    "goods_type": 1,
+    "cost_id": 104,
+    "cost_price": 600,
+    "goods_weight": 300,
+    "reward": {
+      "type": 1,
+      "confId": 105,
+      "num": 300
+    }
+  }, 
+  {
+    "id": 10400010,
+    "name": "矿山钥匙",
+    "goods_type": 1,
+    "cost_id": 103,
+    "cost_price": 12000,
+    "goods_weight": 300,
+    "reward": {
+      "type": 1,
+      "confId": 107,
+      "num": 1
+    }
+  }, 
+  {
+    "id": 10400011,
+    "name": "矿山钥匙",
+    "goods_type": 1,
+    "cost_id": 104,
+    "cost_price": 600,
+    "goods_weight": 300,
+    "reward": {
+      "type": 1,
+      "confId": 107,
+      "num": 1
+    }
+  }, 
+  {
+    "id": 10400012,
+    "name": "神话石",
+    "goods_type": 1,
+    "cost_id": 104,
+    "cost_price": 1000,
+    "goods_weight": 10,
+    "reward": {
+      "type": 1,
+      "confId": 106,
+      "num": 10
+    }
+  }, 
+  {
+    "id": 10400013,
+    "name": "花仙精",
+    "goods_type": 2,
+    "cost_id": 103,
+    "cost_price": 1000,
+    "goods_weight": 200,
+    "reward": {
+      "type": 2,
+      "confId": 201001,
+      "num": 10
+    }
+  }, 
+  {
+    "id": 10400014,
+    "name": "书生",
+    "goods_type": 2,
+    "cost_id": 103,
+    "cost_price": 1000,
+    "goods_weight": 200,
+    "reward": {
+      "type": 2,
+      "confId": 201002,
+      "num": 10
+    }
+  }, 
+  {
+    "id": 10400015,
+    "name": "灞波儿奔",
+    "goods_type": 2,
+    "cost_id": 103,
+    "cost_price": 1000,
+    "goods_weight": 200,
+    "reward": {
+      "type": 2,
+      "confId": 201003,
+      "num": 10
+    }
+  }, 
+  {
+    "id": 10400016,
+    "name": "人参娃",
+    "goods_type": 2,
+    "cost_id": 103,
+    "cost_price": 1000,
+    "goods_weight": 200,
+    "reward": {
+      "type": 2,
+      "confId": 201004,
+      "num": 10
+    }
+  }, 
+  {
+    "id": 10400017,
+    "name": "慢豚豚",
+    "goods_type": 2,
+    "cost_id": 103,
+    "cost_price": 1000,
+    "goods_weight": 200,
+    "reward": {
+      "type": 2,
+      "confId": 201005,
+      "num": 10
+    }
+  }, 
+  {
+    "id": 10400018,
+    "name": "雷震子",
+    "goods_type": 2,
+    "cost_id": 103,
+    "cost_price": 1600,
+    "goods_weight": 200,
+    "reward": {
+      "type": 2,
+      "confId": 201006,
+      "num": 10
+    }
+  }, 
+  {
+    "id": 10400019,
+    "name": "龟丞相",
+    "goods_type": 2,
+    "cost_id": 103,
+    "cost_price": 1600,
+    "goods_weight": 200,
+    "reward": {
+      "type": 2,
+      "confId": 201007,
+      "num": 10
+    }
+  }, 
+  {
+    "id": 10400020,
+    "name": "小吒男",
+    "goods_type": 2,
+    "cost_id": 103,
+    "cost_price": 1600,
+    "goods_weight": 200,
+    "reward": {
+      "type": 2,
+      "confId": 201008,
+      "num": 10
+    }
+  }, 
+  {
+    "id": 10400021,
+    "name": "龙女",
+    "goods_type": 2,
+    "cost_id": 103,
+    "cost_price": 1600,
+    "goods_weight": 200,
+    "reward": {
+      "type": 2,
+      "confId": 201009,
+      "num": 10
+    }
+  }, 
+  {
+    "id": 10400022,
+    "name": "判官",
+    "goods_type": 2,
+    "cost_id": 103,
+    "cost_price": 1600,
+    "goods_weight": 200,
+    "reward": {
+      "type": 2,
+      "confId": 201010,
+      "num": 10
+    }
+  }, 
+  {
+    "id": 10400023,
+    "name": "牛魔王",
+    "goods_type": 2,
+    "cost_id": 103,
+    "cost_price": 2000,
+    "goods_weight": 160,
+    "reward": {
+      "type": 2,
+      "confId": 201011,
+      "num": 3
+    }
+  }, 
+  {
+    "id": 10400024,
+    "name": "花妖",
+    "goods_type": 2,
+    "cost_id": 103,
+    "cost_price": 2000,
+    "goods_weight": 160,
+    "reward": {
+      "type": 2,
+      "confId": 201012,
+      "num": 3
+    }
+  }, 
+  {
+    "id": 10400025,
+    "name": "铁扇公主",
+    "goods_type": 2,
+    "cost_id": 103,
+    "cost_price": 2000,
+    "goods_weight": 160,
+    "reward": {
+      "type": 2,
+      "confId": 201013,
+      "num": 3
+    }
+  }, 
+  {
+    "id": 10400026,
+    "name": "鹤仙人",
+    "goods_type": 2,
+    "cost_id": 103,
+    "cost_price": 2000,
+    "goods_weight": 160,
+    "reward": {
+      "type": 2,
+      "confId": 201014,
+      "num": 3
+    }
+  }, 
+  {
+    "id": 10400027,
+    "name": "八戒",
+    "goods_type": 2,
+    "cost_id": 103,
+    "cost_price": 2000,
+    "goods_weight": 160,
+    "reward": {
+      "type": 2,
+      "confId": 201015,
+      "num": 3
+    }
+  }, 
+  {
+    "id": 10400028,
+    "name": "雷鸣童子",
+    "goods_type": 2,
+    "cost_id": 103,
+    "cost_price": 4000,
+    "goods_weight": 125,
+    "reward": {
+      "type": 2,
+      "confId": 201016,
+      "num": 1
+    }
+  }, 
+  {
+    "id": 10400029,
+    "name": "熊猫战神",
+    "goods_type": 2,
+    "cost_id": 103,
+    "cost_price": 4000,
+    "goods_weight": 125,
+    "reward": {
+      "type": 2,
+      "confId": 201017,
+      "num": 1
+    }
+  }, 
+  {
+    "id": 10400030,
+    "name": "风伯",
+    "goods_type": 2,
+    "cost_id": 103,
+    "cost_price": 4000,
+    "goods_weight": 125,
+    "reward": {
+      "type": 2,
+      "confId": 201018,
+      "num": 1
+    }
+  }, 
+  {
+    "id": 10400031,
+    "name": "应龙",
+    "goods_type": 2,
+    "cost_id": 103,
+    "cost_price": 4000,
+    "goods_weight": 125,
+    "reward": {
+      "type": 2,
+      "confId": 201019,
+      "num": 1
+    }
+  }, 
+  {
+    "id": 10400032,
+    "name": "花仙精",
+    "goods_type": 2,
+    "cost_id": 104,
+    "cost_price": 50,
+    "goods_weight": 200,
+    "reward": {
+      "type": 2,
+      "confId": 201001,
+      "num": 10
+    }
+  }, 
+  {
+    "id": 10400033,
+    "name": "书生",
+    "goods_type": 2,
+    "cost_id": 104,
+    "cost_price": 50,
+    "goods_weight": 200,
+    "reward": {
+      "type": 2,
+      "confId": 201002,
+      "num": 10
+    }
+  }, 
+  {
+    "id": 10400034,
+    "name": "灞波儿奔",
+    "goods_type": 2,
+    "cost_id": 104,
+    "cost_price": 50,
+    "goods_weight": 200,
+    "reward": {
+      "type": 2,
+      "confId": 201003,
+      "num": 10
+    }
+  }, 
+  {
+    "id": 10400035,
+    "name": "人参娃",
+    "goods_type": 2,
+    "cost_id": 104,
+    "cost_price": 50,
+    "goods_weight": 200,
+    "reward": {
+      "type": 2,
+      "confId": 201004,
+      "num": 10
+    }
+  }, 
+  {
+    "id": 10400036,
+    "name": "慢豚豚",
+    "goods_type": 2,
+    "cost_id": 104,
+    "cost_price": 50,
+    "goods_weight": 200,
+    "reward": {
+      "type": 2,
+      "confId": 201005,
+      "num": 10
+    }
+  }, 
+  {
+    "id": 10400037,
+    "name": "雷震子",
+    "goods_type": 2,
+    "cost_id": 104,
+    "cost_price": 80,
+    "goods_weight": 200,
+    "reward": {
+      "type": 2,
+      "confId": 201006,
+      "num": 10
+    }
+  }, 
+  {
+    "id": 10400038,
+    "name": "龟丞相",
+    "goods_type": 2,
+    "cost_id": 104,
+    "cost_price": 80,
+    "goods_weight": 200,
+    "reward": {
+      "type": 2,
+      "confId": 201007,
+      "num": 10
+    }
+  }, 
+  {
+    "id": 10400039,
+    "name": "小吒男",
+    "goods_type": 2,
+    "cost_id": 104,
+    "cost_price": 80,
+    "goods_weight": 200,
+    "reward": {
+      "type": 2,
+      "confId": 201008,
+      "num": 10
+    }
+  }, 
+  {
+    "id": 10400040,
+    "name": "龙女",
+    "goods_type": 2,
+    "cost_id": 104,
+    "cost_price": 80,
+    "goods_weight": 200,
+    "reward": {
+      "type": 2,
+      "confId": 201009,
+      "num": 10
+    }
+  }, 
+  {
+    "id": 10400041,
+    "name": "判官",
+    "goods_type": 2,
+    "cost_id": 104,
+    "cost_price": 80,
+    "goods_weight": 200,
+    "reward": {
+      "type": 2,
+      "confId": 201010,
+      "num": 10
+    }
+  }, 
+  {
+    "id": 10400042,
+    "name": "牛魔王",
+    "goods_type": 2,
+    "cost_id": 104,
+    "cost_price": 100,
+    "goods_weight": 160,
+    "reward": {
+      "type": 2,
+      "confId": 201011,
+      "num": 3
+    }
+  }, 
+  {
+    "id": 10400043,
+    "name": "花妖",
+    "goods_type": 2,
+    "cost_id": 104,
+    "cost_price": 100,
+    "goods_weight": 160,
+    "reward": {
+      "type": 2,
+      "confId": 201012,
+      "num": 3
+    }
+  }, 
+  {
+    "id": 10400044,
+    "name": "铁扇公主",
+    "goods_type": 2,
+    "cost_id": 104,
+    "cost_price": 100,
+    "goods_weight": 160,
+    "reward": {
+      "type": 2,
+      "confId": 201013,
+      "num": 3
+    }
+  }, 
+  {
+    "id": 10400045,
+    "name": "鹤仙人",
+    "goods_type": 2,
+    "cost_id": 104,
+    "cost_price": 100,
+    "goods_weight": 160,
+    "reward": {
+      "type": 2,
+      "confId": 201014,
+      "num": 3
+    }
+  }, 
+  {
+    "id": 10400046,
+    "name": "八戒",
+    "goods_type": 2,
+    "cost_id": 104,
+    "cost_price": 100,
+    "goods_weight": 160,
+    "reward": {
+      "type": 2,
+      "confId": 201015,
+      "num": 3
+    }
+  }, 
+  {
+    "id": 10400047,
+    "name": "雷鸣童子",
+    "goods_type": 2,
+    "cost_id": 104,
+    "cost_price": 200,
+    "goods_weight": 125,
+    "reward": {
+      "type": 2,
+      "confId": 201016,
+      "num": 1
+    }
+  }, 
+  {
+    "id": 10400048,
+    "name": "熊猫战神",
+    "goods_type": 2,
+    "cost_id": 104,
+    "cost_price": 200,
+    "goods_weight": 125,
+    "reward": {
+      "type": 2,
+      "confId": 201017,
+      "num": 1
+    }
+  }, 
+  {
+    "id": 10400049,
+    "name": "风伯",
+    "goods_type": 2,
+    "cost_id": 104,
+    "cost_price": 200,
+    "goods_weight": 125,
+    "reward": {
+      "type": 2,
+      "confId": 201018,
+      "num": 1
+    }
+  }, 
+  {
+    "id": 10400050,
+    "name": "应龙",
+    "goods_type": 2,
+    "cost_id": 104,
+    "cost_price": 200,
+    "goods_weight": 125,
+    "reward": {
+      "type": 2,
+      "confId": 201019,
+      "num": 1
+    }
+  }
+]

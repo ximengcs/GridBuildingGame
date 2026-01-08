@@ -1,0 +1,40 @@
+[
+  {
+    "id": 1,
+    "ads_times": 3
+  }, 
+  {
+    "id": 2,
+    "ads_times": 2
+  }, 
+  {
+    "id": 3,
+    "ads_times": 2
+  }, 
+  {
+    "id": 4,
+    "ads_times": 2
+  }, 
+  {
+    "id": 5
+  }, 
+  {
+    "id": 6,
+    "ads_times": 1
+  }, 
+  {
+    "id": 7,
+    "ads_times": 2
+  }, 
+  {
+    "id": 8
+  }, 
+  {
+    "id": 9,
+    "ads_times": 1
+  }, 
+  {
+    "id": 10,
+    "ads_times": 1
+  }
+]

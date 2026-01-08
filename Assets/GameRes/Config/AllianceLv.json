@@ -1,0 +1,152 @@
+[
+  {
+    "id": 1,
+    "lv_alliance_exp_total": 0,
+    "player_num_max": 40,
+    "science_lv_max": 10,
+    "is_new_good": 1,
+    "vicepresident_num_max": 1,
+    "specialoffer_num_max": 30,
+    "lv_preview_text": "UI_Text_Alliance99"
+  }, 
+  {
+    "id": 2,
+    "lv_alliance_exp_total": 3000,
+    "player_num_max": 42,
+    "science_lv_max": 20,
+    "is_new_good": 0,
+    "vicepresident_num_max": 2,
+    "specialoffer_num_max": 32,
+    "lv_preview_text": "UI_Text_Alliance100"
+  }, 
+  {
+    "id": 3,
+    "lv_alliance_exp_total": 8250,
+    "player_num_max": 44,
+    "science_lv_max": 30,
+    "is_new_good": 1,
+    "vicepresident_num_max": 2,
+    "specialoffer_num_max": 34,
+    "lv_preview_text": "UI_Text_Alliance101"
+  }, 
+  {
+    "id": 4,
+    "lv_alliance_exp_total": 17050,
+    "player_num_max": 46,
+    "science_lv_max": 40,
+    "is_new_good": 0,
+    "vicepresident_num_max": 3,
+    "specialoffer_num_max": 36,
+    "lv_preview_text": "UI_Text_Alliance102"
+  }, 
+  {
+    "id": 5,
+    "lv_alliance_exp_total": 34300,
+    "player_num_max": 48,
+    "science_lv_max": 50,
+    "is_new_good": 1,
+    "vicepresident_num_max": 3,
+    "specialoffer_num_max": 38,
+    "lv_preview_text": "UI_Text_Alliance103"
+  }, 
+  {
+    "id": 6,
+    "lv_alliance_exp_total": 64300,
+    "player_num_max": 50,
+    "science_lv_max": 60,
+    "is_new_good": 0,
+    "vicepresident_num_max": 3,
+    "specialoffer_num_max": 40,
+    "lv_preview_text": "UI_Text_Alliance104"
+  }, 
+  {
+    "id": 7,
+    "lv_alliance_exp_total": 114300,
+    "player_num_max": 52,
+    "science_lv_max": 70,
+    "is_new_good": 1,
+    "vicepresident_num_max": 4,
+    "specialoffer_num_max": 42,
+    "lv_preview_text": "UI_Text_Alliance105"
+  }, 
+  {
+    "id": 8,
+    "lv_alliance_exp_total": 192300,
+    "player_num_max": 54,
+    "science_lv_max": 80,
+    "is_new_good": 0,
+    "vicepresident_num_max": 4,
+    "specialoffer_num_max": 44,
+    "lv_preview_text": "UI_Text_Alliance106"
+  }, 
+  {
+    "id": 9,
+    "lv_alliance_exp_total": 313800,
+    "player_num_max": 56,
+    "science_lv_max": 90,
+    "is_new_good": 1,
+    "vicepresident_num_max": 4,
+    "specialoffer_num_max": 46,
+    "lv_preview_text": "UI_Text_Alliance107"
+  }, 
+  {
+    "id": 10,
+    "lv_alliance_exp_total": 495800,
+    "player_num_max": 58,
+    "science_lv_max": 100,
+    "is_new_good": 1,
+    "vicepresident_num_max": 5,
+    "specialoffer_num_max": 48,
+    "lv_preview_text": "UI_Text_Alliance108"
+  }, 
+  {
+    "id": 11,
+    "lv_alliance_exp_total": 785800,
+    "player_num_max": 60,
+    "science_lv_max": 110,
+    "is_new_good": 1,
+    "vicepresident_num_max": 5,
+    "specialoffer_num_max": 50,
+    "lv_preview_text": "UI_Text_Alliance109"
+  }, 
+  {
+    "id": 12,
+    "lv_alliance_exp_total": 1235800,
+    "player_num_max": 62,
+    "science_lv_max": 120,
+    "is_new_good": 0,
+    "vicepresident_num_max": 5,
+    "specialoffer_num_max": 52,
+    "lv_preview_text": "UI_Text_Alliance110"
+  }, 
+  {
+    "id": 13,
+    "lv_alliance_exp_total": 1933300,
+    "player_num_max": 64,
+    "science_lv_max": 130,
+    "is_new_good": 0,
+    "vicepresident_num_max": 6,
+    "specialoffer_num_max": 54,
+    "lv_preview_text": "UI_Text_Alliance111"
+  }, 
+  {
+    "id": 14,
+    "lv_alliance_exp_total": 2973300,
+    "player_num_max": 66,
+    "science_lv_max": 140,
+    "is_new_good": 0,
+    "vicepresident_num_max": 6,
+    "specialoffer_num_max": 56,
+    "lv_preview_text": "UI_Text_Alliance112"
+  }, 
+  {
+    "id": 15,
+    "lv_alliance_exp_total": 4623300,
+    "player_num_max": 70,
+    "science_lv_max": 150,
+    "is_new_good": 0,
+    "vicepresident_num_max": 6,
+    "specialoffer_num_max": 60,
+    "lv_preview_text": "UI_Text_Alliance113"
+  }
+]

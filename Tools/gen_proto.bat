@@ -1,0 +1,1 @@
+protoc.exe -I../../sg_client_proto --csharp_out=../Assets/Scripts/Gen/Proto ../../sg_client_proto/*.proto

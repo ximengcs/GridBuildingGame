@@ -1,0 +1,4824 @@
+[
+  {
+    "id": 10000,
+    "science_type": 1,
+    "science_lv": 0,
+    "alone": 1000,
+    "special_para": "PhysicalDamage%",
+    "num": 0.000000,
+    "num_total": 0.000000,
+    "need_alliance_lv": 1,
+    "icon": "guild_kj_skill_02"
+  }, 
+  {
+    "id": 10001,
+    "science_type": 1,
+    "science_lv": 1,
+    "alone": 1000,
+    "special_para": "PhysicalDamage%",
+    "num": 0.100000,
+    "num_total": 0.100000,
+    "buy_cost": {
+      "type": 1,
+      "confId": 112,
+      "num": 15
+    },
+    "need_alliance_lv": 1,
+    "icon": "guild_kj_skill_02"
+  }, 
+  {
+    "id": 10002,
+    "science_type": 1,
+    "science_lv": 2,
+    "alone": 1000,
+    "special_para": "PhysicalDamage%",
+    "num": 0.100000,
+    "num_total": 0.200000,
+    "buy_cost": {
+      "type": 1,
+      "confId": 112,
+      "num": 15
+    },
+    "need_alliance_lv": 1,
+    "icon": "guild_kj_skill_02"
+  }, 
+  {
+    "id": 10003,
+    "science_type": 1,
+    "science_lv": 3,
+    "alone": 1000,
+    "special_para": "PhysicalDamage%",
+    "num": 0.100000,
+    "num_total": 0.300000,
+    "buy_cost": {
+      "type": 1,
+      "confId": 112,
+      "num": 15
+    },
+    "need_alliance_lv": 1,
+    "icon": "guild_kj_skill_02"
+  }, 
+  {
+    "id": 10004,
+    "science_type": 1,
+    "science_lv": 4,
+    "alone": 1000,
+    "special_para": "PhysicalDamage%",
+    "num": 0.100000,
+    "num_total": 0.400000,
+    "buy_cost": {
+      "type": 1,
+      "confId": 112,
+      "num": 15
+    },
+    "need_alliance_lv": 1,
+    "icon": "guild_kj_skill_02"
+  }, 
+  {
+    "id": 10005,
+    "science_type": 1,
+    "science_lv": 5,
+    "alone": 1000,
+    "special_para": "PhysicalDamage%",
+    "num": 0.100000,
+    "num_total": 0.500000,
+    "buy_cost": {
+      "type": 1,
+      "confId": 112,
+      "num": 15
+    },
+    "need_alliance_lv": 1,
+    "icon": "guild_kj_skill_02"
+  }, 
+  {
+    "id": 10006,
+    "science_type": 1,
+    "science_lv": 6,
+    "alone": 1000,
+    "special_para": "PhysicalDamage%",
+    "num": 0.100000,
+    "num_total": 0.600000,
+    "buy_cost": {
+      "type": 1,
+      "confId": 112,
+      "num": 15
+    },
+    "need_alliance_lv": 1,
+    "icon": "guild_kj_skill_02"
+  }, 
+  {
+    "id": 10007,
+    "science_type": 1,
+    "science_lv": 7,
+    "alone": 1000,
+    "special_para": "PhysicalDamage%",
+    "num": 0.100000,
+    "num_total": 0.700000,
+    "buy_cost": {
+      "type": 1,
+      "confId": 112,
+      "num": 15
+    },
+    "need_alliance_lv": 1,
+    "icon": "guild_kj_skill_02"
+  }, 
+  {
+    "id": 10008,
+    "science_type": 1,
+    "science_lv": 8,
+    "alone": 1000,
+    "special_para": "PhysicalDamage%",
+    "num": 0.100000,
+    "num_total": 0.800000,
+    "buy_cost": {
+      "type": 1,
+      "confId": 112,
+      "num": 15
+    },
+    "need_alliance_lv": 1,
+    "icon": "guild_kj_skill_02"
+  }, 
+  {
+    "id": 10009,
+    "science_type": 1,
+    "science_lv": 9,
+    "alone": 1000,
+    "special_para": "PhysicalDamage%",
+    "num": 0.100000,
+    "num_total": 0.900000,
+    "buy_cost": {
+      "type": 1,
+      "confId": 112,
+      "num": 15
+    },
+    "need_alliance_lv": 1,
+    "icon": "guild_kj_skill_02"
+  }, 
+  {
+    "id": 10010,
+    "science_type": 1,
+    "science_lv": 10,
+    "alone": 1000,
+    "special_para": "PhysicalDamage%",
+    "num": 0.100000,
+    "num_total": 1.000000,
+    "buy_cost": {
+      "type": 1,
+      "confId": 112,
+      "num": 15
+    },
+    "need_alliance_lv": 1,
+    "icon": "guild_kj_skill_02"
+  }, 
+  {
+    "id": 10011,
+    "science_type": 1,
+    "science_lv": 11,
+    "alone": 1000,
+    "special_para": "PhysicalDamage%",
+    "num": 0.100000,
+    "num_total": 1.100000,
+    "buy_cost": {
+      "type": 1,
+      "confId": 112,
+      "num": 30
+    },
+    "need_alliance_lv": 1,
+    "icon": "guild_kj_skill_02"
+  }, 
+  {
+    "id": 10012,
+    "science_type": 1,
+    "science_lv": 12,
+    "alone": 1000,
+    "special_para": "PhysicalDamage%",
+    "num": 0.100000,
+    "num_total": 1.200000,
+    "buy_cost": {
+      "type": 1,
+      "confId": 112,
+      "num": 30
+    },
+    "need_alliance_lv": 1,
+    "icon": "guild_kj_skill_02"
+  }, 
+  {
+    "id": 10013,
+    "science_type": 1,
+    "science_lv": 13,
+    "alone": 1000,
+    "special_para": "PhysicalDamage%",
+    "num": 0.100000,
+    "num_total": 1.300000,
+    "buy_cost": {
+      "type": 1,
+      "confId": 112,
+      "num": 30
+    },
+    "need_alliance_lv": 1,
+    "icon": "guild_kj_skill_02"
+  }, 
+  {
+    "id": 10014,
+    "science_type": 1,
+    "science_lv": 14,
+    "alone": 1000,
+    "special_para": "PhysicalDamage%",
+    "num": 0.100000,
+    "num_total": 1.400000,
+    "buy_cost": {
+      "type": 1,
+      "confId": 112,
+      "num": 30
+    },
+    "need_alliance_lv": 1,
+    "icon": "guild_kj_skill_02"
+  }, 
+  {
+    "id": 10015,
+    "science_type": 1,
+    "science_lv": 15,
+    "alone": 1000,
+    "special_para": "PhysicalDamage%",
+    "num": 0.100000,
+    "num_total": 1.500000,
+    "buy_cost": {
+      "type": 1,
+      "confId": 112,
+      "num": 30
+    },
+    "need_alliance_lv": 1,
+    "icon": "guild_kj_skill_02"
+  }, 
+  {
+    "id": 10016,
+    "science_type": 1,
+    "science_lv": 16,
+    "alone": 1000,
+    "special_para": "PhysicalDamage%",
+    "num": 0.100000,
+    "num_total": 1.600000,
+    "buy_cost": {
+      "type": 1,
+      "confId": 112,
+      "num": 30
+    },
+    "need_alliance_lv": 1,
+    "icon": "guild_kj_skill_02"
+  }, 
+  {
+    "id": 10017,
+    "science_type": 1,
+    "science_lv": 17,
+    "alone": 1000,
+    "special_para": "PhysicalDamage%",
+    "num": 0.100000,
+    "num_total": 1.700000,
+    "buy_cost": {
+      "type": 1,
+      "confId": 112,
+      "num": 30
+    },
+    "need_alliance_lv": 1,
+    "icon": "guild_kj_skill_02"
+  }, 
+  {
+    "id": 10018,
+    "science_type": 1,
+    "science_lv": 18,
+    "alone": 1000,
+    "special_para": "PhysicalDamage%",
+    "num": 0.100000,
+    "num_total": 1.800000,
+    "buy_cost": {
+      "type": 1,
+      "confId": 112,
+      "num": 30
+    },
+    "need_alliance_lv": 1,
+    "icon": "guild_kj_skill_02"
+  }, 
+  {
+    "id": 10019,
+    "science_type": 1,
+    "science_lv": 19,
+    "alone": 1000,
+    "special_para": "PhysicalDamage%",
+    "num": 0.100000,
+    "num_total": 1.900000,
+    "buy_cost": {
+      "type": 1,
+      "confId": 112,
+      "num": 30
+    },
+    "need_alliance_lv": 1,
+    "icon": "guild_kj_skill_02"
+  }, 
+  {
+    "id": 10020,
+    "science_type": 1,
+    "science_lv": 20,
+    "alone": 1000,
+    "special_para": "PhysicalDamage%",
+    "num": 0.100000,
+    "num_total": 2.000000,
+    "buy_cost": {
+      "type": 1,
+      "confId": 112,
+      "num": 30
+    },
+    "need_alliance_lv": 1,
+    "icon": "guild_kj_skill_02"
+  }, 
+  {
+    "id": 10021,
+    "science_type": 1,
+    "science_lv": 21,
+    "alone": 1000,
+    "special_para": "PhysicalDamage%",
+    "num": 0.100000,
+    "num_total": 2.100000,
+    "buy_cost": {
+      "type": 1,
+      "confId": 112,
+      "num": 40
+    },
+    "need_alliance_lv": 1,
+    "icon": "guild_kj_skill_02"
+  }, 
+  {
+    "id": 10022,
+    "science_type": 1,
+    "science_lv": 22,
+    "alone": 1000,
+    "special_para": "PhysicalDamage%",
+    "num": 0.100000,
+    "num_total": 2.200000,
+    "buy_cost": {
+      "type": 1,
+      "confId": 112,
+      "num": 40
+    },
+    "need_alliance_lv": 1,
+    "icon": "guild_kj_skill_02"
+  }, 
+  {
+    "id": 10023,
+    "science_type": 1,
+    "science_lv": 23,
+    "alone": 1000,
+    "special_para": "PhysicalDamage%",
+    "num": 0.100000,
+    "num_total": 2.300000,
+    "buy_cost": {
+      "type": 1,
+      "confId": 112,
+      "num": 40
+    },
+    "need_alliance_lv": 1,
+    "icon": "guild_kj_skill_02"
+  }, 
+  {
+    "id": 10024,
+    "science_type": 1,
+    "science_lv": 24,
+    "alone": 1000,
+    "special_para": "PhysicalDamage%",
+    "num": 0.100000,
+    "num_total": 2.400000,
+    "buy_cost": {
+      "type": 1,
+      "confId": 112,
+      "num": 40
+    },
+    "need_alliance_lv": 1,
+    "icon": "guild_kj_skill_02"
+  }, 
+  {
+    "id": 10025,
+    "science_type": 1,
+    "science_lv": 25,
+    "alone": 1000,
+    "special_para": "PhysicalDamage%",
+    "num": 0.100000,
+    "num_total": 2.500000,
+    "buy_cost": {
+      "type": 1,
+      "confId": 112,
+      "num": 40
+    },
+    "need_alliance_lv": 1,
+    "icon": "guild_kj_skill_02"
+  }, 
+  {
+    "id": 10026,
+    "science_type": 1,
+    "science_lv": 26,
+    "alone": 1000,
+    "special_para": "PhysicalDamage%",
+    "num": 0.100000,
+    "num_total": 2.600000,
+    "buy_cost": {
+      "type": 1,
+      "confId": 112,
+      "num": 40
+    },
+    "need_alliance_lv": 1,
+    "icon": "guild_kj_skill_02"
+  }, 
+  {
+    "id": 10027,
+    "science_type": 1,
+    "science_lv": 27,
+    "alone": 1000,
+    "special_para": "PhysicalDamage%",
+    "num": 0.100000,
+    "num_total": 2.700000,
+    "buy_cost": {
+      "type": 1,
+      "confId": 112,
+      "num": 40
+    },
+    "need_alliance_lv": 1,
+    "icon": "guild_kj_skill_02"
+  }, 
+  {
+    "id": 10028,
+    "science_type": 1,
+    "science_lv": 28,
+    "alone": 1000,
+    "special_para": "PhysicalDamage%",
+    "num": 0.100000,
+    "num_total": 2.800000,
+    "buy_cost": {
+      "type": 1,
+      "confId": 112,
+      "num": 40
+    },
+    "need_alliance_lv": 1,
+    "icon": "guild_kj_skill_02"
+  }, 
+  {
+    "id": 10029,
+    "science_type": 1,
+    "science_lv": 29,
+    "alone": 1000,
+    "special_para": "PhysicalDamage%",
+    "num": 0.100000,
+    "num_total": 2.900000,
+    "buy_cost": {
+      "type": 1,
+      "confId": 112,
+      "num": 40
+    },
+    "need_alliance_lv": 1,
+    "icon": "guild_kj_skill_02"
+  }, 
+  {
+    "id": 10030,
+    "science_type": 1,
+    "science_lv": 30,
+    "alone": 1000,
+    "special_para": "PhysicalDamage%",
+    "num": 0.100000,
+    "num_total": 3.000000,
+    "buy_cost": {
+      "type": 1,
+      "confId": 112,
+      "num": 40
+    },
+    "need_alliance_lv": 1,
+    "icon": "guild_kj_skill_02"
+  }, 
+  {
+    "id": 10031,
+    "science_type": 1,
+    "science_lv": 31,
+    "alone": 1000,
+    "special_para": "PhysicalDamage%",
+    "num": 0.100000,
+    "num_total": 3.100000,
+    "buy_cost": {
+      "type": 1,
+      "confId": 112,
+      "num": 50
+    },
+    "need_alliance_lv": 1,
+    "icon": "guild_kj_skill_02"
+  }, 
+  {
+    "id": 10032,
+    "science_type": 1,
+    "science_lv": 32,
+    "alone": 1000,
+    "special_para": "PhysicalDamage%",
+    "num": 0.100000,
+    "num_total": 3.200000,
+    "buy_cost": {
+      "type": 1,
+      "confId": 112,
+      "num": 50
+    },
+    "need_alliance_lv": 1,
+    "icon": "guild_kj_skill_02"
+  }, 
+  {
+    "id": 10033,
+    "science_type": 1,
+    "science_lv": 33,
+    "alone": 1000,
+    "special_para": "PhysicalDamage%",
+    "num": 0.100000,
+    "num_total": 3.300000,
+    "buy_cost": {
+      "type": 1,
+      "confId": 112,
+      "num": 50
+    },
+    "need_alliance_lv": 1,
+    "icon": "guild_kj_skill_02"
+  }, 
+  {
+    "id": 10034,
+    "science_type": 1,
+    "science_lv": 34,
+    "alone": 1000,
+    "special_para": "PhysicalDamage%",
+    "num": 0.100000,
+    "num_total": 3.400000,
+    "buy_cost": {
+      "type": 1,
+      "confId": 112,
+      "num": 50
+    },
+    "need_alliance_lv": 1,
+    "icon": "guild_kj_skill_02"
+  }, 
+  {
+    "id": 10035,
+    "science_type": 1,
+    "science_lv": 35,
+    "alone": 1000,
+    "special_para": "PhysicalDamage%",
+    "num": 0.100000,
+    "num_total": 3.500000,
+    "buy_cost": {
+      "type": 1,
+      "confId": 112,
+      "num": 50
+    },
+    "need_alliance_lv": 1,
+    "icon": "guild_kj_skill_02"
+  }, 
+  {
+    "id": 10036,
+    "science_type": 1,
+    "science_lv": 36,
+    "alone": 1000,
+    "special_para": "PhysicalDamage%",
+    "num": 0.100000,
+    "num_total": 3.600000,
+    "buy_cost": {
+      "type": 1,
+      "confId": 112,
+      "num": 50
+    },
+    "need_alliance_lv": 1,
+    "icon": "guild_kj_skill_02"
+  }, 
+  {
+    "id": 10037,
+    "science_type": 1,
+    "science_lv": 37,
+    "alone": 1000,
+    "special_para": "PhysicalDamage%",
+    "num": 0.100000,
+    "num_total": 3.700000,
+    "buy_cost": {
+      "type": 1,
+      "confId": 112,
+      "num": 50
+    },
+    "need_alliance_lv": 1,
+    "icon": "guild_kj_skill_02"
+  }, 
+  {
+    "id": 10038,
+    "science_type": 1,
+    "science_lv": 38,
+    "alone": 1000,
+    "special_para": "PhysicalDamage%",
+    "num": 0.100000,
+    "num_total": 3.800000,
+    "buy_cost": {
+      "type": 1,
+      "confId": 112,
+      "num": 50
+    },
+    "need_alliance_lv": 1,
+    "icon": "guild_kj_skill_02"
+  }, 
+  {
+    "id": 10039,
+    "science_type": 1,
+    "science_lv": 39,
+    "alone": 1000,
+    "special_para": "PhysicalDamage%",
+    "num": 0.100000,
+    "num_total": 3.900000,
+    "buy_cost": {
+      "type": 1,
+      "confId": 112,
+      "num": 50
+    },
+    "need_alliance_lv": 1,
+    "icon": "guild_kj_skill_02"
+  }, 
+  {
+    "id": 10040,
+    "science_type": 1,
+    "science_lv": 40,
+    "alone": 1000,
+    "special_para": "PhysicalDamage%",
+    "num": 0.100000,
+    "num_total": 4.000000,
+    "buy_cost": {
+      "type": 1,
+      "confId": 112,
+      "num": 50
+    },
+    "need_alliance_lv": 1,
+    "icon": "guild_kj_skill_02"
+  }, 
+  {
+    "id": 10041,
+    "science_type": 1,
+    "science_lv": 41,
+    "alone": 1000,
+    "special_para": "PhysicalDamage%",
+    "num": 0.100000,
+    "num_total": 4.100000,
+    "buy_cost": {
+      "type": 1,
+      "confId": 112,
+      "num": 60
+    },
+    "need_alliance_lv": 1,
+    "icon": "guild_kj_skill_02"
+  }, 
+  {
+    "id": 10042,
+    "science_type": 1,
+    "science_lv": 42,
+    "alone": 1000,
+    "special_para": "PhysicalDamage%",
+    "num": 0.100000,
+    "num_total": 4.200000,
+    "buy_cost": {
+      "type": 1,
+      "confId": 112,
+      "num": 60
+    },
+    "need_alliance_lv": 1,
+    "icon": "guild_kj_skill_02"
+  }, 
+  {
+    "id": 10043,
+    "science_type": 1,
+    "science_lv": 43,
+    "alone": 1000,
+    "special_para": "PhysicalDamage%",
+    "num": 0.100000,
+    "num_total": 4.300000,
+    "buy_cost": {
+      "type": 1,
+      "confId": 112,
+      "num": 60
+    },
+    "need_alliance_lv": 1,
+    "icon": "guild_kj_skill_02"
+  }, 
+  {
+    "id": 10044,
+    "science_type": 1,
+    "science_lv": 44,
+    "alone": 1000,
+    "special_para": "PhysicalDamage%",
+    "num": 0.100000,
+    "num_total": 4.400000,
+    "buy_cost": {
+      "type": 1,
+      "confId": 112,
+      "num": 60
+    },
+    "need_alliance_lv": 1,
+    "icon": "guild_kj_skill_02"
+  }, 
+  {
+    "id": 10045,
+    "science_type": 1,
+    "science_lv": 45,
+    "alone": 1000,
+    "special_para": "PhysicalDamage%",
+    "num": 0.100000,
+    "num_total": 4.500000,
+    "buy_cost": {
+      "type": 1,
+      "confId": 112,
+      "num": 60
+    },
+    "need_alliance_lv": 1,
+    "icon": "guild_kj_skill_02"
+  }, 
+  {
+    "id": 10046,
+    "science_type": 1,
+    "science_lv": 46,
+    "alone": 1000,
+    "special_para": "PhysicalDamage%",
+    "num": 0.100000,
+    "num_total": 4.600000,
+    "buy_cost": {
+      "type": 1,
+      "confId": 112,
+      "num": 60
+    },
+    "need_alliance_lv": 1,
+    "icon": "guild_kj_skill_02"
+  }, 
+  {
+    "id": 10047,
+    "science_type": 1,
+    "science_lv": 47,
+    "alone": 1000,
+    "special_para": "PhysicalDamage%",
+    "num": 0.100000,
+    "num_total": 4.700000,
+    "buy_cost": {
+      "type": 1,
+      "confId": 112,
+      "num": 60
+    },
+    "need_alliance_lv": 1,
+    "icon": "guild_kj_skill_02"
+  }, 
+  {
+    "id": 10048,
+    "science_type": 1,
+    "science_lv": 48,
+    "alone": 1000,
+    "special_para": "PhysicalDamage%",
+    "num": 0.100000,
+    "num_total": 4.800000,
+    "buy_cost": {
+      "type": 1,
+      "confId": 112,
+      "num": 60
+    },
+    "need_alliance_lv": 1,
+    "icon": "guild_kj_skill_02"
+  }, 
+  {
+    "id": 10049,
+    "science_type": 1,
+    "science_lv": 49,
+    "alone": 1000,
+    "special_para": "PhysicalDamage%",
+    "num": 0.100000,
+    "num_total": 4.900000,
+    "buy_cost": {
+      "type": 1,
+      "confId": 112,
+      "num": 60
+    },
+    "need_alliance_lv": 1,
+    "icon": "guild_kj_skill_02"
+  }, 
+  {
+    "id": 10050,
+    "science_type": 1,
+    "science_lv": 50,
+    "alone": 1000,
+    "special_para": "PhysicalDamage%",
+    "num": 0.100000,
+    "num_total": 5.000000,
+    "buy_cost": {
+      "type": 1,
+      "confId": 112,
+      "num": 60
+    },
+    "need_alliance_lv": 1,
+    "icon": "guild_kj_skill_02"
+  }, 
+  {
+    "id": 10051,
+    "science_type": 1,
+    "science_lv": 51,
+    "alone": 1000,
+    "special_para": "PhysicalDamage%",
+    "num": 0.200000,
+    "num_total": 5.200000,
+    "buy_cost": {
+      "type": 1,
+      "confId": 112,
+      "num": 75
+    },
+    "need_alliance_lv": 1,
+    "icon": "guild_kj_skill_02"
+  }, 
+  {
+    "id": 10052,
+    "science_type": 1,
+    "science_lv": 52,
+    "alone": 1000,
+    "special_para": "PhysicalDamage%",
+    "num": 0.200000,
+    "num_total": 5.400000,
+    "buy_cost": {
+      "type": 1,
+      "confId": 112,
+      "num": 75
+    },
+    "need_alliance_lv": 1,
+    "icon": "guild_kj_skill_02"
+  }, 
+  {
+    "id": 10053,
+    "science_type": 1,
+    "science_lv": 53,
+    "alone": 1000,
+    "special_para": "PhysicalDamage%",
+    "num": 0.200000,
+    "num_total": 5.600000,
+    "buy_cost": {
+      "type": 1,
+      "confId": 112,
+      "num": 75
+    },
+    "need_alliance_lv": 1,
+    "icon": "guild_kj_skill_02"
+  }, 
+  {
+    "id": 10054,
+    "science_type": 1,
+    "science_lv": 54,
+    "alone": 1000,
+    "special_para": "PhysicalDamage%",
+    "num": 0.200000,
+    "num_total": 5.800000,
+    "buy_cost": {
+      "type": 1,
+      "confId": 112,
+      "num": 75
+    },
+    "need_alliance_lv": 1,
+    "icon": "guild_kj_skill_02"
+  }, 
+  {
+    "id": 10055,
+    "science_type": 1,
+    "science_lv": 55,
+    "alone": 1000,
+    "special_para": "PhysicalDamage%",
+    "num": 0.200000,
+    "num_total": 6.000000,
+    "buy_cost": {
+      "type": 1,
+      "confId": 112,
+      "num": 75
+    },
+    "need_alliance_lv": 1,
+    "icon": "guild_kj_skill_02"
+  }, 
+  {
+    "id": 10056,
+    "science_type": 1,
+    "science_lv": 56,
+    "alone": 1000,
+    "special_para": "PhysicalDamage%",
+    "num": 0.200000,
+    "num_total": 6.200000,
+    "buy_cost": {
+      "type": 1,
+      "confId": 112,
+      "num": 75
+    },
+    "need_alliance_lv": 1,
+    "icon": "guild_kj_skill_02"
+  }, 
+  {
+    "id": 10057,
+    "science_type": 1,
+    "science_lv": 57,
+    "alone": 1000,
+    "special_para": "PhysicalDamage%",
+    "num": 0.200000,
+    "num_total": 6.400000,
+    "buy_cost": {
+      "type": 1,
+      "confId": 112,
+      "num": 75
+    },
+    "need_alliance_lv": 1,
+    "icon": "guild_kj_skill_02"
+  }, 
+  {
+    "id": 10058,
+    "science_type": 1,
+    "science_lv": 58,
+    "alone": 1000,
+    "special_para": "PhysicalDamage%",
+    "num": 0.200000,
+    "num_total": 6.600000,
+    "buy_cost": {
+      "type": 1,
+      "confId": 112,
+      "num": 75
+    },
+    "need_alliance_lv": 1,
+    "icon": "guild_kj_skill_02"
+  }, 
+  {
+    "id": 10059,
+    "science_type": 1,
+    "science_lv": 59,
+    "alone": 1000,
+    "special_para": "PhysicalDamage%",
+    "num": 0.200000,
+    "num_total": 6.800000,
+    "buy_cost": {
+      "type": 1,
+      "confId": 112,
+      "num": 75
+    },
+    "need_alliance_lv": 1,
+    "icon": "guild_kj_skill_02"
+  }, 
+  {
+    "id": 10060,
+    "science_type": 1,
+    "science_lv": 60,
+    "alone": 1000,
+    "special_para": "PhysicalDamage%",
+    "num": 0.200000,
+    "num_total": 7.000000,
+    "buy_cost": {
+      "type": 1,
+      "confId": 112,
+      "num": 75
+    },
+    "need_alliance_lv": 1,
+    "icon": "guild_kj_skill_02"
+  }, 
+  {
+    "id": 10061,
+    "science_type": 1,
+    "science_lv": 61,
+    "alone": 1000,
+    "special_para": "PhysicalDamage%",
+    "num": 0.200000,
+    "num_total": 7.200000,
+    "buy_cost": {
+      "type": 1,
+      "confId": 112,
+      "num": 70
+    },
+    "need_alliance_lv": 1,
+    "icon": "guild_kj_skill_02"
+  }, 
+  {
+    "id": 10062,
+    "science_type": 1,
+    "science_lv": 62,
+    "alone": 1000,
+    "special_para": "PhysicalDamage%",
+    "num": 0.200000,
+    "num_total": 7.400000,
+    "buy_cost": {
+      "type": 1,
+      "confId": 112,
+      "num": 70
+    },
+    "need_alliance_lv": 1,
+    "icon": "guild_kj_skill_02"
+  }, 
+  {
+    "id": 10063,
+    "science_type": 1,
+    "science_lv": 63,
+    "alone": 1000,
+    "special_para": "PhysicalDamage%",
+    "num": 0.200000,
+    "num_total": 7.600000,
+    "buy_cost": {
+      "type": 1,
+      "confId": 112,
+      "num": 70
+    },
+    "need_alliance_lv": 1,
+    "icon": "guild_kj_skill_02"
+  }, 
+  {
+    "id": 10064,
+    "science_type": 1,
+    "science_lv": 64,
+    "alone": 1000,
+    "special_para": "PhysicalDamage%",
+    "num": 0.200000,
+    "num_total": 7.800000,
+    "buy_cost": {
+      "type": 1,
+      "confId": 112,
+      "num": 70
+    },
+    "need_alliance_lv": 1,
+    "icon": "guild_kj_skill_02"
+  }, 
+  {
+    "id": 10065,
+    "science_type": 1,
+    "science_lv": 65,
+    "alone": 1000,
+    "special_para": "PhysicalDamage%",
+    "num": 0.200000,
+    "num_total": 8.000000,
+    "buy_cost": {
+      "type": 1,
+      "confId": 112,
+      "num": 70
+    },
+    "need_alliance_lv": 1,
+    "icon": "guild_kj_skill_02"
+  }, 
+  {
+    "id": 10066,
+    "science_type": 1,
+    "science_lv": 66,
+    "alone": 1000,
+    "special_para": "PhysicalDamage%",
+    "num": 0.200000,
+    "num_total": 8.200000,
+    "buy_cost": {
+      "type": 1,
+      "confId": 112,
+      "num": 70
+    },
+    "need_alliance_lv": 1,
+    "icon": "guild_kj_skill_02"
+  }, 
+  {
+    "id": 10067,
+    "science_type": 1,
+    "science_lv": 67,
+    "alone": 1000,
+    "special_para": "PhysicalDamage%",
+    "num": 0.200000,
+    "num_total": 8.400000,
+    "buy_cost": {
+      "type": 1,
+      "confId": 112,
+      "num": 70
+    },
+    "need_alliance_lv": 1,
+    "icon": "guild_kj_skill_02"
+  }, 
+  {
+    "id": 10068,
+    "science_type": 1,
+    "science_lv": 68,
+    "alone": 1000,
+    "special_para": "PhysicalDamage%",
+    "num": 0.200000,
+    "num_total": 8.600000,
+    "buy_cost": {
+      "type": 1,
+      "confId": 112,
+      "num": 70
+    },
+    "need_alliance_lv": 1,
+    "icon": "guild_kj_skill_02"
+  }, 
+  {
+    "id": 10069,
+    "science_type": 1,
+    "science_lv": 69,
+    "alone": 1000,
+    "special_para": "PhysicalDamage%",
+    "num": 0.200000,
+    "num_total": 8.800000,
+    "buy_cost": {
+      "type": 1,
+      "confId": 112,
+      "num": 70
+    },
+    "need_alliance_lv": 1,
+    "icon": "guild_kj_skill_02"
+  }, 
+  {
+    "id": 10070,
+    "science_type": 1,
+    "science_lv": 70,
+    "alone": 1000,
+    "special_para": "PhysicalDamage%",
+    "num": 0.200000,
+    "num_total": 9.000000,
+    "buy_cost": {
+      "type": 1,
+      "confId": 112,
+      "num": 70
+    },
+    "need_alliance_lv": 1,
+    "icon": "guild_kj_skill_02"
+  }, 
+  {
+    "id": 10071,
+    "science_type": 1,
+    "science_lv": 71,
+    "alone": 1000,
+    "special_para": "PhysicalDamage%",
+    "num": 0.200000,
+    "num_total": 9.200000,
+    "buy_cost": {
+      "type": 1,
+      "confId": 112,
+      "num": 110
+    },
+    "need_alliance_lv": 1,
+    "icon": "guild_kj_skill_02"
+  }, 
+  {
+    "id": 10072,
+    "science_type": 1,
+    "science_lv": 72,
+    "alone": 1000,
+    "special_para": "PhysicalDamage%",
+    "num": 0.200000,
+    "num_total": 9.400000,
+    "buy_cost": {
+      "type": 1,
+      "confId": 112,
+      "num": 110
+    },
+    "need_alliance_lv": 1,
+    "icon": "guild_kj_skill_02"
+  }, 
+  {
+    "id": 10073,
+    "science_type": 1,
+    "science_lv": 73,
+    "alone": 1000,
+    "special_para": "PhysicalDamage%",
+    "num": 0.200000,
+    "num_total": 9.600000,
+    "buy_cost": {
+      "type": 1,
+      "confId": 112,
+      "num": 110
+    },
+    "need_alliance_lv": 1,
+    "icon": "guild_kj_skill_02"
+  }, 
+  {
+    "id": 10074,
+    "science_type": 1,
+    "science_lv": 74,
+    "alone": 1000,
+    "special_para": "PhysicalDamage%",
+    "num": 0.200000,
+    "num_total": 9.800000,
+    "buy_cost": {
+      "type": 1,
+      "confId": 112,
+      "num": 110
+    },
+    "need_alliance_lv": 1,
+    "icon": "guild_kj_skill_02"
+  }, 
+  {
+    "id": 10075,
+    "science_type": 1,
+    "science_lv": 75,
+    "alone": 1000,
+    "special_para": "PhysicalDamage%",
+    "num": 0.200000,
+    "num_total": 10.000000,
+    "buy_cost": {
+      "type": 1,
+      "confId": 112,
+      "num": 110
+    },
+    "need_alliance_lv": 1,
+    "icon": "guild_kj_skill_02"
+  }, 
+  {
+    "id": 10076,
+    "science_type": 1,
+    "science_lv": 76,
+    "alone": 1000,
+    "special_para": "PhysicalDamage%",
+    "num": 0.200000,
+    "num_total": 10.200000,
+    "buy_cost": {
+      "type": 1,
+      "confId": 112,
+      "num": 110
+    },
+    "need_alliance_lv": 1,
+    "icon": "guild_kj_skill_02"
+  }, 
+  {
+    "id": 10077,
+    "science_type": 1,
+    "science_lv": 77,
+    "alone": 1000,
+    "special_para": "PhysicalDamage%",
+    "num": 0.200000,
+    "num_total": 10.400000,
+    "buy_cost": {
+      "type": 1,
+      "confId": 112,
+      "num": 110
+    },
+    "need_alliance_lv": 1,
+    "icon": "guild_kj_skill_02"
+  }, 
+  {
+    "id": 10078,
+    "science_type": 1,
+    "science_lv": 78,
+    "alone": 1000,
+    "special_para": "PhysicalDamage%",
+    "num": 0.200000,
+    "num_total": 10.600000,
+    "buy_cost": {
+      "type": 1,
+      "confId": 112,
+      "num": 110
+    },
+    "need_alliance_lv": 1,
+    "icon": "guild_kj_skill_02"
+  }, 
+  {
+    "id": 10079,
+    "science_type": 1,
+    "science_lv": 79,
+    "alone": 1000,
+    "special_para": "PhysicalDamage%",
+    "num": 0.200000,
+    "num_total": 10.800000,
+    "buy_cost": {
+      "type": 1,
+      "confId": 112,
+      "num": 110
+    },
+    "need_alliance_lv": 1,
+    "icon": "guild_kj_skill_02"
+  }, 
+  {
+    "id": 10080,
+    "science_type": 1,
+    "science_lv": 80,
+    "alone": 1000,
+    "special_para": "PhysicalDamage%",
+    "num": 0.200000,
+    "num_total": 11.000000,
+    "buy_cost": {
+      "type": 1,
+      "confId": 112,
+      "num": 110
+    },
+    "need_alliance_lv": 1,
+    "icon": "guild_kj_skill_02"
+  }, 
+  {
+    "id": 10081,
+    "science_type": 1,
+    "science_lv": 81,
+    "alone": 1000,
+    "special_para": "PhysicalDamage%",
+    "num": 0.200000,
+    "num_total": 11.200000,
+    "buy_cost": {
+      "type": 1,
+      "confId": 112,
+      "num": 195
+    },
+    "need_alliance_lv": 1,
+    "icon": "guild_kj_skill_02"
+  }, 
+  {
+    "id": 10082,
+    "science_type": 1,
+    "science_lv": 82,
+    "alone": 1000,
+    "special_para": "PhysicalDamage%",
+    "num": 0.200000,
+    "num_total": 11.400000,
+    "buy_cost": {
+      "type": 1,
+      "confId": 112,
+      "num": 195
+    },
+    "need_alliance_lv": 1,
+    "icon": "guild_kj_skill_02"
+  }, 
+  {
+    "id": 10083,
+    "science_type": 1,
+    "science_lv": 83,
+    "alone": 1000,
+    "special_para": "PhysicalDamage%",
+    "num": 0.200000,
+    "num_total": 11.600000,
+    "buy_cost": {
+      "type": 1,
+      "confId": 112,
+      "num": 195
+    },
+    "need_alliance_lv": 1,
+    "icon": "guild_kj_skill_02"
+  }, 
+  {
+    "id": 10084,
+    "science_type": 1,
+    "science_lv": 84,
+    "alone": 1000,
+    "special_para": "PhysicalDamage%",
+    "num": 0.200000,
+    "num_total": 11.800000,
+    "buy_cost": {
+      "type": 1,
+      "confId": 112,
+      "num": 195
+    },
+    "need_alliance_lv": 1,
+    "icon": "guild_kj_skill_02"
+  }, 
+  {
+    "id": 10085,
+    "science_type": 1,
+    "science_lv": 85,
+    "alone": 1000,
+    "special_para": "PhysicalDamage%",
+    "num": 0.200000,
+    "num_total": 12.000000,
+    "buy_cost": {
+      "type": 1,
+      "confId": 112,
+      "num": 195
+    },
+    "need_alliance_lv": 1,
+    "icon": "guild_kj_skill_02"
+  }, 
+  {
+    "id": 10086,
+    "science_type": 1,
+    "science_lv": 86,
+    "alone": 1000,
+    "special_para": "PhysicalDamage%",
+    "num": 0.200000,
+    "num_total": 12.200000,
+    "buy_cost": {
+      "type": 1,
+      "confId": 112,
+      "num": 195
+    },
+    "need_alliance_lv": 1,
+    "icon": "guild_kj_skill_02"
+  }, 
+  {
+    "id": 10087,
+    "science_type": 1,
+    "science_lv": 87,
+    "alone": 1000,
+    "special_para": "PhysicalDamage%",
+    "num": 0.200000,
+    "num_total": 12.400000,
+    "buy_cost": {
+      "type": 1,
+      "confId": 112,
+      "num": 195
+    },
+    "need_alliance_lv": 1,
+    "icon": "guild_kj_skill_02"
+  }, 
+  {
+    "id": 10088,
+    "science_type": 1,
+    "science_lv": 88,
+    "alone": 1000,
+    "special_para": "PhysicalDamage%",
+    "num": 0.200000,
+    "num_total": 12.600000,
+    "buy_cost": {
+      "type": 1,
+      "confId": 112,
+      "num": 195
+    },
+    "need_alliance_lv": 1,
+    "icon": "guild_kj_skill_02"
+  }, 
+  {
+    "id": 10089,
+    "science_type": 1,
+    "science_lv": 89,
+    "alone": 1000,
+    "special_para": "PhysicalDamage%",
+    "num": 0.200000,
+    "num_total": 12.800000,
+    "buy_cost": {
+      "type": 1,
+      "confId": 112,
+      "num": 195
+    },
+    "need_alliance_lv": 1,
+    "icon": "guild_kj_skill_02"
+  }, 
+  {
+    "id": 10090,
+    "science_type": 1,
+    "science_lv": 90,
+    "alone": 1000,
+    "special_para": "PhysicalDamage%",
+    "num": 0.200000,
+    "num_total": 13.000000,
+    "buy_cost": {
+      "type": 1,
+      "confId": 112,
+      "num": 195
+    },
+    "need_alliance_lv": 1,
+    "icon": "guild_kj_skill_02"
+  }, 
+  {
+    "id": 10091,
+    "science_type": 1,
+    "science_lv": 91,
+    "alone": 1000,
+    "special_para": "PhysicalDamage%",
+    "num": 0.200000,
+    "num_total": 13.200000,
+    "buy_cost": {
+      "type": 1,
+      "confId": 112,
+      "num": 360
+    },
+    "need_alliance_lv": 1,
+    "icon": "guild_kj_skill_02"
+  }, 
+  {
+    "id": 10092,
+    "science_type": 1,
+    "science_lv": 92,
+    "alone": 1000,
+    "special_para": "PhysicalDamage%",
+    "num": 0.200000,
+    "num_total": 13.400000,
+    "buy_cost": {
+      "type": 1,
+      "confId": 112,
+      "num": 360
+    },
+    "need_alliance_lv": 1,
+    "icon": "guild_kj_skill_02"
+  }, 
+  {
+    "id": 10093,
+    "science_type": 1,
+    "science_lv": 93,
+    "alone": 1000,
+    "special_para": "PhysicalDamage%",
+    "num": 0.200000,
+    "num_total": 13.600000,
+    "buy_cost": {
+      "type": 1,
+      "confId": 112,
+      "num": 360
+    },
+    "need_alliance_lv": 1,
+    "icon": "guild_kj_skill_02"
+  }, 
+  {
+    "id": 10094,
+    "science_type": 1,
+    "science_lv": 94,
+    "alone": 1000,
+    "special_para": "PhysicalDamage%",
+    "num": 0.200000,
+    "num_total": 13.800000,
+    "buy_cost": {
+      "type": 1,
+      "confId": 112,
+      "num": 360
+    },
+    "need_alliance_lv": 1,
+    "icon": "guild_kj_skill_02"
+  }, 
+  {
+    "id": 10095,
+    "science_type": 1,
+    "science_lv": 95,
+    "alone": 1000,
+    "special_para": "PhysicalDamage%",
+    "num": 0.200000,
+    "num_total": 14.000000,
+    "buy_cost": {
+      "type": 1,
+      "confId": 112,
+      "num": 360
+    },
+    "need_alliance_lv": 1,
+    "icon": "guild_kj_skill_02"
+  }, 
+  {
+    "id": 10096,
+    "science_type": 1,
+    "science_lv": 96,
+    "alone": 1000,
+    "special_para": "PhysicalDamage%",
+    "num": 0.200000,
+    "num_total": 14.200000,
+    "buy_cost": {
+      "type": 1,
+      "confId": 112,
+      "num": 360
+    },
+    "need_alliance_lv": 1,
+    "icon": "guild_kj_skill_02"
+  }, 
+  {
+    "id": 10097,
+    "science_type": 1,
+    "science_lv": 97,
+    "alone": 1000,
+    "special_para": "PhysicalDamage%",
+    "num": 0.200000,
+    "num_total": 14.400000,
+    "buy_cost": {
+      "type": 1,
+      "confId": 112,
+      "num": 360
+    },
+    "need_alliance_lv": 1,
+    "icon": "guild_kj_skill_02"
+  }, 
+  {
+    "id": 10098,
+    "science_type": 1,
+    "science_lv": 98,
+    "alone": 1000,
+    "special_para": "PhysicalDamage%",
+    "num": 0.200000,
+    "num_total": 14.600000,
+    "buy_cost": {
+      "type": 1,
+      "confId": 112,
+      "num": 360
+    },
+    "need_alliance_lv": 1,
+    "icon": "guild_kj_skill_02"
+  }, 
+  {
+    "id": 10099,
+    "science_type": 1,
+    "science_lv": 99,
+    "alone": 1000,
+    "special_para": "PhysicalDamage%",
+    "num": 0.200000,
+    "num_total": 14.800000,
+    "buy_cost": {
+      "type": 1,
+      "confId": 112,
+      "num": 360
+    },
+    "need_alliance_lv": 1,
+    "icon": "guild_kj_skill_02"
+  }, 
+  {
+    "id": 10100,
+    "science_type": 1,
+    "science_lv": 100,
+    "alone": 1000,
+    "special_para": "PhysicalDamage%",
+    "num": 0.200000,
+    "num_total": 15.000000,
+    "buy_cost": {
+      "type": 1,
+      "confId": 112,
+      "num": 360
+    },
+    "need_alliance_lv": 1,
+    "icon": "guild_kj_skill_02"
+  }, 
+  {
+    "id": 10101,
+    "science_type": 1,
+    "science_lv": 101,
+    "alone": 1000,
+    "special_para": "PhysicalDamage%",
+    "num": 0.300000,
+    "num_total": 15.300000,
+    "buy_cost": {
+      "type": 1,
+      "confId": 112,
+      "num": 650
+    },
+    "need_alliance_lv": 1,
+    "icon": "guild_kj_skill_02"
+  }, 
+  {
+    "id": 10102,
+    "science_type": 1,
+    "science_lv": 102,
+    "alone": 1000,
+    "special_para": "PhysicalDamage%",
+    "num": 0.300000,
+    "num_total": 15.600000,
+    "buy_cost": {
+      "type": 1,
+      "confId": 112,
+      "num": 650
+    },
+    "need_alliance_lv": 1,
+    "icon": "guild_kj_skill_02"
+  }, 
+  {
+    "id": 10103,
+    "science_type": 1,
+    "science_lv": 103,
+    "alone": 1000,
+    "special_para": "PhysicalDamage%",
+    "num": 0.300000,
+    "num_total": 15.900000,
+    "buy_cost": {
+      "type": 1,
+      "confId": 112,
+      "num": 650
+    },
+    "need_alliance_lv": 1,
+    "icon": "guild_kj_skill_02"
+  }, 
+  {
+    "id": 10104,
+    "science_type": 1,
+    "science_lv": 104,
+    "alone": 1000,
+    "special_para": "PhysicalDamage%",
+    "num": 0.300000,
+    "num_total": 16.200000,
+    "buy_cost": {
+      "type": 1,
+      "confId": 112,
+      "num": 650
+    },
+    "need_alliance_lv": 1,
+    "icon": "guild_kj_skill_02"
+  }, 
+  {
+    "id": 10105,
+    "science_type": 1,
+    "science_lv": 105,
+    "alone": 1000,
+    "special_para": "PhysicalDamage%",
+    "num": 0.300000,
+    "num_total": 16.500000,
+    "buy_cost": {
+      "type": 1,
+      "confId": 112,
+      "num": 650
+    },
+    "need_alliance_lv": 1,
+    "icon": "guild_kj_skill_02"
+  }, 
+  {
+    "id": 10106,
+    "science_type": 1,
+    "science_lv": 106,
+    "alone": 1000,
+    "special_para": "PhysicalDamage%",
+    "num": 0.300000,
+    "num_total": 16.800000,
+    "buy_cost": {
+      "type": 1,
+      "confId": 112,
+      "num": 650
+    },
+    "need_alliance_lv": 1,
+    "icon": "guild_kj_skill_02"
+  }, 
+  {
+    "id": 10107,
+    "science_type": 1,
+    "science_lv": 107,
+    "alone": 1000,
+    "special_para": "PhysicalDamage%",
+    "num": 0.300000,
+    "num_total": 17.100000,
+    "buy_cost": {
+      "type": 1,
+      "confId": 112,
+      "num": 650
+    },
+    "need_alliance_lv": 1,
+    "icon": "guild_kj_skill_02"
+  }, 
+  {
+    "id": 10108,
+    "science_type": 1,
+    "science_lv": 108,
+    "alone": 1000,
+    "special_para": "PhysicalDamage%",
+    "num": 0.300000,
+    "num_total": 17.400000,
+    "buy_cost": {
+      "type": 1,
+      "confId": 112,
+      "num": 650
+    },
+    "need_alliance_lv": 1,
+    "icon": "guild_kj_skill_02"
+  }, 
+  {
+    "id": 10109,
+    "science_type": 1,
+    "science_lv": 109,
+    "alone": 1000,
+    "special_para": "PhysicalDamage%",
+    "num": 0.300000,
+    "num_total": 17.700000,
+    "buy_cost": {
+      "type": 1,
+      "confId": 112,
+      "num": 650
+    },
+    "need_alliance_lv": 1,
+    "icon": "guild_kj_skill_02"
+  }, 
+  {
+    "id": 10110,
+    "science_type": 1,
+    "science_lv": 110,
+    "alone": 1000,
+    "special_para": "PhysicalDamage%",
+    "num": 0.300000,
+    "num_total": 18.000000,
+    "buy_cost": {
+      "type": 1,
+      "confId": 112,
+      "num": 650
+    },
+    "need_alliance_lv": 1,
+    "icon": "guild_kj_skill_02"
+  }, 
+  {
+    "id": 10111,
+    "science_type": 1,
+    "science_lv": 111,
+    "alone": 1000,
+    "special_para": "PhysicalDamage%",
+    "num": 0.300000,
+    "num_total": 18.300000,
+    "buy_cost": {
+      "type": 1,
+      "confId": 112,
+      "num": 1025
+    },
+    "need_alliance_lv": 1,
+    "icon": "guild_kj_skill_02"
+  }, 
+  {
+    "id": 10112,
+    "science_type": 1,
+    "science_lv": 112,
+    "alone": 1000,
+    "special_para": "PhysicalDamage%",
+    "num": 0.300000,
+    "num_total": 18.600000,
+    "buy_cost": {
+      "type": 1,
+      "confId": 112,
+      "num": 1025
+    },
+    "need_alliance_lv": 1,
+    "icon": "guild_kj_skill_02"
+  }, 
+  {
+    "id": 10113,
+    "science_type": 1,
+    "science_lv": 113,
+    "alone": 1000,
+    "special_para": "PhysicalDamage%",
+    "num": 0.300000,
+    "num_total": 18.900000,
+    "buy_cost": {
+      "type": 1,
+      "confId": 112,
+      "num": 1025
+    },
+    "need_alliance_lv": 1,
+    "icon": "guild_kj_skill_02"
+  }, 
+  {
+    "id": 10114,
+    "science_type": 1,
+    "science_lv": 114,
+    "alone": 1000,
+    "special_para": "PhysicalDamage%",
+    "num": 0.300000,
+    "num_total": 19.200000,
+    "buy_cost": {
+      "type": 1,
+      "confId": 112,
+      "num": 1025
+    },
+    "need_alliance_lv": 1,
+    "icon": "guild_kj_skill_02"
+  }, 
+  {
+    "id": 10115,
+    "science_type": 1,
+    "science_lv": 115,
+    "alone": 1000,
+    "special_para": "PhysicalDamage%",
+    "num": 0.300000,
+    "num_total": 19.500000,
+    "buy_cost": {
+      "type": 1,
+      "confId": 112,
+      "num": 1025
+    },
+    "need_alliance_lv": 1,
+    "icon": "guild_kj_skill_02"
+  }, 
+  {
+    "id": 10116,
+    "science_type": 1,
+    "science_lv": 116,
+    "alone": 1000,
+    "special_para": "PhysicalDamage%",
+    "num": 0.300000,
+    "num_total": 19.800000,
+    "buy_cost": {
+      "type": 1,
+      "confId": 112,
+      "num": 1025
+    },
+    "need_alliance_lv": 1,
+    "icon": "guild_kj_skill_02"
+  }, 
+  {
+    "id": 10117,
+    "science_type": 1,
+    "science_lv": 117,
+    "alone": 1000,
+    "special_para": "PhysicalDamage%",
+    "num": 0.300000,
+    "num_total": 20.100000,
+    "buy_cost": {
+      "type": 1,
+      "confId": 112,
+      "num": 1025
+    },
+    "need_alliance_lv": 1,
+    "icon": "guild_kj_skill_02"
+  }, 
+  {
+    "id": 10118,
+    "science_type": 1,
+    "science_lv": 118,
+    "alone": 1000,
+    "special_para": "PhysicalDamage%",
+    "num": 0.300000,
+    "num_total": 20.400000,
+    "buy_cost": {
+      "type": 1,
+      "confId": 112,
+      "num": 1025
+    },
+    "need_alliance_lv": 1,
+    "icon": "guild_kj_skill_02"
+  }, 
+  {
+    "id": 10119,
+    "science_type": 1,
+    "science_lv": 119,
+    "alone": 1000,
+    "special_para": "PhysicalDamage%",
+    "num": 0.300000,
+    "num_total": 20.700000,
+    "buy_cost": {
+      "type": 1,
+      "confId": 112,
+      "num": 1025
+    },
+    "need_alliance_lv": 1,
+    "icon": "guild_kj_skill_02"
+  }, 
+  {
+    "id": 10120,
+    "science_type": 1,
+    "science_lv": 120,
+    "alone": 1000,
+    "special_para": "PhysicalDamage%",
+    "num": 0.300000,
+    "num_total": 21.000000,
+    "buy_cost": {
+      "type": 1,
+      "confId": 112,
+      "num": 1025
+    },
+    "need_alliance_lv": 1,
+    "icon": "guild_kj_skill_02"
+  }, 
+  {
+    "id": 10121,
+    "science_type": 1,
+    "science_lv": 121,
+    "alone": 1000,
+    "special_para": "PhysicalDamage%",
+    "num": 0.300000,
+    "num_total": 21.300000,
+    "buy_cost": {
+      "type": 1,
+      "confId": 112,
+      "num": 1640
+    },
+    "need_alliance_lv": 1,
+    "icon": "guild_kj_skill_02"
+  }, 
+  {
+    "id": 10122,
+    "science_type": 1,
+    "science_lv": 122,
+    "alone": 1000,
+    "special_para": "PhysicalDamage%",
+    "num": 0.300000,
+    "num_total": 21.600000,
+    "buy_cost": {
+      "type": 1,
+      "confId": 112,
+      "num": 1640
+    },
+    "need_alliance_lv": 1,
+    "icon": "guild_kj_skill_02"
+  }, 
+  {
+    "id": 10123,
+    "science_type": 1,
+    "science_lv": 123,
+    "alone": 1000,
+    "special_para": "PhysicalDamage%",
+    "num": 0.300000,
+    "num_total": 21.900000,
+    "buy_cost": {
+      "type": 1,
+      "confId": 112,
+      "num": 1640
+    },
+    "need_alliance_lv": 1,
+    "icon": "guild_kj_skill_02"
+  }, 
+  {
+    "id": 10124,
+    "science_type": 1,
+    "science_lv": 124,
+    "alone": 1000,
+    "special_para": "PhysicalDamage%",
+    "num": 0.300000,
+    "num_total": 22.200000,
+    "buy_cost": {
+      "type": 1,
+      "confId": 112,
+      "num": 1640
+    },
+    "need_alliance_lv": 1,
+    "icon": "guild_kj_skill_02"
+  }, 
+  {
+    "id": 10125,
+    "science_type": 1,
+    "science_lv": 125,
+    "alone": 1000,
+    "special_para": "PhysicalDamage%",
+    "num": 0.300000,
+    "num_total": 22.500000,
+    "buy_cost": {
+      "type": 1,
+      "confId": 112,
+      "num": 1640
+    },
+    "need_alliance_lv": 1,
+    "icon": "guild_kj_skill_02"
+  }, 
+  {
+    "id": 10126,
+    "science_type": 1,
+    "science_lv": 126,
+    "alone": 1000,
+    "special_para": "PhysicalDamage%",
+    "num": 0.300000,
+    "num_total": 22.800000,
+    "buy_cost": {
+      "type": 1,
+      "confId": 112,
+      "num": 1640
+    },
+    "need_alliance_lv": 1,
+    "icon": "guild_kj_skill_02"
+  }, 
+  {
+    "id": 10127,
+    "science_type": 1,
+    "science_lv": 127,
+    "alone": 1000,
+    "special_para": "PhysicalDamage%",
+    "num": 0.300000,
+    "num_total": 23.100000,
+    "buy_cost": {
+      "type": 1,
+      "confId": 112,
+      "num": 1640
+    },
+    "need_alliance_lv": 1,
+    "icon": "guild_kj_skill_02"
+  }, 
+  {
+    "id": 10128,
+    "science_type": 1,
+    "science_lv": 128,
+    "alone": 1000,
+    "special_para": "PhysicalDamage%",
+    "num": 0.300000,
+    "num_total": 23.400000,
+    "buy_cost": {
+      "type": 1,
+      "confId": 112,
+      "num": 1640
+    },
+    "need_alliance_lv": 1,
+    "icon": "guild_kj_skill_02"
+  }, 
+  {
+    "id": 10129,
+    "science_type": 1,
+    "science_lv": 129,
+    "alone": 1000,
+    "special_para": "PhysicalDamage%",
+    "num": 0.300000,
+    "num_total": 23.700000,
+    "buy_cost": {
+      "type": 1,
+      "confId": 112,
+      "num": 1640
+    },
+    "need_alliance_lv": 1,
+    "icon": "guild_kj_skill_02"
+  }, 
+  {
+    "id": 10130,
+    "science_type": 1,
+    "science_lv": 130,
+    "alone": 1000,
+    "special_para": "PhysicalDamage%",
+    "num": 0.300000,
+    "num_total": 24.000000,
+    "buy_cost": {
+      "type": 1,
+      "confId": 112,
+      "num": 1640
+    },
+    "need_alliance_lv": 1,
+    "icon": "guild_kj_skill_02"
+  }, 
+  {
+    "id": 10131,
+    "science_type": 1,
+    "science_lv": 131,
+    "alone": 1000,
+    "special_para": "PhysicalDamage%",
+    "num": 0.300000,
+    "num_total": 24.300000,
+    "buy_cost": {
+      "type": 1,
+      "confId": 112,
+      "num": 2640
+    },
+    "need_alliance_lv": 1,
+    "icon": "guild_kj_skill_02"
+  }, 
+  {
+    "id": 10132,
+    "science_type": 1,
+    "science_lv": 132,
+    "alone": 1000,
+    "special_para": "PhysicalDamage%",
+    "num": 0.300000,
+    "num_total": 24.600000,
+    "buy_cost": {
+      "type": 1,
+      "confId": 112,
+      "num": 2640
+    },
+    "need_alliance_lv": 1,
+    "icon": "guild_kj_skill_02"
+  }, 
+  {
+    "id": 10133,
+    "science_type": 1,
+    "science_lv": 133,
+    "alone": 1000,
+    "special_para": "PhysicalDamage%",
+    "num": 0.300000,
+    "num_total": 24.900000,
+    "buy_cost": {
+      "type": 1,
+      "confId": 112,
+      "num": 2640
+    },
+    "need_alliance_lv": 1,
+    "icon": "guild_kj_skill_02"
+  }, 
+  {
+    "id": 10134,
+    "science_type": 1,
+    "science_lv": 134,
+    "alone": 1000,
+    "special_para": "PhysicalDamage%",
+    "num": 0.300000,
+    "num_total": 25.200000,
+    "buy_cost": {
+      "type": 1,
+      "confId": 112,
+      "num": 2640
+    },
+    "need_alliance_lv": 1,
+    "icon": "guild_kj_skill_02"
+  }, 
+  {
+    "id": 10135,
+    "science_type": 1,
+    "science_lv": 135,
+    "alone": 1000,
+    "special_para": "PhysicalDamage%",
+    "num": 0.300000,
+    "num_total": 25.500000,
+    "buy_cost": {
+      "type": 1,
+      "confId": 112,
+      "num": 2640
+    },
+    "need_alliance_lv": 1,
+    "icon": "guild_kj_skill_02"
+  }, 
+  {
+    "id": 10136,
+    "science_type": 1,
+    "science_lv": 136,
+    "alone": 1000,
+    "special_para": "PhysicalDamage%",
+    "num": 0.300000,
+    "num_total": 25.800000,
+    "buy_cost": {
+      "type": 1,
+      "confId": 112,
+      "num": 2640
+    },
+    "need_alliance_lv": 1,
+    "icon": "guild_kj_skill_02"
+  }, 
+  {
+    "id": 10137,
+    "science_type": 1,
+    "science_lv": 137,
+    "alone": 1000,
+    "special_para": "PhysicalDamage%",
+    "num": 0.300000,
+    "num_total": 26.100000,
+    "buy_cost": {
+      "type": 1,
+      "confId": 112,
+      "num": 2640
+    },
+    "need_alliance_lv": 1,
+    "icon": "guild_kj_skill_02"
+  }, 
+  {
+    "id": 10138,
+    "science_type": 1,
+    "science_lv": 138,
+    "alone": 1000,
+    "special_para": "PhysicalDamage%",
+    "num": 0.300000,
+    "num_total": 26.400000,
+    "buy_cost": {
+      "type": 1,
+      "confId": 112,
+      "num": 2640
+    },
+    "need_alliance_lv": 1,
+    "icon": "guild_kj_skill_02"
+  }, 
+  {
+    "id": 10139,
+    "science_type": 1,
+    "science_lv": 139,
+    "alone": 1000,
+    "special_para": "PhysicalDamage%",
+    "num": 0.300000,
+    "num_total": 26.700000,
+    "buy_cost": {
+      "type": 1,
+      "confId": 112,
+      "num": 2640
+    },
+    "need_alliance_lv": 1,
+    "icon": "guild_kj_skill_02"
+  }, 
+  {
+    "id": 10140,
+    "science_type": 1,
+    "science_lv": 140,
+    "alone": 1000,
+    "special_para": "PhysicalDamage%",
+    "num": 0.300000,
+    "num_total": 27.000000,
+    "buy_cost": {
+      "type": 1,
+      "confId": 112,
+      "num": 2640
+    },
+    "need_alliance_lv": 1,
+    "icon": "guild_kj_skill_02"
+  }, 
+  {
+    "id": 10141,
+    "science_type": 1,
+    "science_lv": 141,
+    "alone": 1000,
+    "special_para": "PhysicalDamage%",
+    "num": 0.300000,
+    "num_total": 27.300000,
+    "buy_cost": {
+      "type": 1,
+      "confId": 112,
+      "num": 6000
+    },
+    "need_alliance_lv": 1,
+    "icon": "guild_kj_skill_02"
+  }, 
+  {
+    "id": 10142,
+    "science_type": 1,
+    "science_lv": 142,
+    "alone": 1000,
+    "special_para": "PhysicalDamage%",
+    "num": 0.300000,
+    "num_total": 27.600000,
+    "buy_cost": {
+      "type": 1,
+      "confId": 112,
+      "num": 6000
+    },
+    "need_alliance_lv": 1,
+    "icon": "guild_kj_skill_02"
+  }, 
+  {
+    "id": 10143,
+    "science_type": 1,
+    "science_lv": 143,
+    "alone": 1000,
+    "special_para": "PhysicalDamage%",
+    "num": 0.300000,
+    "num_total": 27.900000,
+    "buy_cost": {
+      "type": 1,
+      "confId": 112,
+      "num": 6000
+    },
+    "need_alliance_lv": 1,
+    "icon": "guild_kj_skill_02"
+  }, 
+  {
+    "id": 10144,
+    "science_type": 1,
+    "science_lv": 144,
+    "alone": 1000,
+    "special_para": "PhysicalDamage%",
+    "num": 0.300000,
+    "num_total": 28.200000,
+    "buy_cost": {
+      "type": 1,
+      "confId": 112,
+      "num": 6000
+    },
+    "need_alliance_lv": 1,
+    "icon": "guild_kj_skill_02"
+  }, 
+  {
+    "id": 10145,
+    "science_type": 1,
+    "science_lv": 145,
+    "alone": 1000,
+    "special_para": "PhysicalDamage%",
+    "num": 0.300000,
+    "num_total": 28.500000,
+    "buy_cost": {
+      "type": 1,
+      "confId": 112,
+      "num": 6000
+    },
+    "need_alliance_lv": 1,
+    "icon": "guild_kj_skill_02"
+  }, 
+  {
+    "id": 10146,
+    "science_type": 1,
+    "science_lv": 146,
+    "alone": 1000,
+    "special_para": "PhysicalDamage%",
+    "num": 0.300000,
+    "num_total": 28.800000,
+    "buy_cost": {
+      "type": 1,
+      "confId": 112,
+      "num": 6000
+    },
+    "need_alliance_lv": 1,
+    "icon": "guild_kj_skill_02"
+  }, 
+  {
+    "id": 10147,
+    "science_type": 1,
+    "science_lv": 147,
+    "alone": 1000,
+    "special_para": "PhysicalDamage%",
+    "num": 0.300000,
+    "num_total": 29.100000,
+    "buy_cost": {
+      "type": 1,
+      "confId": 112,
+      "num": 6000
+    },
+    "need_alliance_lv": 1,
+    "icon": "guild_kj_skill_02"
+  }, 
+  {
+    "id": 10148,
+    "science_type": 1,
+    "science_lv": 148,
+    "alone": 1000,
+    "special_para": "PhysicalDamage%",
+    "num": 0.300000,
+    "num_total": 29.400000,
+    "buy_cost": {
+      "type": 1,
+      "confId": 112,
+      "num": 6000
+    },
+    "need_alliance_lv": 1,
+    "icon": "guild_kj_skill_02"
+  }, 
+  {
+    "id": 10149,
+    "science_type": 1,
+    "science_lv": 149,
+    "alone": 1000,
+    "special_para": "PhysicalDamage%",
+    "num": 0.300000,
+    "num_total": 29.700000,
+    "buy_cost": {
+      "type": 1,
+      "confId": 112,
+      "num": 6000
+    },
+    "need_alliance_lv": 1,
+    "icon": "guild_kj_skill_02"
+  }, 
+  {
+    "id": 10150,
+    "science_type": 1,
+    "science_lv": 150,
+    "alone": 1000,
+    "special_para": "PhysicalDamage%",
+    "num": 0.300000,
+    "num_total": 30.000000,
+    "buy_cost": {
+      "type": 1,
+      "confId": 112,
+      "num": 6000
+    },
+    "need_alliance_lv": 1,
+    "icon": "guild_kj_skill_02"
+  }, 
+  {
+    "id": 20000,
+    "science_type": 2,
+    "science_lv": 0,
+    "alone": 1000,
+    "special_para": "MagicDamage%",
+    "num": 0.000000,
+    "num_total": 0.000000,
+    "need_alliance_lv": 1,
+    "icon": "guild_kj_skill_01"
+  }, 
+  {
+    "id": 20001,
+    "science_type": 2,
+    "science_lv": 1,
+    "alone": 1000,
+    "special_para": "MagicDamage%",
+    "num": 0.100000,
+    "num_total": 0.100000,
+    "buy_cost": {
+      "type": 1,
+      "confId": 112,
+      "num": 15
+    },
+    "need_alliance_lv": 1,
+    "icon": "guild_kj_skill_01"
+  }, 
+  {
+    "id": 20002,
+    "science_type": 2,
+    "science_lv": 2,
+    "alone": 1000,
+    "special_para": "MagicDamage%",
+    "num": 0.100000,
+    "num_total": 0.200000,
+    "buy_cost": {
+      "type": 1,
+      "confId": 112,
+      "num": 15
+    },
+    "need_alliance_lv": 1,
+    "icon": "guild_kj_skill_01"
+  }, 
+  {
+    "id": 20003,
+    "science_type": 2,
+    "science_lv": 3,
+    "alone": 1000,
+    "special_para": "MagicDamage%",
+    "num": 0.100000,
+    "num_total": 0.300000,
+    "buy_cost": {
+      "type": 1,
+      "confId": 112,
+      "num": 15
+    },
+    "need_alliance_lv": 1,
+    "icon": "guild_kj_skill_01"
+  }, 
+  {
+    "id": 20004,
+    "science_type": 2,
+    "science_lv": 4,
+    "alone": 1000,
+    "special_para": "MagicDamage%",
+    "num": 0.100000,
+    "num_total": 0.400000,
+    "buy_cost": {
+      "type": 1,
+      "confId": 112,
+      "num": 15
+    },
+    "need_alliance_lv": 1,
+    "icon": "guild_kj_skill_01"
+  }, 
+  {
+    "id": 20005,
+    "science_type": 2,
+    "science_lv": 5,
+    "alone": 1000,
+    "special_para": "MagicDamage%",
+    "num": 0.100000,
+    "num_total": 0.500000,
+    "buy_cost": {
+      "type": 1,
+      "confId": 112,
+      "num": 15
+    },
+    "need_alliance_lv": 1,
+    "icon": "guild_kj_skill_01"
+  }, 
+  {
+    "id": 20006,
+    "science_type": 2,
+    "science_lv": 6,
+    "alone": 1000,
+    "special_para": "MagicDamage%",
+    "num": 0.100000,
+    "num_total": 0.600000,
+    "buy_cost": {
+      "type": 1,
+      "confId": 112,
+      "num": 15
+    },
+    "need_alliance_lv": 1,
+    "icon": "guild_kj_skill_01"
+  }, 
+  {
+    "id": 20007,
+    "science_type": 2,
+    "science_lv": 7,
+    "alone": 1000,
+    "special_para": "MagicDamage%",
+    "num": 0.100000,
+    "num_total": 0.700000,
+    "buy_cost": {
+      "type": 1,
+      "confId": 112,
+      "num": 15
+    },
+    "need_alliance_lv": 1,
+    "icon": "guild_kj_skill_01"
+  }, 
+  {
+    "id": 20008,
+    "science_type": 2,
+    "science_lv": 8,
+    "alone": 1000,
+    "special_para": "MagicDamage%",
+    "num": 0.100000,
+    "num_total": 0.800000,
+    "buy_cost": {
+      "type": 1,
+      "confId": 112,
+      "num": 15
+    },
+    "need_alliance_lv": 1,
+    "icon": "guild_kj_skill_01"
+  }, 
+  {
+    "id": 20009,
+    "science_type": 2,
+    "science_lv": 9,
+    "alone": 1000,
+    "special_para": "MagicDamage%",
+    "num": 0.100000,
+    "num_total": 0.900000,
+    "buy_cost": {
+      "type": 1,
+      "confId": 112,
+      "num": 15
+    },
+    "need_alliance_lv": 1,
+    "icon": "guild_kj_skill_01"
+  }, 
+  {
+    "id": 20010,
+    "science_type": 2,
+    "science_lv": 10,
+    "alone": 1000,
+    "special_para": "MagicDamage%",
+    "num": 0.100000,
+    "num_total": 1.000000,
+    "buy_cost": {
+      "type": 1,
+      "confId": 112,
+      "num": 15
+    },
+    "need_alliance_lv": 1,
+    "icon": "guild_kj_skill_01"
+  }, 
+  {
+    "id": 20011,
+    "science_type": 2,
+    "science_lv": 11,
+    "alone": 1000,
+    "special_para": "MagicDamage%",
+    "num": 0.100000,
+    "num_total": 1.100000,
+    "buy_cost": {
+      "type": 1,
+      "confId": 112,
+      "num": 30
+    },
+    "need_alliance_lv": 1,
+    "icon": "guild_kj_skill_01"
+  }, 
+  {
+    "id": 20012,
+    "science_type": 2,
+    "science_lv": 12,
+    "alone": 1000,
+    "special_para": "MagicDamage%",
+    "num": 0.100000,
+    "num_total": 1.200000,
+    "buy_cost": {
+      "type": 1,
+      "confId": 112,
+      "num": 30
+    },
+    "need_alliance_lv": 1,
+    "icon": "guild_kj_skill_01"
+  }, 
+  {
+    "id": 20013,
+    "science_type": 2,
+    "science_lv": 13,
+    "alone": 1000,
+    "special_para": "MagicDamage%",
+    "num": 0.100000,
+    "num_total": 1.300000,
+    "buy_cost": {
+      "type": 1,
+      "confId": 112,
+      "num": 30
+    },
+    "need_alliance_lv": 1,
+    "icon": "guild_kj_skill_01"
+  }, 
+  {
+    "id": 20014,
+    "science_type": 2,
+    "science_lv": 14,
+    "alone": 1000,
+    "special_para": "MagicDamage%",
+    "num": 0.100000,
+    "num_total": 1.400000,
+    "buy_cost": {
+      "type": 1,
+      "confId": 112,
+      "num": 30
+    },
+    "need_alliance_lv": 1,
+    "icon": "guild_kj_skill_01"
+  }, 
+  {
+    "id": 20015,
+    "science_type": 2,
+    "science_lv": 15,
+    "alone": 1000,
+    "special_para": "MagicDamage%",
+    "num": 0.100000,
+    "num_total": 1.500000,
+    "buy_cost": {
+      "type": 1,
+      "confId": 112,
+      "num": 30
+    },
+    "need_alliance_lv": 1,
+    "icon": "guild_kj_skill_01"
+  }, 
+  {
+    "id": 20016,
+    "science_type": 2,
+    "science_lv": 16,
+    "alone": 1000,
+    "special_para": "MagicDamage%",
+    "num": 0.100000,
+    "num_total": 1.600000,
+    "buy_cost": {
+      "type": 1,
+      "confId": 112,
+      "num": 30
+    },
+    "need_alliance_lv": 1,
+    "icon": "guild_kj_skill_01"
+  }, 
+  {
+    "id": 20017,
+    "science_type": 2,
+    "science_lv": 17,
+    "alone": 1000,
+    "special_para": "MagicDamage%",
+    "num": 0.100000,
+    "num_total": 1.700000,
+    "buy_cost": {
+      "type": 1,
+      "confId": 112,
+      "num": 30
+    },
+    "need_alliance_lv": 1,
+    "icon": "guild_kj_skill_01"
+  }, 
+  {
+    "id": 20018,
+    "science_type": 2,
+    "science_lv": 18,
+    "alone": 1000,
+    "special_para": "MagicDamage%",
+    "num": 0.100000,
+    "num_total": 1.800000,
+    "buy_cost": {
+      "type": 1,
+      "confId": 112,
+      "num": 30
+    },
+    "need_alliance_lv": 1,
+    "icon": "guild_kj_skill_01"
+  }, 
+  {
+    "id": 20019,
+    "science_type": 2,
+    "science_lv": 19,
+    "alone": 1000,
+    "special_para": "MagicDamage%",
+    "num": 0.100000,
+    "num_total": 1.900000,
+    "buy_cost": {
+      "type": 1,
+      "confId": 112,
+      "num": 30
+    },
+    "need_alliance_lv": 1,
+    "icon": "guild_kj_skill_01"
+  }, 
+  {
+    "id": 20020,
+    "science_type": 2,
+    "science_lv": 20,
+    "alone": 1000,
+    "special_para": "MagicDamage%",
+    "num": 0.100000,
+    "num_total": 2.000000,
+    "buy_cost": {
+      "type": 1,
+      "confId": 112,
+      "num": 30
+    },
+    "need_alliance_lv": 1,
+    "icon": "guild_kj_skill_01"
+  }, 
+  {
+    "id": 20021,
+    "science_type": 2,
+    "science_lv": 21,
+    "alone": 1000,
+    "special_para": "MagicDamage%",
+    "num": 0.100000,
+    "num_total": 2.100000,
+    "buy_cost": {
+      "type": 1,
+      "confId": 112,
+      "num": 40
+    },
+    "need_alliance_lv": 1,
+    "icon": "guild_kj_skill_01"
+  }, 
+  {
+    "id": 20022,
+    "science_type": 2,
+    "science_lv": 22,
+    "alone": 1000,
+    "special_para": "MagicDamage%",
+    "num": 0.100000,
+    "num_total": 2.200000,
+    "buy_cost": {
+      "type": 1,
+      "confId": 112,
+      "num": 40
+    },
+    "need_alliance_lv": 1,
+    "icon": "guild_kj_skill_01"
+  }, 
+  {
+    "id": 20023,
+    "science_type": 2,
+    "science_lv": 23,
+    "alone": 1000,
+    "special_para": "MagicDamage%",
+    "num": 0.100000,
+    "num_total": 2.300000,
+    "buy_cost": {
+      "type": 1,
+      "confId": 112,
+      "num": 40
+    },
+    "need_alliance_lv": 1,
+    "icon": "guild_kj_skill_01"
+  }, 
+  {
+    "id": 20024,
+    "science_type": 2,
+    "science_lv": 24,
+    "alone": 1000,
+    "special_para": "MagicDamage%",
+    "num": 0.100000,
+    "num_total": 2.400000,
+    "buy_cost": {
+      "type": 1,
+      "confId": 112,
+      "num": 40
+    },
+    "need_alliance_lv": 1,
+    "icon": "guild_kj_skill_01"
+  }, 
+  {
+    "id": 20025,
+    "science_type": 2,
+    "science_lv": 25,
+    "alone": 1000,
+    "special_para": "MagicDamage%",
+    "num": 0.100000,
+    "num_total": 2.500000,
+    "buy_cost": {
+      "type": 1,
+      "confId": 112,
+      "num": 40
+    },
+    "need_alliance_lv": 1,
+    "icon": "guild_kj_skill_01"
+  }, 
+  {
+    "id": 20026,
+    "science_type": 2,
+    "science_lv": 26,
+    "alone": 1000,
+    "special_para": "MagicDamage%",
+    "num": 0.100000,
+    "num_total": 2.600000,
+    "buy_cost": {
+      "type": 1,
+      "confId": 112,
+      "num": 40
+    },
+    "need_alliance_lv": 1,
+    "icon": "guild_kj_skill_01"
+  }, 
+  {
+    "id": 20027,
+    "science_type": 2,
+    "science_lv": 27,
+    "alone": 1000,
+    "special_para": "MagicDamage%",
+    "num": 0.100000,
+    "num_total": 2.700000,
+    "buy_cost": {
+      "type": 1,
+      "confId": 112,
+      "num": 40
+    },
+    "need_alliance_lv": 1,
+    "icon": "guild_kj_skill_01"
+  }, 
+  {
+    "id": 20028,
+    "science_type": 2,
+    "science_lv": 28,
+    "alone": 1000,
+    "special_para": "MagicDamage%",
+    "num": 0.100000,
+    "num_total": 2.800000,
+    "buy_cost": {
+      "type": 1,
+      "confId": 112,
+      "num": 40
+    },
+    "need_alliance_lv": 1,
+    "icon": "guild_kj_skill_01"
+  }, 
+  {
+    "id": 20029,
+    "science_type": 2,
+    "science_lv": 29,
+    "alone": 1000,
+    "special_para": "MagicDamage%",
+    "num": 0.100000,
+    "num_total": 2.900000,
+    "buy_cost": {
+      "type": 1,
+      "confId": 112,
+      "num": 40
+    },
+    "need_alliance_lv": 1,
+    "icon": "guild_kj_skill_01"
+  }, 
+  {
+    "id": 20030,
+    "science_type": 2,
+    "science_lv": 30,
+    "alone": 1000,
+    "special_para": "MagicDamage%",
+    "num": 0.100000,
+    "num_total": 3.000000,
+    "buy_cost": {
+      "type": 1,
+      "confId": 112,
+      "num": 40
+    },
+    "need_alliance_lv": 1,
+    "icon": "guild_kj_skill_01"
+  }, 
+  {
+    "id": 20031,
+    "science_type": 2,
+    "science_lv": 31,
+    "alone": 1000,
+    "special_para": "MagicDamage%",
+    "num": 0.100000,
+    "num_total": 3.100000,
+    "buy_cost": {
+      "type": 1,
+      "confId": 112,
+      "num": 50
+    },
+    "need_alliance_lv": 1,
+    "icon": "guild_kj_skill_01"
+  }, 
+  {
+    "id": 20032,
+    "science_type": 2,
+    "science_lv": 32,
+    "alone": 1000,
+    "special_para": "MagicDamage%",
+    "num": 0.100000,
+    "num_total": 3.200000,
+    "buy_cost": {
+      "type": 1,
+      "confId": 112,
+      "num": 50
+    },
+    "need_alliance_lv": 1,
+    "icon": "guild_kj_skill_01"
+  }, 
+  {
+    "id": 20033,
+    "science_type": 2,
+    "science_lv": 33,
+    "alone": 1000,
+    "special_para": "MagicDamage%",
+    "num": 0.100000,
+    "num_total": 3.300000,
+    "buy_cost": {
+      "type": 1,
+      "confId": 112,
+      "num": 50
+    },
+    "need_alliance_lv": 1,
+    "icon": "guild_kj_skill_01"
+  }, 
+  {
+    "id": 20034,
+    "science_type": 2,
+    "science_lv": 34,
+    "alone": 1000,
+    "special_para": "MagicDamage%",
+    "num": 0.100000,
+    "num_total": 3.400000,
+    "buy_cost": {
+      "type": 1,
+      "confId": 112,
+      "num": 50
+    },
+    "need_alliance_lv": 1,
+    "icon": "guild_kj_skill_01"
+  }, 
+  {
+    "id": 20035,
+    "science_type": 2,
+    "science_lv": 35,
+    "alone": 1000,
+    "special_para": "MagicDamage%",
+    "num": 0.100000,
+    "num_total": 3.500000,
+    "buy_cost": {
+      "type": 1,
+      "confId": 112,
+      "num": 50
+    },
+    "need_alliance_lv": 1,
+    "icon": "guild_kj_skill_01"
+  }, 
+  {
+    "id": 20036,
+    "science_type": 2,
+    "science_lv": 36,
+    "alone": 1000,
+    "special_para": "MagicDamage%",
+    "num": 0.100000,
+    "num_total": 3.600000,
+    "buy_cost": {
+      "type": 1,
+      "confId": 112,
+      "num": 50
+    },
+    "need_alliance_lv": 1,
+    "icon": "guild_kj_skill_01"
+  }, 
+  {
+    "id": 20037,
+    "science_type": 2,
+    "science_lv": 37,
+    "alone": 1000,
+    "special_para": "MagicDamage%",
+    "num": 0.100000,
+    "num_total": 3.700000,
+    "buy_cost": {
+      "type": 1,
+      "confId": 112,
+      "num": 50
+    },
+    "need_alliance_lv": 1,
+    "icon": "guild_kj_skill_01"
+  }, 
+  {
+    "id": 20038,
+    "science_type": 2,
+    "science_lv": 38,
+    "alone": 1000,
+    "special_para": "MagicDamage%",
+    "num": 0.100000,
+    "num_total": 3.800000,
+    "buy_cost": {
+      "type": 1,
+      "confId": 112,
+      "num": 50
+    },
+    "need_alliance_lv": 1,
+    "icon": "guild_kj_skill_01"
+  }, 
+  {
+    "id": 20039,
+    "science_type": 2,
+    "science_lv": 39,
+    "alone": 1000,
+    "special_para": "MagicDamage%",
+    "num": 0.100000,
+    "num_total": 3.900000,
+    "buy_cost": {
+      "type": 1,
+      "confId": 112,
+      "num": 50
+    },
+    "need_alliance_lv": 1,
+    "icon": "guild_kj_skill_01"
+  }, 
+  {
+    "id": 20040,
+    "science_type": 2,
+    "science_lv": 40,
+    "alone": 1000,
+    "special_para": "MagicDamage%",
+    "num": 0.100000,
+    "num_total": 4.000000,
+    "buy_cost": {
+      "type": 1,
+      "confId": 112,
+      "num": 50
+    },
+    "need_alliance_lv": 1,
+    "icon": "guild_kj_skill_01"
+  }, 
+  {
+    "id": 20041,
+    "science_type": 2,
+    "science_lv": 41,
+    "alone": 1000,
+    "special_para": "MagicDamage%",
+    "num": 0.100000,
+    "num_total": 4.100000,
+    "buy_cost": {
+      "type": 1,
+      "confId": 112,
+      "num": 60
+    },
+    "need_alliance_lv": 1,
+    "icon": "guild_kj_skill_01"
+  }, 
+  {
+    "id": 20042,
+    "science_type": 2,
+    "science_lv": 42,
+    "alone": 1000,
+    "special_para": "MagicDamage%",
+    "num": 0.100000,
+    "num_total": 4.200000,
+    "buy_cost": {
+      "type": 1,
+      "confId": 112,
+      "num": 60
+    },
+    "need_alliance_lv": 1,
+    "icon": "guild_kj_skill_01"
+  }, 
+  {
+    "id": 20043,
+    "science_type": 2,
+    "science_lv": 43,
+    "alone": 1000,
+    "special_para": "MagicDamage%",
+    "num": 0.100000,
+    "num_total": 4.300000,
+    "buy_cost": {
+      "type": 1,
+      "confId": 112,
+      "num": 60
+    },
+    "need_alliance_lv": 1,
+    "icon": "guild_kj_skill_01"
+  }, 
+  {
+    "id": 20044,
+    "science_type": 2,
+    "science_lv": 44,
+    "alone": 1000,
+    "special_para": "MagicDamage%",
+    "num": 0.100000,
+    "num_total": 4.400000,
+    "buy_cost": {
+      "type": 1,
+      "confId": 112,
+      "num": 60
+    },
+    "need_alliance_lv": 1,
+    "icon": "guild_kj_skill_01"
+  }, 
+  {
+    "id": 20045,
+    "science_type": 2,
+    "science_lv": 45,
+    "alone": 1000,
+    "special_para": "MagicDamage%",
+    "num": 0.100000,
+    "num_total": 4.500000,
+    "buy_cost": {
+      "type": 1,
+      "confId": 112,
+      "num": 60
+    },
+    "need_alliance_lv": 1,
+    "icon": "guild_kj_skill_01"
+  }, 
+  {
+    "id": 20046,
+    "science_type": 2,
+    "science_lv": 46,
+    "alone": 1000,
+    "special_para": "MagicDamage%",
+    "num": 0.100000,
+    "num_total": 4.600000,
+    "buy_cost": {
+      "type": 1,
+      "confId": 112,
+      "num": 60
+    },
+    "need_alliance_lv": 1,
+    "icon": "guild_kj_skill_01"
+  }, 
+  {
+    "id": 20047,
+    "science_type": 2,
+    "science_lv": 47,
+    "alone": 1000,
+    "special_para": "MagicDamage%",
+    "num": 0.100000,
+    "num_total": 4.700000,
+    "buy_cost": {
+      "type": 1,
+      "confId": 112,
+      "num": 60
+    },
+    "need_alliance_lv": 1,
+    "icon": "guild_kj_skill_01"
+  }, 
+  {
+    "id": 20048,
+    "science_type": 2,
+    "science_lv": 48,
+    "alone": 1000,
+    "special_para": "MagicDamage%",
+    "num": 0.100000,
+    "num_total": 4.800000,
+    "buy_cost": {
+      "type": 1,
+      "confId": 112,
+      "num": 60
+    },
+    "need_alliance_lv": 1,
+    "icon": "guild_kj_skill_01"
+  }, 
+  {
+    "id": 20049,
+    "science_type": 2,
+    "science_lv": 49,
+    "alone": 1000,
+    "special_para": "MagicDamage%",
+    "num": 0.100000,
+    "num_total": 4.900000,
+    "buy_cost": {
+      "type": 1,
+      "confId": 112,
+      "num": 60
+    },
+    "need_alliance_lv": 1,
+    "icon": "guild_kj_skill_01"
+  }, 
+  {
+    "id": 20050,
+    "science_type": 2,
+    "science_lv": 50,
+    "alone": 1000,
+    "special_para": "MagicDamage%",
+    "num": 0.100000,
+    "num_total": 5.000000,
+    "buy_cost": {
+      "type": 1,
+      "confId": 112,
+      "num": 60
+    },
+    "need_alliance_lv": 1,
+    "icon": "guild_kj_skill_01"
+  }, 
+  {
+    "id": 20051,
+    "science_type": 2,
+    "science_lv": 51,
+    "alone": 1000,
+    "special_para": "MagicDamage%",
+    "num": 0.200000,
+    "num_total": 5.200000,
+    "buy_cost": {
+      "type": 1,
+      "confId": 112,
+      "num": 75
+    },
+    "need_alliance_lv": 1,
+    "icon": "guild_kj_skill_01"
+  }, 
+  {
+    "id": 20052,
+    "science_type": 2,
+    "science_lv": 52,
+    "alone": 1000,
+    "special_para": "MagicDamage%",
+    "num": 0.200000,
+    "num_total": 5.400000,
+    "buy_cost": {
+      "type": 1,
+      "confId": 112,
+      "num": 75
+    },
+    "need_alliance_lv": 1,
+    "icon": "guild_kj_skill_01"
+  }, 
+  {
+    "id": 20053,
+    "science_type": 2,
+    "science_lv": 53,
+    "alone": 1000,
+    "special_para": "MagicDamage%",
+    "num": 0.200000,
+    "num_total": 5.600000,
+    "buy_cost": {
+      "type": 1,
+      "confId": 112,
+      "num": 75
+    },
+    "need_alliance_lv": 1,
+    "icon": "guild_kj_skill_01"
+  }, 
+  {
+    "id": 20054,
+    "science_type": 2,
+    "science_lv": 54,
+    "alone": 1000,
+    "special_para": "MagicDamage%",
+    "num": 0.200000,
+    "num_total": 5.800000,
+    "buy_cost": {
+      "type": 1,
+      "confId": 112,
+      "num": 75
+    },
+    "need_alliance_lv": 1,
+    "icon": "guild_kj_skill_01"
+  }, 
+  {
+    "id": 20055,
+    "science_type": 2,
+    "science_lv": 55,
+    "alone": 1000,
+    "special_para": "MagicDamage%",
+    "num": 0.200000,
+    "num_total": 6.000000,
+    "buy_cost": {
+      "type": 1,
+      "confId": 112,
+      "num": 75
+    },
+    "need_alliance_lv": 1,
+    "icon": "guild_kj_skill_01"
+  }, 
+  {
+    "id": 20056,
+    "science_type": 2,
+    "science_lv": 56,
+    "alone": 1000,
+    "special_para": "MagicDamage%",
+    "num": 0.200000,
+    "num_total": 6.200000,
+    "buy_cost": {
+      "type": 1,
+      "confId": 112,
+      "num": 75
+    },
+    "need_alliance_lv": 1,
+    "icon": "guild_kj_skill_01"
+  }, 
+  {
+    "id": 20057,
+    "science_type": 2,
+    "science_lv": 57,
+    "alone": 1000,
+    "special_para": "MagicDamage%",
+    "num": 0.200000,
+    "num_total": 6.400000,
+    "buy_cost": {
+      "type": 1,
+      "confId": 112,
+      "num": 75
+    },
+    "need_alliance_lv": 1,
+    "icon": "guild_kj_skill_01"
+  }, 
+  {
+    "id": 20058,
+    "science_type": 2,
+    "science_lv": 58,
+    "alone": 1000,
+    "special_para": "MagicDamage%",
+    "num": 0.200000,
+    "num_total": 6.600000,
+    "buy_cost": {
+      "type": 1,
+      "confId": 112,
+      "num": 75
+    },
+    "need_alliance_lv": 1,
+    "icon": "guild_kj_skill_01"
+  }, 
+  {
+    "id": 20059,
+    "science_type": 2,
+    "science_lv": 59,
+    "alone": 1000,
+    "special_para": "MagicDamage%",
+    "num": 0.200000,
+    "num_total": 6.800000,
+    "buy_cost": {
+      "type": 1,
+      "confId": 112,
+      "num": 75
+    },
+    "need_alliance_lv": 1,
+    "icon": "guild_kj_skill_01"
+  }, 
+  {
+    "id": 20060,
+    "science_type": 2,
+    "science_lv": 60,
+    "alone": 1000,
+    "special_para": "MagicDamage%",
+    "num": 0.200000,
+    "num_total": 7.000000,
+    "buy_cost": {
+      "type": 1,
+      "confId": 112,
+      "num": 75
+    },
+    "need_alliance_lv": 1,
+    "icon": "guild_kj_skill_01"
+  }, 
+  {
+    "id": 20061,
+    "science_type": 2,
+    "science_lv": 61,
+    "alone": 1000,
+    "special_para": "MagicDamage%",
+    "num": 0.200000,
+    "num_total": 7.200000,
+    "buy_cost": {
+      "type": 1,
+      "confId": 112,
+      "num": 70
+    },
+    "need_alliance_lv": 1,
+    "icon": "guild_kj_skill_01"
+  }, 
+  {
+    "id": 20062,
+    "science_type": 2,
+    "science_lv": 62,
+    "alone": 1000,
+    "special_para": "MagicDamage%",
+    "num": 0.200000,
+    "num_total": 7.400000,
+    "buy_cost": {
+      "type": 1,
+      "confId": 112,
+      "num": 70
+    },
+    "need_alliance_lv": 1,
+    "icon": "guild_kj_skill_01"
+  }, 
+  {
+    "id": 20063,
+    "science_type": 2,
+    "science_lv": 63,
+    "alone": 1000,
+    "special_para": "MagicDamage%",
+    "num": 0.200000,
+    "num_total": 7.600000,
+    "buy_cost": {
+      "type": 1,
+      "confId": 112,
+      "num": 70
+    },
+    "need_alliance_lv": 1,
+    "icon": "guild_kj_skill_01"
+  }, 
+  {
+    "id": 20064,
+    "science_type": 2,
+    "science_lv": 64,
+    "alone": 1000,
+    "special_para": "MagicDamage%",
+    "num": 0.200000,
+    "num_total": 7.800000,
+    "buy_cost": {
+      "type": 1,
+      "confId": 112,
+      "num": 70
+    },
+    "need_alliance_lv": 1,
+    "icon": "guild_kj_skill_01"
+  }, 
+  {
+    "id": 20065,
+    "science_type": 2,
+    "science_lv": 65,
+    "alone": 1000,
+    "special_para": "MagicDamage%",
+    "num": 0.200000,
+    "num_total": 8.000000,
+    "buy_cost": {
+      "type": 1,
+      "confId": 112,
+      "num": 70
+    },
+    "need_alliance_lv": 1,
+    "icon": "guild_kj_skill_01"
+  }, 
+  {
+    "id": 20066,
+    "science_type": 2,
+    "science_lv": 66,
+    "alone": 1000,
+    "special_para": "MagicDamage%",
+    "num": 0.200000,
+    "num_total": 8.200000,
+    "buy_cost": {
+      "type": 1,
+      "confId": 112,
+      "num": 70
+    },
+    "need_alliance_lv": 1,
+    "icon": "guild_kj_skill_01"
+  }, 
+  {
+    "id": 20067,
+    "science_type": 2,
+    "science_lv": 67,
+    "alone": 1000,
+    "special_para": "MagicDamage%",
+    "num": 0.200000,
+    "num_total": 8.400000,
+    "buy_cost": {
+      "type": 1,
+      "confId": 112,
+      "num": 70
+    },
+    "need_alliance_lv": 1,
+    "icon": "guild_kj_skill_01"
+  }, 
+  {
+    "id": 20068,
+    "science_type": 2,
+    "science_lv": 68,
+    "alone": 1000,
+    "special_para": "MagicDamage%",
+    "num": 0.200000,
+    "num_total": 8.600000,
+    "buy_cost": {
+      "type": 1,
+      "confId": 112,
+      "num": 70
+    },
+    "need_alliance_lv": 1,
+    "icon": "guild_kj_skill_01"
+  }, 
+  {
+    "id": 20069,
+    "science_type": 2,
+    "science_lv": 69,
+    "alone": 1000,
+    "special_para": "MagicDamage%",
+    "num": 0.200000,
+    "num_total": 8.800000,
+    "buy_cost": {
+      "type": 1,
+      "confId": 112,
+      "num": 70
+    },
+    "need_alliance_lv": 1,
+    "icon": "guild_kj_skill_01"
+  }, 
+  {
+    "id": 20070,
+    "science_type": 2,
+    "science_lv": 70,
+    "alone": 1000,
+    "special_para": "MagicDamage%",
+    "num": 0.200000,
+    "num_total": 9.000000,
+    "buy_cost": {
+      "type": 1,
+      "confId": 112,
+      "num": 70
+    },
+    "need_alliance_lv": 1,
+    "icon": "guild_kj_skill_01"
+  }, 
+  {
+    "id": 20071,
+    "science_type": 2,
+    "science_lv": 71,
+    "alone": 1000,
+    "special_para": "MagicDamage%",
+    "num": 0.200000,
+    "num_total": 9.200000,
+    "buy_cost": {
+      "type": 1,
+      "confId": 112,
+      "num": 110
+    },
+    "need_alliance_lv": 1,
+    "icon": "guild_kj_skill_01"
+  }, 
+  {
+    "id": 20072,
+    "science_type": 2,
+    "science_lv": 72,
+    "alone": 1000,
+    "special_para": "MagicDamage%",
+    "num": 0.200000,
+    "num_total": 9.400000,
+    "buy_cost": {
+      "type": 1,
+      "confId": 112,
+      "num": 110
+    },
+    "need_alliance_lv": 1,
+    "icon": "guild_kj_skill_01"
+  }, 
+  {
+    "id": 20073,
+    "science_type": 2,
+    "science_lv": 73,
+    "alone": 1000,
+    "special_para": "MagicDamage%",
+    "num": 0.200000,
+    "num_total": 9.600000,
+    "buy_cost": {
+      "type": 1,
+      "confId": 112,
+      "num": 110
+    },
+    "need_alliance_lv": 1,
+    "icon": "guild_kj_skill_01"
+  }, 
+  {
+    "id": 20074,
+    "science_type": 2,
+    "science_lv": 74,
+    "alone": 1000,
+    "special_para": "MagicDamage%",
+    "num": 0.200000,
+    "num_total": 9.800000,
+    "buy_cost": {
+      "type": 1,
+      "confId": 112,
+      "num": 110
+    },
+    "need_alliance_lv": 1,
+    "icon": "guild_kj_skill_01"
+  }, 
+  {
+    "id": 20075,
+    "science_type": 2,
+    "science_lv": 75,
+    "alone": 1000,
+    "special_para": "MagicDamage%",
+    "num": 0.200000,
+    "num_total": 10.000000,
+    "buy_cost": {
+      "type": 1,
+      "confId": 112,
+      "num": 110
+    },
+    "need_alliance_lv": 1,
+    "icon": "guild_kj_skill_01"
+  }, 
+  {
+    "id": 20076,
+    "science_type": 2,
+    "science_lv": 76,
+    "alone": 1000,
+    "special_para": "MagicDamage%",
+    "num": 0.200000,
+    "num_total": 10.200000,
+    "buy_cost": {
+      "type": 1,
+      "confId": 112,
+      "num": 110
+    },
+    "need_alliance_lv": 1,
+    "icon": "guild_kj_skill_01"
+  }, 
+  {
+    "id": 20077,
+    "science_type": 2,
+    "science_lv": 77,
+    "alone": 1000,
+    "special_para": "MagicDamage%",
+    "num": 0.200000,
+    "num_total": 10.400000,
+    "buy_cost": {
+      "type": 1,
+      "confId": 112,
+      "num": 110
+    },
+    "need_alliance_lv": 1,
+    "icon": "guild_kj_skill_01"
+  }, 
+  {
+    "id": 20078,
+    "science_type": 2,
+    "science_lv": 78,
+    "alone": 1000,
+    "special_para": "MagicDamage%",
+    "num": 0.200000,
+    "num_total": 10.600000,
+    "buy_cost": {
+      "type": 1,
+      "confId": 112,
+      "num": 110
+    },
+    "need_alliance_lv": 1,
+    "icon": "guild_kj_skill_01"
+  }, 
+  {
+    "id": 20079,
+    "science_type": 2,
+    "science_lv": 79,
+    "alone": 1000,
+    "special_para": "MagicDamage%",
+    "num": 0.200000,
+    "num_total": 10.800000,
+    "buy_cost": {
+      "type": 1,
+      "confId": 112,
+      "num": 110
+    },
+    "need_alliance_lv": 1,
+    "icon": "guild_kj_skill_01"
+  }, 
+  {
+    "id": 20080,
+    "science_type": 2,
+    "science_lv": 80,
+    "alone": 1000,
+    "special_para": "MagicDamage%",
+    "num": 0.200000,
+    "num_total": 11.000000,
+    "buy_cost": {
+      "type": 1,
+      "confId": 112,
+      "num": 110
+    },
+    "need_alliance_lv": 1,
+    "icon": "guild_kj_skill_01"
+  }, 
+  {
+    "id": 20081,
+    "science_type": 2,
+    "science_lv": 81,
+    "alone": 1000,
+    "special_para": "MagicDamage%",
+    "num": 0.200000,
+    "num_total": 11.200000,
+    "buy_cost": {
+      "type": 1,
+      "confId": 112,
+      "num": 195
+    },
+    "need_alliance_lv": 1,
+    "icon": "guild_kj_skill_01"
+  }, 
+  {
+    "id": 20082,
+    "science_type": 2,
+    "science_lv": 82,
+    "alone": 1000,
+    "special_para": "MagicDamage%",
+    "num": 0.200000,
+    "num_total": 11.400000,
+    "buy_cost": {
+      "type": 1,
+      "confId": 112,
+      "num": 195
+    },
+    "need_alliance_lv": 1,
+    "icon": "guild_kj_skill_01"
+  }, 
+  {
+    "id": 20083,
+    "science_type": 2,
+    "science_lv": 83,
+    "alone": 1000,
+    "special_para": "MagicDamage%",
+    "num": 0.200000,
+    "num_total": 11.600000,
+    "buy_cost": {
+      "type": 1,
+      "confId": 112,
+      "num": 195
+    },
+    "need_alliance_lv": 1,
+    "icon": "guild_kj_skill_01"
+  }, 
+  {
+    "id": 20084,
+    "science_type": 2,
+    "science_lv": 84,
+    "alone": 1000,
+    "special_para": "MagicDamage%",
+    "num": 0.200000,
+    "num_total": 11.800000,
+    "buy_cost": {
+      "type": 1,
+      "confId": 112,
+      "num": 195
+    },
+    "need_alliance_lv": 1,
+    "icon": "guild_kj_skill_01"
+  }, 
+  {
+    "id": 20085,
+    "science_type": 2,
+    "science_lv": 85,
+    "alone": 1000,
+    "special_para": "MagicDamage%",
+    "num": 0.200000,
+    "num_total": 12.000000,
+    "buy_cost": {
+      "type": 1,
+      "confId": 112,
+      "num": 195
+    },
+    "need_alliance_lv": 1,
+    "icon": "guild_kj_skill_01"
+  }, 
+  {
+    "id": 20086,
+    "science_type": 2,
+    "science_lv": 86,
+    "alone": 1000,
+    "special_para": "MagicDamage%",
+    "num": 0.200000,
+    "num_total": 12.200000,
+    "buy_cost": {
+      "type": 1,
+      "confId": 112,
+      "num": 195
+    },
+    "need_alliance_lv": 1,
+    "icon": "guild_kj_skill_01"
+  }, 
+  {
+    "id": 20087,
+    "science_type": 2,
+    "science_lv": 87,
+    "alone": 1000,
+    "special_para": "MagicDamage%",
+    "num": 0.200000,
+    "num_total": 12.400000,
+    "buy_cost": {
+      "type": 1,
+      "confId": 112,
+      "num": 195
+    },
+    "need_alliance_lv": 1,
+    "icon": "guild_kj_skill_01"
+  }, 
+  {
+    "id": 20088,
+    "science_type": 2,
+    "science_lv": 88,
+    "alone": 1000,
+    "special_para": "MagicDamage%",
+    "num": 0.200000,
+    "num_total": 12.600000,
+    "buy_cost": {
+      "type": 1,
+      "confId": 112,
+      "num": 195
+    },
+    "need_alliance_lv": 1,
+    "icon": "guild_kj_skill_01"
+  }, 
+  {
+    "id": 20089,
+    "science_type": 2,
+    "science_lv": 89,
+    "alone": 1000,
+    "special_para": "MagicDamage%",
+    "num": 0.200000,
+    "num_total": 12.800000,
+    "buy_cost": {
+      "type": 1,
+      "confId": 112,
+      "num": 195
+    },
+    "need_alliance_lv": 1,
+    "icon": "guild_kj_skill_01"
+  }, 
+  {
+    "id": 20090,
+    "science_type": 2,
+    "science_lv": 90,
+    "alone": 1000,
+    "special_para": "MagicDamage%",
+    "num": 0.200000,
+    "num_total": 13.000000,
+    "buy_cost": {
+      "type": 1,
+      "confId": 112,
+      "num": 195
+    },
+    "need_alliance_lv": 1,
+    "icon": "guild_kj_skill_01"
+  }, 
+  {
+    "id": 20091,
+    "science_type": 2,
+    "science_lv": 91,
+    "alone": 1000,
+    "special_para": "MagicDamage%",
+    "num": 0.200000,
+    "num_total": 13.200000,
+    "buy_cost": {
+      "type": 1,
+      "confId": 112,
+      "num": 360
+    },
+    "need_alliance_lv": 1,
+    "icon": "guild_kj_skill_01"
+  }, 
+  {
+    "id": 20092,
+    "science_type": 2,
+    "science_lv": 92,
+    "alone": 1000,
+    "special_para": "MagicDamage%",
+    "num": 0.200000,
+    "num_total": 13.400000,
+    "buy_cost": {
+      "type": 1,
+      "confId": 112,
+      "num": 360
+    },
+    "need_alliance_lv": 1,
+    "icon": "guild_kj_skill_01"
+  }, 
+  {
+    "id": 20093,
+    "science_type": 2,
+    "science_lv": 93,
+    "alone": 1000,
+    "special_para": "MagicDamage%",
+    "num": 0.200000,
+    "num_total": 13.600000,
+    "buy_cost": {
+      "type": 1,
+      "confId": 112,
+      "num": 360
+    },
+    "need_alliance_lv": 1,
+    "icon": "guild_kj_skill_01"
+  }, 
+  {
+    "id": 20094,
+    "science_type": 2,
+    "science_lv": 94,
+    "alone": 1000,
+    "special_para": "MagicDamage%",
+    "num": 0.200000,
+    "num_total": 13.800000,
+    "buy_cost": {
+      "type": 1,
+      "confId": 112,
+      "num": 360
+    },
+    "need_alliance_lv": 1,
+    "icon": "guild_kj_skill_01"
+  }, 
+  {
+    "id": 20095,
+    "science_type": 2,
+    "science_lv": 95,
+    "alone": 1000,
+    "special_para": "MagicDamage%",
+    "num": 0.200000,
+    "num_total": 14.000000,
+    "buy_cost": {
+      "type": 1,
+      "confId": 112,
+      "num": 360
+    },
+    "need_alliance_lv": 1,
+    "icon": "guild_kj_skill_01"
+  }, 
+  {
+    "id": 20096,
+    "science_type": 2,
+    "science_lv": 96,
+    "alone": 1000,
+    "special_para": "MagicDamage%",
+    "num": 0.200000,
+    "num_total": 14.200000,
+    "buy_cost": {
+      "type": 1,
+      "confId": 112,
+      "num": 360
+    },
+    "need_alliance_lv": 1,
+    "icon": "guild_kj_skill_01"
+  }, 
+  {
+    "id": 20097,
+    "science_type": 2,
+    "science_lv": 97,
+    "alone": 1000,
+    "special_para": "MagicDamage%",
+    "num": 0.200000,
+    "num_total": 14.400000,
+    "buy_cost": {
+      "type": 1,
+      "confId": 112,
+      "num": 360
+    },
+    "need_alliance_lv": 1,
+    "icon": "guild_kj_skill_01"
+  }, 
+  {
+    "id": 20098,
+    "science_type": 2,
+    "science_lv": 98,
+    "alone": 1000,
+    "special_para": "MagicDamage%",
+    "num": 0.200000,
+    "num_total": 14.600000,
+    "buy_cost": {
+      "type": 1,
+      "confId": 112,
+      "num": 360
+    },
+    "need_alliance_lv": 1,
+    "icon": "guild_kj_skill_01"
+  }, 
+  {
+    "id": 20099,
+    "science_type": 2,
+    "science_lv": 99,
+    "alone": 1000,
+    "special_para": "MagicDamage%",
+    "num": 0.200000,
+    "num_total": 14.800000,
+    "buy_cost": {
+      "type": 1,
+      "confId": 112,
+      "num": 360
+    },
+    "need_alliance_lv": 1,
+    "icon": "guild_kj_skill_01"
+  }, 
+  {
+    "id": 20100,
+    "science_type": 2,
+    "science_lv": 100,
+    "alone": 1000,
+    "special_para": "MagicDamage%",
+    "num": 0.200000,
+    "num_total": 15.000000,
+    "buy_cost": {
+      "type": 1,
+      "confId": 112,
+      "num": 360
+    },
+    "need_alliance_lv": 1,
+    "icon": "guild_kj_skill_01"
+  }, 
+  {
+    "id": 20101,
+    "science_type": 2,
+    "science_lv": 101,
+    "alone": 1000,
+    "special_para": "MagicDamage%",
+    "num": 0.300000,
+    "num_total": 15.300000,
+    "buy_cost": {
+      "type": 1,
+      "confId": 112,
+      "num": 650
+    },
+    "need_alliance_lv": 1,
+    "icon": "guild_kj_skill_01"
+  }, 
+  {
+    "id": 20102,
+    "science_type": 2,
+    "science_lv": 102,
+    "alone": 1000,
+    "special_para": "MagicDamage%",
+    "num": 0.300000,
+    "num_total": 15.600000,
+    "buy_cost": {
+      "type": 1,
+      "confId": 112,
+      "num": 650
+    },
+    "need_alliance_lv": 1,
+    "icon": "guild_kj_skill_01"
+  }, 
+  {
+    "id": 20103,
+    "science_type": 2,
+    "science_lv": 103,
+    "alone": 1000,
+    "special_para": "MagicDamage%",
+    "num": 0.300000,
+    "num_total": 15.900000,
+    "buy_cost": {
+      "type": 1,
+      "confId": 112,
+      "num": 650
+    },
+    "need_alliance_lv": 1,
+    "icon": "guild_kj_skill_01"
+  }, 
+  {
+    "id": 20104,
+    "science_type": 2,
+    "science_lv": 104,
+    "alone": 1000,
+    "special_para": "MagicDamage%",
+    "num": 0.300000,
+    "num_total": 16.200000,
+    "buy_cost": {
+      "type": 1,
+      "confId": 112,
+      "num": 650
+    },
+    "need_alliance_lv": 1,
+    "icon": "guild_kj_skill_01"
+  }, 
+  {
+    "id": 20105,
+    "science_type": 2,
+    "science_lv": 105,
+    "alone": 1000,
+    "special_para": "MagicDamage%",
+    "num": 0.300000,
+    "num_total": 16.500000,
+    "buy_cost": {
+      "type": 1,
+      "confId": 112,
+      "num": 650
+    },
+    "need_alliance_lv": 1,
+    "icon": "guild_kj_skill_01"
+  }, 
+  {
+    "id": 20106,
+    "science_type": 2,
+    "science_lv": 106,
+    "alone": 1000,
+    "special_para": "MagicDamage%",
+    "num": 0.300000,
+    "num_total": 16.800000,
+    "buy_cost": {
+      "type": 1,
+      "confId": 112,
+      "num": 650
+    },
+    "need_alliance_lv": 1,
+    "icon": "guild_kj_skill_01"
+  }, 
+  {
+    "id": 20107,
+    "science_type": 2,
+    "science_lv": 107,
+    "alone": 1000,
+    "special_para": "MagicDamage%",
+    "num": 0.300000,
+    "num_total": 17.100000,
+    "buy_cost": {
+      "type": 1,
+      "confId": 112,
+      "num": 650
+    },
+    "need_alliance_lv": 1,
+    "icon": "guild_kj_skill_01"
+  }, 
+  {
+    "id": 20108,
+    "science_type": 2,
+    "science_lv": 108,
+    "alone": 1000,
+    "special_para": "MagicDamage%",
+    "num": 0.300000,
+    "num_total": 17.400000,
+    "buy_cost": {
+      "type": 1,
+      "confId": 112,
+      "num": 650
+    },
+    "need_alliance_lv": 1,
+    "icon": "guild_kj_skill_01"
+  }, 
+  {
+    "id": 20109,
+    "science_type": 2,
+    "science_lv": 109,
+    "alone": 1000,
+    "special_para": "MagicDamage%",
+    "num": 0.300000,
+    "num_total": 17.700000,
+    "buy_cost": {
+      "type": 1,
+      "confId": 112,
+      "num": 650
+    },
+    "need_alliance_lv": 1,
+    "icon": "guild_kj_skill_01"
+  }, 
+  {
+    "id": 20110,
+    "science_type": 2,
+    "science_lv": 110,
+    "alone": 1000,
+    "special_para": "MagicDamage%",
+    "num": 0.300000,
+    "num_total": 18.000000,
+    "buy_cost": {
+      "type": 1,
+      "confId": 112,
+      "num": 650
+    },
+    "need_alliance_lv": 1,
+    "icon": "guild_kj_skill_01"
+  }, 
+  {
+    "id": 20111,
+    "science_type": 2,
+    "science_lv": 111,
+    "alone": 1000,
+    "special_para": "MagicDamage%",
+    "num": 0.300000,
+    "num_total": 18.300000,
+    "buy_cost": {
+      "type": 1,
+      "confId": 112,
+      "num": 1025
+    },
+    "need_alliance_lv": 1,
+    "icon": "guild_kj_skill_01"
+  }, 
+  {
+    "id": 20112,
+    "science_type": 2,
+    "science_lv": 112,
+    "alone": 1000,
+    "special_para": "MagicDamage%",
+    "num": 0.300000,
+    "num_total": 18.600000,
+    "buy_cost": {
+      "type": 1,
+      "confId": 112,
+      "num": 1025
+    },
+    "need_alliance_lv": 1,
+    "icon": "guild_kj_skill_01"
+  }, 
+  {
+    "id": 20113,
+    "science_type": 2,
+    "science_lv": 113,
+    "alone": 1000,
+    "special_para": "MagicDamage%",
+    "num": 0.300000,
+    "num_total": 18.900000,
+    "buy_cost": {
+      "type": 1,
+      "confId": 112,
+      "num": 1025
+    },
+    "need_alliance_lv": 1,
+    "icon": "guild_kj_skill_01"
+  }, 
+  {
+    "id": 20114,
+    "science_type": 2,
+    "science_lv": 114,
+    "alone": 1000,
+    "special_para": "MagicDamage%",
+    "num": 0.300000,
+    "num_total": 19.200000,
+    "buy_cost": {
+      "type": 1,
+      "confId": 112,
+      "num": 1025
+    },
+    "need_alliance_lv": 1,
+    "icon": "guild_kj_skill_01"
+  }, 
+  {
+    "id": 20115,
+    "science_type": 2,
+    "science_lv": 115,
+    "alone": 1000,
+    "special_para": "MagicDamage%",
+    "num": 0.300000,
+    "num_total": 19.500000,
+    "buy_cost": {
+      "type": 1,
+      "confId": 112,
+      "num": 1025
+    },
+    "need_alliance_lv": 1,
+    "icon": "guild_kj_skill_01"
+  }, 
+  {
+    "id": 20116,
+    "science_type": 2,
+    "science_lv": 116,
+    "alone": 1000,
+    "special_para": "MagicDamage%",
+    "num": 0.300000,
+    "num_total": 19.800000,
+    "buy_cost": {
+      "type": 1,
+      "confId": 112,
+      "num": 1025
+    },
+    "need_alliance_lv": 1,
+    "icon": "guild_kj_skill_01"
+  }, 
+  {
+    "id": 20117,
+    "science_type": 2,
+    "science_lv": 117,
+    "alone": 1000,
+    "special_para": "MagicDamage%",
+    "num": 0.300000,
+    "num_total": 20.100000,
+    "buy_cost": {
+      "type": 1,
+      "confId": 112,
+      "num": 1025
+    },
+    "need_alliance_lv": 1,
+    "icon": "guild_kj_skill_01"
+  }, 
+  {
+    "id": 20118,
+    "science_type": 2,
+    "science_lv": 118,
+    "alone": 1000,
+    "special_para": "MagicDamage%",
+    "num": 0.300000,
+    "num_total": 20.400000,
+    "buy_cost": {
+      "type": 1,
+      "confId": 112,
+      "num": 1025
+    },
+    "need_alliance_lv": 1,
+    "icon": "guild_kj_skill_01"
+  }, 
+  {
+    "id": 20119,
+    "science_type": 2,
+    "science_lv": 119,
+    "alone": 1000,
+    "special_para": "MagicDamage%",
+    "num": 0.300000,
+    "num_total": 20.700000,
+    "buy_cost": {
+      "type": 1,
+      "confId": 112,
+      "num": 1025
+    },
+    "need_alliance_lv": 1,
+    "icon": "guild_kj_skill_01"
+  }, 
+  {
+    "id": 20120,
+    "science_type": 2,
+    "science_lv": 120,
+    "alone": 1000,
+    "special_para": "MagicDamage%",
+    "num": 0.300000,
+    "num_total": 21.000000,
+    "buy_cost": {
+      "type": 1,
+      "confId": 112,
+      "num": 1025
+    },
+    "need_alliance_lv": 1,
+    "icon": "guild_kj_skill_01"
+  }, 
+  {
+    "id": 20121,
+    "science_type": 2,
+    "science_lv": 121,
+    "alone": 1000,
+    "special_para": "MagicDamage%",
+    "num": 0.300000,
+    "num_total": 21.300000,
+    "buy_cost": {
+      "type": 1,
+      "confId": 112,
+      "num": 1640
+    },
+    "need_alliance_lv": 1,
+    "icon": "guild_kj_skill_01"
+  }, 
+  {
+    "id": 20122,
+    "science_type": 2,
+    "science_lv": 122,
+    "alone": 1000,
+    "special_para": "MagicDamage%",
+    "num": 0.300000,
+    "num_total": 21.600000,
+    "buy_cost": {
+      "type": 1,
+      "confId": 112,
+      "num": 1640
+    },
+    "need_alliance_lv": 1,
+    "icon": "guild_kj_skill_01"
+  }, 
+  {
+    "id": 20123,
+    "science_type": 2,
+    "science_lv": 123,
+    "alone": 1000,
+    "special_para": "MagicDamage%",
+    "num": 0.300000,
+    "num_total": 21.900000,
+    "buy_cost": {
+      "type": 1,
+      "confId": 112,
+      "num": 1640
+    },
+    "need_alliance_lv": 1,
+    "icon": "guild_kj_skill_01"
+  }, 
+  {
+    "id": 20124,
+    "science_type": 2,
+    "science_lv": 124,
+    "alone": 1000,
+    "special_para": "MagicDamage%",
+    "num": 0.300000,
+    "num_total": 22.200000,
+    "buy_cost": {
+      "type": 1,
+      "confId": 112,
+      "num": 1640
+    },
+    "need_alliance_lv": 1,
+    "icon": "guild_kj_skill_01"
+  }, 
+  {
+    "id": 20125,
+    "science_type": 2,
+    "science_lv": 125,
+    "alone": 1000,
+    "special_para": "MagicDamage%",
+    "num": 0.300000,
+    "num_total": 22.500000,
+    "buy_cost": {
+      "type": 1,
+      "confId": 112,
+      "num": 1640
+    },
+    "need_alliance_lv": 1,
+    "icon": "guild_kj_skill_01"
+  }, 
+  {
+    "id": 20126,
+    "science_type": 2,
+    "science_lv": 126,
+    "alone": 1000,
+    "special_para": "MagicDamage%",
+    "num": 0.300000,
+    "num_total": 22.800000,
+    "buy_cost": {
+      "type": 1,
+      "confId": 112,
+      "num": 1640
+    },
+    "need_alliance_lv": 1,
+    "icon": "guild_kj_skill_01"
+  }, 
+  {
+    "id": 20127,
+    "science_type": 2,
+    "science_lv": 127,
+    "alone": 1000,
+    "special_para": "MagicDamage%",
+    "num": 0.300000,
+    "num_total": 23.100000,
+    "buy_cost": {
+      "type": 1,
+      "confId": 112,
+      "num": 1640
+    },
+    "need_alliance_lv": 1,
+    "icon": "guild_kj_skill_01"
+  }, 
+  {
+    "id": 20128,
+    "science_type": 2,
+    "science_lv": 128,
+    "alone": 1000,
+    "special_para": "MagicDamage%",
+    "num": 0.300000,
+    "num_total": 23.400000,
+    "buy_cost": {
+      "type": 1,
+      "confId": 112,
+      "num": 1640
+    },
+    "need_alliance_lv": 1,
+    "icon": "guild_kj_skill_01"
+  }, 
+  {
+    "id": 20129,
+    "science_type": 2,
+    "science_lv": 129,
+    "alone": 1000,
+    "special_para": "MagicDamage%",
+    "num": 0.300000,
+    "num_total": 23.700000,
+    "buy_cost": {
+      "type": 1,
+      "confId": 112,
+      "num": 1640
+    },
+    "need_alliance_lv": 1,
+    "icon": "guild_kj_skill_01"
+  }, 
+  {
+    "id": 20130,
+    "science_type": 2,
+    "science_lv": 130,
+    "alone": 1000,
+    "special_para": "MagicDamage%",
+    "num": 0.300000,
+    "num_total": 24.000000,
+    "buy_cost": {
+      "type": 1,
+      "confId": 112,
+      "num": 1640
+    },
+    "need_alliance_lv": 1,
+    "icon": "guild_kj_skill_01"
+  }, 
+  {
+    "id": 20131,
+    "science_type": 2,
+    "science_lv": 131,
+    "alone": 1000,
+    "special_para": "MagicDamage%",
+    "num": 0.300000,
+    "num_total": 24.300000,
+    "buy_cost": {
+      "type": 1,
+      "confId": 112,
+      "num": 2640
+    },
+    "need_alliance_lv": 1,
+    "icon": "guild_kj_skill_01"
+  }, 
+  {
+    "id": 20132,
+    "science_type": 2,
+    "science_lv": 132,
+    "alone": 1000,
+    "special_para": "MagicDamage%",
+    "num": 0.300000,
+    "num_total": 24.600000,
+    "buy_cost": {
+      "type": 1,
+      "confId": 112,
+      "num": 2640
+    },
+    "need_alliance_lv": 1,
+    "icon": "guild_kj_skill_01"
+  }, 
+  {
+    "id": 20133,
+    "science_type": 2,
+    "science_lv": 133,
+    "alone": 1000,
+    "special_para": "MagicDamage%",
+    "num": 0.300000,
+    "num_total": 24.900000,
+    "buy_cost": {
+      "type": 1,
+      "confId": 112,
+      "num": 2640
+    },
+    "need_alliance_lv": 1,
+    "icon": "guild_kj_skill_01"
+  }, 
+  {
+    "id": 20134,
+    "science_type": 2,
+    "science_lv": 134,
+    "alone": 1000,
+    "special_para": "MagicDamage%",
+    "num": 0.300000,
+    "num_total": 25.200000,
+    "buy_cost": {
+      "type": 1,
+      "confId": 112,
+      "num": 2640
+    },
+    "need_alliance_lv": 1,
+    "icon": "guild_kj_skill_01"
+  }, 
+  {
+    "id": 20135,
+    "science_type": 2,
+    "science_lv": 135,
+    "alone": 1000,
+    "special_para": "MagicDamage%",
+    "num": 0.300000,
+    "num_total": 25.500000,
+    "buy_cost": {
+      "type": 1,
+      "confId": 112,
+      "num": 2640
+    },
+    "need_alliance_lv": 1,
+    "icon": "guild_kj_skill_01"
+  }, 
+  {
+    "id": 20136,
+    "science_type": 2,
+    "science_lv": 136,
+    "alone": 1000,
+    "special_para": "MagicDamage%",
+    "num": 0.300000,
+    "num_total": 25.800000,
+    "buy_cost": {
+      "type": 1,
+      "confId": 112,
+      "num": 2640
+    },
+    "need_alliance_lv": 1,
+    "icon": "guild_kj_skill_01"
+  }, 
+  {
+    "id": 20137,
+    "science_type": 2,
+    "science_lv": 137,
+    "alone": 1000,
+    "special_para": "MagicDamage%",
+    "num": 0.300000,
+    "num_total": 26.100000,
+    "buy_cost": {
+      "type": 1,
+      "confId": 112,
+      "num": 2640
+    },
+    "need_alliance_lv": 1,
+    "icon": "guild_kj_skill_01"
+  }, 
+  {
+    "id": 20138,
+    "science_type": 2,
+    "science_lv": 138,
+    "alone": 1000,
+    "special_para": "MagicDamage%",
+    "num": 0.300000,
+    "num_total": 26.400000,
+    "buy_cost": {
+      "type": 1,
+      "confId": 112,
+      "num": 2640
+    },
+    "need_alliance_lv": 1,
+    "icon": "guild_kj_skill_01"
+  }, 
+  {
+    "id": 20139,
+    "science_type": 2,
+    "science_lv": 139,
+    "alone": 1000,
+    "special_para": "MagicDamage%",
+    "num": 0.300000,
+    "num_total": 26.700000,
+    "buy_cost": {
+      "type": 1,
+      "confId": 112,
+      "num": 2640
+    },
+    "need_alliance_lv": 1,
+    "icon": "guild_kj_skill_01"
+  }, 
+  {
+    "id": 20140,
+    "science_type": 2,
+    "science_lv": 140,
+    "alone": 1000,
+    "special_para": "MagicDamage%",
+    "num": 0.300000,
+    "num_total": 27.000000,
+    "buy_cost": {
+      "type": 1,
+      "confId": 112,
+      "num": 2640
+    },
+    "need_alliance_lv": 1,
+    "icon": "guild_kj_skill_01"
+  }, 
+  {
+    "id": 20141,
+    "science_type": 2,
+    "science_lv": 141,
+    "alone": 1000,
+    "special_para": "MagicDamage%",
+    "num": 0.300000,
+    "num_total": 27.300000,
+    "buy_cost": {
+      "type": 1,
+      "confId": 112,
+      "num": 6000
+    },
+    "need_alliance_lv": 1,
+    "icon": "guild_kj_skill_01"
+  }, 
+  {
+    "id": 20142,
+    "science_type": 2,
+    "science_lv": 142,
+    "alone": 1000,
+    "special_para": "MagicDamage%",
+    "num": 0.300000,
+    "num_total": 27.600000,
+    "buy_cost": {
+      "type": 1,
+      "confId": 112,
+      "num": 6000
+    },
+    "need_alliance_lv": 1,
+    "icon": "guild_kj_skill_01"
+  }, 
+  {
+    "id": 20143,
+    "science_type": 2,
+    "science_lv": 143,
+    "alone": 1000,
+    "special_para": "MagicDamage%",
+    "num": 0.300000,
+    "num_total": 27.900000,
+    "buy_cost": {
+      "type": 1,
+      "confId": 112,
+      "num": 6000
+    },
+    "need_alliance_lv": 1,
+    "icon": "guild_kj_skill_01"
+  }, 
+  {
+    "id": 20144,
+    "science_type": 2,
+    "science_lv": 144,
+    "alone": 1000,
+    "special_para": "MagicDamage%",
+    "num": 0.300000,
+    "num_total": 28.200000,
+    "buy_cost": {
+      "type": 1,
+      "confId": 112,
+      "num": 6000
+    },
+    "need_alliance_lv": 1,
+    "icon": "guild_kj_skill_01"
+  }, 
+  {
+    "id": 20145,
+    "science_type": 2,
+    "science_lv": 145,
+    "alone": 1000,
+    "special_para": "MagicDamage%",
+    "num": 0.300000,
+    "num_total": 28.500000,
+    "buy_cost": {
+      "type": 1,
+      "confId": 112,
+      "num": 6000
+    },
+    "need_alliance_lv": 1,
+    "icon": "guild_kj_skill_01"
+  }, 
+  {
+    "id": 20146,
+    "science_type": 2,
+    "science_lv": 146,
+    "alone": 1000,
+    "special_para": "MagicDamage%",
+    "num": 0.300000,
+    "num_total": 28.800000,
+    "buy_cost": {
+      "type": 1,
+      "confId": 112,
+      "num": 6000
+    },
+    "need_alliance_lv": 1,
+    "icon": "guild_kj_skill_01"
+  }, 
+  {
+    "id": 20147,
+    "science_type": 2,
+    "science_lv": 147,
+    "alone": 1000,
+    "special_para": "MagicDamage%",
+    "num": 0.300000,
+    "num_total": 29.100000,
+    "buy_cost": {
+      "type": 1,
+      "confId": 112,
+      "num": 6000
+    },
+    "need_alliance_lv": 1,
+    "icon": "guild_kj_skill_01"
+  }, 
+  {
+    "id": 20148,
+    "science_type": 2,
+    "science_lv": 148,
+    "alone": 1000,
+    "special_para": "MagicDamage%",
+    "num": 0.300000,
+    "num_total": 29.400000,
+    "buy_cost": {
+      "type": 1,
+      "confId": 112,
+      "num": 6000
+    },
+    "need_alliance_lv": 1,
+    "icon": "guild_kj_skill_01"
+  }, 
+  {
+    "id": 20149,
+    "science_type": 2,
+    "science_lv": 149,
+    "alone": 1000,
+    "special_para": "MagicDamage%",
+    "num": 0.300000,
+    "num_total": 29.700000,
+    "buy_cost": {
+      "type": 1,
+      "confId": 112,
+      "num": 6000
+    },
+    "need_alliance_lv": 1,
+    "icon": "guild_kj_skill_01"
+  }, 
+  {
+    "id": 20150,
+    "science_type": 2,
+    "science_lv": 150,
+    "alone": 1000,
+    "special_para": "MagicDamage%",
+    "num": 0.300000,
+    "num_total": 30.000000,
+    "buy_cost": {
+      "type": 1,
+      "confId": 112,
+      "num": 6000
+    },
+    "need_alliance_lv": 1,
+    "icon": "guild_kj_skill_01"
+  }
+]

@@ -1,0 +1,11 @@
+[
+  {
+    "id": 1,
+    "daily_shop_reset_cost": 1000,
+    "daily_shop_cost_reset_count": 3,
+    "daily_shop_reset_ads_id": 3,
+    "daily_shop_max_count": 5,
+    "daily_discount": [0, 10, 20, 30],
+    "daily_discount_weight": [5, 10, 8, 6]
+  }
+]

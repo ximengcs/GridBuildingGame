@@ -1,0 +1,388 @@
+[
+  {
+    "id": 1000001,
+    "name": "首充",
+    "open_level": 1,
+    "is_show": true,
+    "condition": [
+      {
+        "type": 1,
+        "time": 0
+      }
+    ],
+    "periods_last_time": -1,
+    "periods_between_time": 0,
+    "periods_num": 0,
+    "order": 1,
+    "activity_banner": "Banner_85",
+    "extra_banner": "banner_84"
+  }, 
+  {
+    "id": 1000002,
+    "name": "战令（狩猎通行证）",
+    "open_level": 1,
+    "is_show": true,
+    "condition": [
+      {
+        "type": 2,
+        "time": 0
+      }
+    ],
+    "periods_last_time": 2592000,
+    "periods_between_time": 0,
+    "periods_num": -1,
+    "mail_id": 70001,
+    "order": 2,
+    "activity_banner": "activity_banner_Marmot"
+  }, 
+  {
+    "id": 1000003,
+    "name": "等级基金",
+    "open_level": 4,
+    "is_show": true,
+    "condition": [
+      {
+        "type": 1,
+        "time": 3600
+      }, 
+      {
+        "type": 2,
+        "time": 0
+      }
+    ],
+    "periods_last_time": -1,
+    "periods_between_time": 0,
+    "periods_num": 0,
+    "order": 3,
+    "activity_banner": "activity_banner_theme1"
+  }, 
+  {
+    "id": 1000004,
+    "name": "7日登录",
+    "open_level": 1,
+    "is_show": true,
+    "condition": [
+      {
+        "type": 1,
+        "time": 3600
+      }, 
+      {
+        "type": 2,
+        "time": 0
+      }
+    ],
+    "periods_last_time": -1,
+    "periods_between_time": 0,
+    "periods_num": 0,
+    "order": 4,
+    "activity_banner": "activity_banner_antspeak"
+  }, 
+  {
+    "id": 1000005,
+    "name": "5日目标",
+    "open_level": 1,
+    "is_show": true,
+    "condition": [
+      {
+        "type": 1,
+        "time": 3600
+      }, 
+      {
+        "type": 2,
+        "time": 0
+      }
+    ],
+    "periods_last_time": 604800,
+    "periods_between_time": 0,
+    "periods_num": 0,
+    "order": 5,
+    "activity_banner": "acticity_name_Vip"
+  }, 
+  {
+    "id": 1000006,
+    "name": "连续充值",
+    "open_level": 1,
+    "is_show": true,
+    "condition": [
+      {
+        "type": 1,
+        "time": 3600
+      }, 
+      {
+        "type": 2,
+        "time": 0
+      }
+    ],
+    "periods_last_time": -1,
+    "periods_between_time": 0,
+    "periods_num": -1,
+    "mail_id": 70002,
+    "order": 6,
+    "activity_banner": "activity_banner_theme5"
+  }, 
+  {
+    "id": 1000007,
+    "name": "邀请新玩家",
+    "open_level": 3,
+    "is_show": true,
+    "condition": [
+      {
+        "type": 2,
+        "time": 0
+      }
+    ],
+    "periods_last_time": -1,
+    "periods_between_time": 0,
+    "periods_num": 0,
+    "order": 7,
+    "banner_desc": "activity_name_lottery2",
+    "activity_banner": "activity_banner_lottery1"
+  }, 
+  {
+    "id": 1000008,
+    "name": "月签到",
+    "open_level": 1,
+    "is_show": true,
+    "condition": [
+      {
+        "type": 2,
+        "time": 0
+      }
+    ],
+    "periods_last_time": 2592000,
+    "periods_between_time": 0,
+    "periods_num": 0,
+    "order": 9,
+    "activity_banner": "acticity_banner_Halloween1",
+    "extra_banner": "acticity_banner_Halloween2"
+  }, 
+  {
+    "id": 1000009,
+    "name": "招募基金",
+    "open_level": 6,
+    "is_show": true,
+    "condition": [
+      {
+        "type": 2,
+        "time": 0
+      }
+    ],
+    "periods_last_time": -1,
+    "periods_between_time": 0,
+    "periods_num": 0,
+    "order": 3,
+    "activity_banner": "activity_banner_theme1"
+  }, 
+  {
+    "id": 1000010,
+    "name": "月卡vip",
+    "open_level": 2,
+    "is_show": true,
+    "condition": [
+      {
+        "type": 2,
+        "time": 0
+      }
+    ],
+    "periods_last_time": 2592000,
+    "periods_between_time": 0,
+    "periods_num": -1,
+    "mail_id": 70003,
+    "order": 1,
+    "activity_banner": "Banner_85",
+    "extra_banner": "banner_84"
+  }, 
+  {
+    "id": 1000011,
+    "name": "月卡vvip",
+    "open_level": 2,
+    "is_show": true,
+    "condition": [
+      {
+        "type": 2,
+        "time": 0
+      }
+    ],
+    "periods_last_time": 2592000,
+    "periods_between_time": 0,
+    "periods_num": -1,
+    "mail_id": 70004,
+    "order": 1,
+    "activity_banner": "Banner_85",
+    "extra_banner": "banner_84"
+  }, 
+  {
+    "id": 1000012,
+    "name": "每日祈福",
+    "open_level": 1,
+    "is_show": true,
+    "condition": [
+      {
+        "type": 1,
+        "time": 0
+      }
+    ],
+    "periods_last_time": 2592000,
+    "periods_between_time": 0,
+    "periods_num": -1,
+    "order": 3
+  }, 
+  {
+    "id": 1000013,
+    "name": "再首充",
+    "open_level": 4,
+    "is_show": true,
+    "condition": [
+      {
+        "type": 1,
+        "time": 0
+      }
+    ],
+    "periods_last_time": -1,
+    "periods_between_time": 0,
+    "periods_num": 0,
+    "order": 1,
+    "activity_banner": "Banner_85",
+    "extra_banner": "banner_84"
+  }, 
+  {
+    "id": 1000014,
+    "name": "三首充",
+    "open_level": 4,
+    "is_show": true,
+    "condition": [
+      {
+        "type": 1,
+        "time": 0
+      }
+    ],
+    "periods_last_time": -1,
+    "periods_between_time": 0,
+    "periods_num": 0,
+    "order": 1,
+    "activity_banner": "Banner_85",
+    "extra_banner": "banner_84"
+  }, 
+  {
+    "id": 1000015,
+    "name": "国庆登录",
+    "open_level": 1,
+    "is_show": true,
+    "condition": [
+      {
+        "type": 1,
+        "time": 3600
+      }, 
+      {
+        "type": 2,
+        "time": 0
+      }
+    ],
+    "periods_last_time": -1,
+    "periods_between_time": 0,
+    "periods_num": 0,
+    "order": 10,
+    "activity_banner": "activity_banner_theme_guoqingup"
+  }, 
+  {
+    "id": 1000016,
+    "name": "国庆礼包",
+    "open_level": 1,
+    "is_show": true,
+    "condition": [
+      {
+        "type": 1,
+        "time": 3600
+      }, 
+      {
+        "type": 2,
+        "time": 0
+      }
+    ],
+    "periods_last_time": -1,
+    "periods_between_time": 0,
+    "periods_num": 0,
+    "order": 10,
+    "activity_banner": "activity_banner_theme_guoqinggift"
+  }, 
+  {
+    "id": 1000017,
+    "name": "超值特惠",
+    "open_level": 3,
+    "is_show": true,
+    "condition": [
+      {
+        "type": 1,
+        "time": 0
+      }
+    ],
+    "periods_last_time": -1,
+    "periods_between_time": 0,
+    "periods_num": 0,
+    "order": 1
+  }, 
+  {
+    "id": 1000018,
+    "name": "新手礼包（通关助礼）",
+    "open_level": 1,
+    "is_show": true,
+    "condition": [
+      {
+        "type": 1,
+        "time": 0
+      }
+    ],
+    "periods_last_time": -1,
+    "periods_between_time": 0,
+    "periods_num": 0,
+    "order": 1
+  }, 
+  {
+    "id": 1000019,
+    "name": "新手礼包（通关嘉礼）",
+    "open_level": 1,
+    "is_show": true,
+    "condition": [
+      {
+        "type": 1,
+        "time": 0
+      }
+    ],
+    "periods_last_time": -1,
+    "periods_between_time": 0,
+    "periods_num": 0,
+    "order": 1
+  }, 
+  {
+    "id": 1000020,
+    "name": "抖音福利（抖音特有）",
+    "open_level": 1,
+    "is_show": true,
+    "condition": [
+      {
+        "type": 1,
+        "time": 0
+      }
+    ],
+    "periods_last_time": -1,
+    "periods_between_time": 0,
+    "periods_num": 0,
+    "order": 1
+  }, 
+  {
+    "id": 1000021,
+    "name": "英雄主题活动",
+    "open_level": 5,
+    "is_show": true,
+    "condition": [
+      {
+        "type": 2,
+        "time": 0
+      }
+    ],
+    "periods_last_time": 604800,
+    "periods_between_time": 86313600,
+    "periods_num": -1,
+    "order": 1
+  }
+]

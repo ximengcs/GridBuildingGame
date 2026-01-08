@@ -1,0 +1,19 @@
+.custom-label {
+    font-size: 14px;
+    -unity-font-style: bold;
+    color: rgb(68, 138, 255);
+    -unity-text-align: upper-center;
+}
+
+.execute-button {
+    background-color: rgb(6, 176, 8);
+    color: rgb(0, 0, 0);
+}
+
+.execute-button:hover {
+    background-color: rgb(14, 226, 16);
+}
+
+.execute-button:active {
+    background-color: rgb(6, 118, 7);
+}

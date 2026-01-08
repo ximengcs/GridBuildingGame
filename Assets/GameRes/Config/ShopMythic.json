@@ -1,0 +1,44 @@
+[
+  {
+    "id": 10420001,
+    "name": "神话石档位1",
+    "cost_id": 104,
+    "cost_price": 500,
+    "buy_limit": 100,
+    "reward": {
+      "type": 1,
+      "confId": 202,
+      "num": 10
+    },
+    "goods_name": "UI_Text_shop7",
+    "goods_icon": "page_shop_cell_jewel_1"
+  }, 
+  {
+    "id": 10420002,
+    "name": "神话石档位2",
+    "cost_id": 104,
+    "cost_price": 5000,
+    "buy_limit": 100,
+    "reward": {
+      "type": 1,
+      "confId": 106,
+      "num": 50
+    },
+    "goods_name": "UI_Text_shop8",
+    "goods_icon": "page_shop_cell_jewel_2"
+  }, 
+  {
+    "id": 10420003,
+    "name": "神话石档位3",
+    "cost_id": 104,
+    "cost_price": 20000,
+    "buy_limit": 100,
+    "reward": {
+      "type": 1,
+      "confId": 106,
+      "num": 200
+    },
+    "goods_name": "UI_Text_shop9",
+    "goods_icon": "page_shop_cell_jewel_3"
+  }
+]

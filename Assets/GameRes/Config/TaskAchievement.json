@@ -1,0 +1,23 @@
+[
+  {
+    "id": 1,
+    "achievement_type": {
+      "type": 3004,
+      "para1": 0,
+      "para2": 0,
+      "add": 1
+    },
+    "achievement_para2": [2, 4, 6],
+    "achievement_reward": [
+      {
+        "type": 1,
+        "confId": 104,
+        "num": 30
+      }
+    ],
+    "title_name": "AchievementTask_title_1",
+    "achievement_desc": "AchievementTask_text_1",
+    "order": 1,
+    "jump_id": 1
+  }
+]

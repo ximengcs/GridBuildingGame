@@ -1,0 +1,890 @@
+[
+  {
+    "id": 410001,
+    "prefabName": "common_effect",
+    "path": "prefabs/effect/common_effect",
+    "bundle": "battle_effect",
+    "sprFrameName": "Skill_effect_350084",
+    "atlasName": "battle_effect_skill2"
+  }, 
+  {
+    "id": 410019,
+    "prefabName": "effect_shengji_01",
+    "path": "prefabs/effect/other/effect_shengji_01",
+    "bundle": "battle_effect"
+  }, 
+  {
+    "id": 410020,
+    "prefabName": "UI_effect_tuowei",
+    "path": "prefabs/effect/other/UI_effect_tuowei",
+    "bundle": "battle"
+  }, 
+  {
+    "id": 410021,
+    "prefabName": "Hit_effect_xiaoshi",
+    "path": "prefabs/effect/hit/Hit_effect_xiaoshi",
+    "bundle": "battle_effect"
+  }, 
+  {
+    "id": 410022,
+    "prefabName": "common_effect",
+    "path": "prefabs/effect/common_effect",
+    "bundle": "battle_effect",
+    "sprFrameName": "effect_shengji_02",
+    "atlasName": "battle_effect_skill"
+  }, 
+  {
+    "id": 400002,
+    "prefabName": "common_effect",
+    "path": "prefabs/effect/common_effect",
+    "bundle": "battle",
+    "sprFrameName": "Hit_effect_physics",
+    "atlasName": "battle_effect"
+  }, 
+  {
+    "id": 400003,
+    "prefabName": "common_effect",
+    "path": "prefabs/effect/common_effect",
+    "bundle": "battle",
+    "sprFrameName": "Hit_effect_magic",
+    "atlasName": "battle_effect"
+  }, 
+  {
+    "id": 400004,
+    "prefabName": "Hit_effect_SpUp",
+    "path": "prefabs/effect/hit/Hit_effect_SpUp",
+    "bundle": "battle"
+  }, 
+  {
+    "id": 440001,
+    "prefabName": "common_ground",
+    "path": "prefabs/effect/ground/common_ground",
+    "bundle": "battle",
+    "sprFrameName": "Ground_effect_320042",
+    "atlasName": "battle_effect"
+  }, 
+  {
+    "id": 440002,
+    "prefabName": "common_ground",
+    "path": "prefabs/effect/ground/common_ground",
+    "bundle": "battle",
+    "sprFrameName": "Ground_effect_330022",
+    "atlasName": "battle_effect"
+  }, 
+  {
+    "id": 440003,
+    "prefabName": "common_ground",
+    "path": "prefabs/effect/ground/common_ground",
+    "bundle": "battle",
+    "sprFrameName": "Ground_effect_351094",
+    "atlasName": "battle_effect"
+  }, 
+  {
+    "id": 440004,
+    "prefabName": "common_ground",
+    "path": "prefabs/effect/ground/common_ground",
+    "bundle": "battle",
+    "sprFrameName": "Ground_effect_350043",
+    "atlasName": "battle_effect"
+  }, 
+  {
+    "id": 440005,
+    "prefabName": "Ground_effect_351145",
+    "path": "prefabs/effect/ground/Ground_effect_351145",
+    "bundle": "battle",
+    "effectWeak": 1
+  }, 
+  {
+    "id": 450001,
+    "prefabName": "common_buff",
+    "path": "prefabs/effect/buff/common_buff",
+    "bundle": "battle",
+    "sprFrameName": "Buff_effect_stun",
+    "atlasName": "battle_effect"
+  }, 
+  {
+    "id": 450002,
+    "prefabName": "common_buff",
+    "path": "prefabs/effect/buff/common_buff",
+    "bundle": "battle",
+    "sprFrameName": "Buff_effect_330043",
+    "atlasName": "battle_effect"
+  }, 
+  {
+    "id": 430001,
+    "prefabName": "common_bullet",
+    "path": "prefabs/effect/bullet/common_bullet",
+    "bundle": "battle",
+    "sprFrameName": "Bullet_effect_310011",
+    "atlasName": "battle_effect"
+  }, 
+  {
+    "id": 430002,
+    "prefabName": "common_bullet",
+    "path": "prefabs/effect/bullet/common_bullet",
+    "bundle": "battle",
+    "sprFrameName": "Bullet_effect_31002",
+    "atlasName": "battle_effect"
+  }, 
+  {
+    "id": 430003,
+    "prefabName": "common_bullet",
+    "path": "prefabs/effect/bullet/common_bullet",
+    "bundle": "battle",
+    "sprFrameName": "Bullet_effect_320011",
+    "atlasName": "battle_effect"
+  }, 
+  {
+    "id": 430004,
+    "prefabName": "common_bullet",
+    "path": "prefabs/effect/bullet/common_bullet",
+    "bundle": "battle",
+    "sprFrameName": "Bullet_effect_320021",
+    "atlasName": "battle_effect"
+  }, 
+  {
+    "id": 430005,
+    "prefabName": "common_bullet",
+    "path": "prefabs/effect/bullet/common_bullet",
+    "bundle": "battle",
+    "sprFrameName": "Bullet_effect_330042",
+    "atlasName": "battle_effect"
+  }, 
+  {
+    "id": 430006,
+    "prefabName": "common_bullet",
+    "path": "prefabs/effect/bullet/common_bullet",
+    "bundle": "battle",
+    "sprFrameName": "Bullet_effect_340013",
+    "atlasName": "battle_effect"
+  }, 
+  {
+    "id": 430007,
+    "prefabName": "common_bullet",
+    "path": "prefabs/effect/bullet/common_bullet",
+    "bundle": "battle",
+    "sprFrameName": "Bullet_effect_340040",
+    "atlasName": "battle_effect"
+  }, 
+  {
+    "id": 430008,
+    "prefabName": "common_bullet",
+    "path": "prefabs/effect/bullet/common_bullet",
+    "bundle": "battle",
+    "sprFrameName": "Bullet_effect_350021",
+    "atlasName": "battle_effect"
+  }, 
+  {
+    "id": 430009,
+    "prefabName": "common_bullet",
+    "path": "prefabs/effect/bullet/common_bullet",
+    "bundle": "battle",
+    "sprFrameName": "Bullet_effect_350052",
+    "atlasName": "battle_effect"
+  }, 
+  {
+    "id": 430011,
+    "prefabName": "common_bullet",
+    "path": "prefabs/effect/bullet/common_bullet",
+    "bundle": "battle",
+    "sprFrameName": "Bullet_effect_351092",
+    "atlasName": "battle_effect"
+  }, 
+  {
+    "id": 420001,
+    "prefabName": "common_effect",
+    "path": "prefabs/effect/common_effect",
+    "bundle": "battle",
+    "sprFrameName": "Skill_effect_310021",
+    "atlasName": "battle_effect_skill_base"
+  }, 
+  {
+    "id": 420002,
+    "prefabName": "common_effect",
+    "path": "prefabs/effect/common_effect",
+    "bundle": "battle",
+    "sprFrameName": "Skill_effect_320021",
+    "atlasName": "battle_effect_skill_base"
+  }, 
+  {
+    "id": 420004,
+    "prefabName": "common_effect",
+    "path": "prefabs/effect/common_effect",
+    "bundle": "battle",
+    "sprFrameName": "Skill_effect_320052",
+    "atlasName": "battle_effect_skill_base"
+  }, 
+  {
+    "id": 420006,
+    "prefabName": "common_effect",
+    "path": "prefabs/effect/common_effect",
+    "bundle": "battle",
+    "sprFrameName": "Skill_effect_340012",
+    "atlasName": "battle_effect_skill_base"
+  }, 
+  {
+    "id": 420007,
+    "prefabName": "common_effect",
+    "path": "prefabs/effect/common_effect",
+    "bundle": "battle",
+    "sprFrameName": "Skill_effect_340032",
+    "atlasName": "battle_effect_skill_base"
+  }, 
+  {
+    "id": 420008,
+    "prefabName": "common_effect",
+    "path": "prefabs/effect/common_effect",
+    "bundle": "battle",
+    "sprFrameName": "Skill_effect_340033",
+    "atlasName": "battle_effect_skill_base"
+  }, 
+  {
+    "id": 420009,
+    "prefabName": "common_effect",
+    "path": "prefabs/effect/common_effect",
+    "bundle": "battle",
+    "sprFrameName": "Skill_effect_340042",
+    "atlasName": "battle_effect_skill_base"
+  }, 
+  {
+    "id": 420010,
+    "prefabName": "common_effect",
+    "path": "prefabs/effect/common_effect",
+    "bundle": "battle",
+    "sprFrameName": "Skill_effect_340043",
+    "atlasName": "battle_effect_skill_base"
+  }, 
+  {
+    "id": 420011,
+    "prefabName": "common_effect",
+    "path": "prefabs/effect/common_effect",
+    "bundle": "battle",
+    "sprFrameName": "Skill_effect_340044",
+    "atlasName": "battle_effect_skill_base"
+  }, 
+  {
+    "id": 420012,
+    "prefabName": "common_effect",
+    "path": "prefabs/effect/common_effect",
+    "bundle": "battle_effect",
+    "sprFrameName": "Skill_effect_350011",
+    "atlasName": "battle_effect_skill"
+  }, 
+  {
+    "id": 420013,
+    "prefabName": "common_effect",
+    "path": "prefabs/effect/common_effect",
+    "bundle": "battle_effect",
+    "sprFrameName": "Skill_effect_350012",
+    "atlasName": "battle_effect_skill"
+  }, 
+  {
+    "id": 420014,
+    "prefabName": "common_effect",
+    "path": "prefabs/effect/common_effect",
+    "bundle": "battle_effect",
+    "sprFrameName": "Skill_effect_350021",
+    "atlasName": "battle_effect_skill3"
+  }, 
+  {
+    "id": 420015,
+    "prefabName": "common_effect",
+    "path": "prefabs/effect/common_effect",
+    "bundle": "battle_effect",
+    "sprFrameName": "Skill_effect_350032",
+    "atlasName": "battle_effect_skill2"
+  }, 
+  {
+    "id": 420016,
+    "prefabName": "common_effect",
+    "path": "prefabs/effect/common_effect",
+    "bundle": "battle_effect",
+    "sprFrameName": "Skill_effect_350033",
+    "atlasName": "battle_effect_skill"
+  }, 
+  {
+    "id": 420018,
+    "prefabName": "Skill_effect_350044",
+    "path": "prefabs/effect/skill/Skill_effect_350044",
+    "bundle": "battle_effect",
+    "effectWeak": 1
+  }, 
+  {
+    "id": 420019,
+    "prefabName": "common_effect",
+    "path": "prefabs/effect/common_effect",
+    "bundle": "battle_effect",
+    "sprFrameName": "Skill_effect_350052",
+    "atlasName": "battle_effect_skill"
+  }, 
+  {
+    "id": 420020,
+    "prefabName": "common_effect",
+    "path": "prefabs/effect/common_effect",
+    "bundle": "battle_effect",
+    "sprFrameName": "Skill_effect_350053",
+    "atlasName": "battle_effect_skill"
+  }, 
+  {
+    "id": 420021,
+    "prefabName": "common_effect",
+    "path": "prefabs/effect/common_effect",
+    "bundle": "battle_effect",
+    "sprFrameName": "Skill_effect_350062",
+    "atlasName": "battle_effect_skill"
+  }, 
+  {
+    "id": 420022,
+    "prefabName": "common_effect",
+    "path": "prefabs/effect/common_effect",
+    "bundle": "battle_effect",
+    "sprFrameName": "Skill_effect_350073",
+    "atlasName": "battle_effect_skill"
+  }, 
+  {
+    "id": 420023,
+    "prefabName": "Skill_effect_350074",
+    "path": "prefabs/effect/skill/Skill_effect_350074",
+    "bundle": "battle_effect",
+    "effectWeak": 1
+  }, 
+  {
+    "id": 420024,
+    "prefabName": "Skill_effect_350075",
+    "path": "prefabs/effect/skill/Skill_effect_350075",
+    "bundle": "battle_effect",
+    "effectWeak": 1
+  }, 
+  {
+    "id": 420025,
+    "prefabName": "common_effect",
+    "path": "prefabs/effect/common_effect",
+    "bundle": "battle",
+    "sprFrameName": "Skill_effect_350085",
+    "atlasName": "battle_effect_skill_base",
+    "effectWeak": 1
+  }, 
+  {
+    "id": 420026,
+    "prefabName": "common_effect",
+    "path": "prefabs/effect/common_effect",
+    "bundle": "battle",
+    "sprFrameName": "Skill_effect_351093",
+    "atlasName": "battle_effect_skill_base"
+  }, 
+  {
+    "id": 420027,
+    "prefabName": "common_effect",
+    "path": "prefabs/effect/common_effect",
+    "bundle": "battle_effect",
+    "sprFrameName": "Skill_effect_350103",
+    "atlasName": "battle_effect_skill2"
+  }, 
+  {
+    "id": 420028,
+    "prefabName": "common_effect",
+    "path": "prefabs/effect/common_effect",
+    "bundle": "battle_effect",
+    "sprFrameName": "Skill_effect_350104",
+    "atlasName": "battle_effect_skill2"
+  }, 
+  {
+    "id": 420029,
+    "prefabName": "common_effect",
+    "path": "prefabs/effect/common_effect",
+    "bundle": "battle_effect",
+    "sprFrameName": "Skill_effect_351114",
+    "atlasName": "battle_effect_skill2"
+  }, 
+  {
+    "id": 420030,
+    "prefabName": "Skill_effect_351115",
+    "path": "prefabs/effect/skill/Skill_effect_351115",
+    "bundle": "battle_effect",
+    "effectWeak": 1
+  }, 
+  {
+    "id": 420031,
+    "prefabName": "common_effect",
+    "path": "prefabs/effect/common_effect",
+    "bundle": "battle_effect",
+    "sprFrameName": "Skill_effect_350132",
+    "atlasName": "battle_effect_skill2"
+  }, 
+  {
+    "id": 420032,
+    "prefabName": "common_effect",
+    "path": "prefabs/effect/common_effect",
+    "bundle": "battle_effect",
+    "sprFrameName": "Skill_effect_350133",
+    "atlasName": "battle_effect_skill2"
+  }, 
+  {
+    "id": 420033,
+    "prefabName": "common_effect",
+    "path": "prefabs/effect/common_effect",
+    "bundle": "battle_effect",
+    "sprFrameName": "Skill_effect_351144",
+    "atlasName": "battle_effect_skill2",
+    "effectWeak": 1
+  }, 
+  {
+    "id": 480001,
+    "prefabName": "common_bullet",
+    "path": "prefabs/effect/bullet/common_bullet",
+    "bundle": "battle",
+    "sprFrameName": "Bullet_effect_310011",
+    "atlasName": "battle_effect"
+  }, 
+  {
+    "id": 480002,
+    "prefabName": "common_bullet",
+    "path": "prefabs/effect/bullet/common_bullet",
+    "bundle": "battle",
+    "sprFrameName": "Bullet_effect_320011",
+    "atlasName": "battle_effect"
+  }, 
+  {
+    "id": 480003,
+    "prefabName": "common_bullet",
+    "path": "prefabs/effect/bullet/common_bullet",
+    "bundle": "battle",
+    "sprFrameName": "Bullet_effect_32002",
+    "atlasName": "battle_effect"
+  }, 
+  {
+    "id": 480004,
+    "prefabName": "common_bullet",
+    "path": "prefabs/effect/bullet/common_bullet",
+    "bundle": "battle",
+    "sprFrameName": "Bullet_effect_330020",
+    "atlasName": "battle_effect"
+  }, 
+  {
+    "id": 480005,
+    "prefabName": "common_bullet",
+    "path": "prefabs/effect/bullet/common_bullet",
+    "bundle": "battle",
+    "sprFrameName": "Bullet_effect_34003",
+    "atlasName": "battle_effect"
+  }, 
+  {
+    "id": 480006,
+    "prefabName": "common_bullet",
+    "path": "prefabs/effect/bullet/common_bullet",
+    "bundle": "battle",
+    "sprFrameName": "Bullet_effect_340040",
+    "atlasName": "battle_effect"
+  }, 
+  {
+    "id": 480007,
+    "prefabName": "common_bullet",
+    "path": "prefabs/effect/bullet/common_bullet",
+    "bundle": "battle",
+    "sprFrameName": "Bullet_effect_350010",
+    "atlasName": "battle_effect"
+  }, 
+  {
+    "id": 480008,
+    "prefabName": "common_bullet",
+    "path": "prefabs/effect/bullet/common_bullet",
+    "bundle": "battle",
+    "sprFrameName": "Bullet_effect_350020",
+    "atlasName": "battle_effect"
+  }, 
+  {
+    "id": 480009,
+    "prefabName": "common_bullet",
+    "path": "prefabs/effect/bullet/common_bullet",
+    "bundle": "battle",
+    "sprFrameName": "Bullet_effect_350030",
+    "atlasName": "battle_effect"
+  }, 
+  {
+    "id": 480010,
+    "prefabName": "common_bullet",
+    "path": "prefabs/effect/bullet/common_bullet",
+    "bundle": "battle",
+    "sprFrameName": "Bullet_effect_350040",
+    "atlasName": "battle_effect"
+  }, 
+  {
+    "id": 480011,
+    "prefabName": "common_bullet",
+    "path": "prefabs/effect/bullet/common_bullet",
+    "bundle": "battle",
+    "sprFrameName": "Bullet_effect_350052",
+    "atlasName": "battle_effect"
+  }, 
+  {
+    "id": 480012,
+    "prefabName": "common_bullet",
+    "path": "prefabs/effect/bullet/common_bullet",
+    "bundle": "battle",
+    "sprFrameName": "Bullet_effect_350070",
+    "atlasName": "battle_effect"
+  }, 
+  {
+    "id": 480013,
+    "prefabName": "common_bullet",
+    "path": "prefabs/effect/bullet/common_bullet",
+    "bundle": "battle",
+    "sprFrameName": "Bullet_effect_351110",
+    "atlasName": "battle_effect"
+  }, 
+  {
+    "id": 480014,
+    "prefabName": "common_bullet",
+    "path": "prefabs/effect/bullet/common_bullet",
+    "bundle": "battle",
+    "sprFrameName": "Bullet_effect_350130",
+    "atlasName": "battle_effect"
+  }, 
+  {
+    "id": 480015,
+    "prefabName": "common_bullet",
+    "path": "prefabs/effect/bullet/common_bullet",
+    "bundle": "battle",
+    "sprFrameName": "Bullet_effect_310040",
+    "atlasName": "battle_effect"
+  }, 
+  {
+    "id": 480016,
+    "prefabName": "common_bullet",
+    "path": "prefabs/effect/bullet/common_bullet",
+    "bundle": "battle",
+    "sprFrameName": "Bullet_effect_310020",
+    "atlasName": "battle_effect"
+  }, 
+  {
+    "id": 480017,
+    "prefabName": "common_bullet",
+    "path": "prefabs/effect/bullet/common_bullet",
+    "bundle": "battle",
+    "sprFrameName": "Bullet_effect_351140",
+    "atlasName": "battle_effect"
+  }, 
+  {
+    "id": 480018,
+    "prefabName": "common_bullet",
+    "path": "prefabs/effect/bullet/common_bullet",
+    "bundle": "battle",
+    "sprFrameName": "Bullet_effect_320040",
+    "atlasName": "battle_effect"
+  }, 
+  {
+    "id": 480019,
+    "prefabName": "common_ground",
+    "path": "prefabs/effect/ground/common_ground",
+    "bundle": "battle",
+    "sprFrameName": "Ground_effect_351114",
+    "atlasName": "battle_effect"
+  }, 
+  {
+    "id": 480020,
+    "prefabName": "common_effect",
+    "path": "prefabs/effect/common_effect",
+    "bundle": "battle_effect",
+    "sprFrameName": "Skill_effect_350063",
+    "atlasName": "battle_effect_skill_base"
+  }, 
+  {
+    "id": 480021,
+    "prefabName": "common_ground",
+    "path": "prefabs/effect/ground/common_ground",
+    "bundle": "battle",
+    "sprFrameName": "Ground_effect_350033",
+    "atlasName": "battle_effect"
+  }, 
+  {
+    "id": 480022,
+    "prefabName": "common_ground",
+    "path": "prefabs/effect/ground/common_ground",
+    "bundle": "battle",
+    "sprFrameName": "Ground_effect_Volcano",
+    "atlasName": "battle_effect_skill_volcano"
+  }, 
+  {
+    "id": 480023,
+    "prefabName": "common_effect",
+    "path": "prefabs/effect/common_effect",
+    "bundle": "battle",
+    "sprFrameName": "Skill_effect_Volcano",
+    "atlasName": "battle_effect_skill_volcano"
+  }, 
+  {
+    "id": 480024,
+    "prefabName": "common_effect",
+    "path": "prefabs/effect/common_effect",
+    "bundle": "battle_effect",
+    "sprFrameName": "Skill_effect_350174",
+    "atlasName": "battle_effect_skill_35017"
+  }, 
+  {
+    "id": 480025,
+    "prefabName": "common_effect",
+    "path": "prefabs/effect/common_effect",
+    "bundle": "battle_effect",
+    "sprFrameName": "Skill_effect_350175",
+    "atlasName": "battle_effect_skill_35017",
+    "effectWeak": 1
+  }, 
+  {
+    "id": 480026,
+    "prefabName": "common_effect",
+    "path": "prefabs/effect/common_effect",
+    "bundle": "battle_effect",
+    "sprFrameName": "Skill_effect_350153",
+    "atlasName": "battle_effect_skill3"
+  }, 
+  {
+    "id": 480027,
+    "prefabName": "common_effect",
+    "path": "prefabs/effect/common_effect",
+    "bundle": "battle_effect",
+    "sprFrameName": "Skill_effect_350484",
+    "atlasName": "battle_effect_skill5"
+  }, 
+  {
+    "id": 480028,
+    "prefabName": "common_effect",
+    "path": "prefabs/effect/common_effect",
+    "bundle": "battle_effect",
+    "sprFrameName": "Skill_effect_350504",
+    "atlasName": "battle_effect_skill5",
+    "effectWeak": 1
+  }, 
+  {
+    "id": 480029,
+    "prefabName": "common_ground",
+    "path": "prefabs/effect/ground/common_ground",
+    "bundle": "battle",
+    "sprFrameName": "Ground_effect_350484",
+    "atlasName": "battle_effect"
+  }, 
+  {
+    "id": 480030,
+    "prefabName": "common_ground",
+    "path": "prefabs/effect/ground/common_ground",
+    "bundle": "battle",
+    "sprFrameName": "Ground_effect_350505",
+    "atlasName": "battle_effect",
+    "effectWeak": 1
+  }, 
+  {
+    "id": 480031,
+    "prefabName": "common_bullet",
+    "path": "prefabs/effect/bullet/common_bullet",
+    "bundle": "battle",
+    "sprFrameName": "Bullet_effect_350480",
+    "atlasName": "battle_effect"
+  }, 
+  {
+    "id": 480032,
+    "prefabName": "common_bullet",
+    "path": "prefabs/effect/bullet/common_bullet",
+    "bundle": "battle",
+    "sprFrameName": "Bullet_effect_350500",
+    "atlasName": "battle_effect"
+  }, 
+  {
+    "id": 480033,
+    "prefabName": "common_bullet",
+    "path": "prefabs/effect/bullet/common_bullet",
+    "bundle": "battle",
+    "sprFrameName": "Bullet_effect_350280",
+    "atlasName": "battle_effect2"
+  }, 
+  {
+    "id": 480034,
+    "prefabName": "common_effect",
+    "path": "prefabs/effect/common_effect",
+    "bundle": "battle_effect",
+    "sprFrameName": "Skill_effect_350284",
+    "atlasName": "battle_effect_skill5",
+    "effectWeak": 1
+  }, 
+  {
+    "id": 480035,
+    "prefabName": "common_ground",
+    "path": "prefabs/effect/ground/common_ground",
+    "bundle": "battle",
+    "sprFrameName": "Ground_effect_350285",
+    "atlasName": "battle_effect2",
+    "effectWeak": 1
+  }, 
+  {
+    "id": 480036,
+    "prefabName": "Skill_effect_350182",
+    "path": "prefabs/effect/skill/Skill_effect_350182",
+    "bundle": "battle_effect"
+  }, 
+  {
+    "id": 480037,
+    "prefabName": "Skill_effect_350183",
+    "path": "prefabs/effect/skill/Skill_effect_350183",
+    "bundle": "battle_effect"
+  }, 
+  {
+    "id": 480038,
+    "prefabName": "common_effect",
+    "path": "prefabs/effect/common_effect",
+    "bundle": "battle_effect",
+    "sprFrameName": "Skill_effect_350512",
+    "atlasName": "battle_effect_skill5"
+  }, 
+  {
+    "id": 480039,
+    "prefabName": "common_bullet",
+    "path": "prefabs/effect/bullet/common_bullet",
+    "bundle": "battle",
+    "sprFrameName": "Bullet_effect_350512",
+    "atlasName": "battle_effect"
+  }, 
+  {
+    "id": 480040,
+    "prefabName": "common_effect",
+    "path": "prefabs/effect/common_effect",
+    "bundle": "battle_effect",
+    "sprFrameName": "Skill_effect_350522",
+    "atlasName": "battle_effect_skill5"
+  }, 
+  {
+    "id": 480041,
+    "prefabName": "Skill_effect_350253",
+    "path": "prefabs/effect/skill/Skill_effect_350253",
+    "bundle": "battle_effect"
+  }, 
+  {
+    "id": 410042,
+    "prefabName": "UI_effect_StrengthenSuccess",
+    "path": "prefabs/effect/other/UI_effect_StrengthenSuccess",
+    "bundle": "battle_effect"
+  }, 
+  {
+    "id": 410043,
+    "prefabName": "UI_effect_StrengthenFail",
+    "path": "prefabs/effect/other/UI_effect_StrengthenFail",
+    "bundle": "battle_effect"
+  }, 
+  {
+    "effectWeak": 1
+  }, 
+  {
+    "effectWeak": 1
+  }, 
+  {
+    "effectWeak": 1
+  }, 
+  {
+    "effectWeak": 1
+  }, 
+  {
+    "effectWeak": 1
+  }, 
+  {
+    "effectWeak": 1
+  }, 
+  {
+    "effectWeak": 1
+  }, 
+  {
+    "effectWeak": 1
+  }, 
+  {
+    "effectWeak": 1
+  }, 
+  {
+    "effectWeak": 1
+  }, 
+  {
+    "effectWeak": 1
+  }, 
+  {
+    "effectWeak": 1
+  }, 
+  {
+    "effectWeak": 1
+  }, 
+  {
+    "effectWeak": 1
+  }, 
+  {
+    "effectWeak": 1
+  }, 
+  {
+    "effectWeak": 1
+  }, 
+  {
+    "effectWeak": 1
+  }, 
+  {
+    "effectWeak": 1
+  }, 
+  {
+    "effectWeak": 1
+  }, 
+  {
+    "effectWeak": 1
+  }, 
+  {
+    "effectWeak": 1
+  }, 
+  {
+    "effectWeak": 1
+  }, 
+  {
+    "effectWeak": 1
+  }, 
+  {
+    "effectWeak": 1
+  }, 
+  {
+    "effectWeak": 1
+  }, 
+  {
+    "effectWeak": 1
+  }, 
+  {
+    "effectWeak": 1
+  }, 
+  {
+    "effectWeak": 1
+  }, 
+  {
+    "effectWeak": 1
+  }, 
+  {
+    "effectWeak": 1
+  }, 
+  {
+    "effectWeak": 1
+  }, 
+  {
+    "effectWeak": 1
+  }, 
+  {
+    "effectWeak": 1
+  }, 
+  {
+    "effectWeak": 1
+  }, 
+  {
+    "effectWeak": 1
+  }, 
+  {
+    "effectWeak": 1
+  }, 
+  {
+    "effectWeak": 1
+  }, 
+  {
+    "effectWeak": 1
+  }, 
+  {
+    "effectWeak": 1
+  }, 
+  {
+    "effectWeak": 1
+  }
+]

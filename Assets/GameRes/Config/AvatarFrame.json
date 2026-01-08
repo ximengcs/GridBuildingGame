@@ -1,0 +1,26 @@
+[
+  {
+    "id": 10210001,
+    "unlock_type": 1,
+    "avatarframe_name": "avatarframe_name_0001",
+    "avatarframe_desc": "avatarframe_desc_0001",
+    "picture": "PlayerAvatar_Frame_01",
+    "order": 10,
+    "is_show": 1
+  }, 
+  {
+    "id": 10212003,
+    "unlock_type": 3,
+    "condition": {
+      "type": 3001,
+      "para1": 0,
+      "para2": 1,
+      "add": 1
+    },
+    "avatarframe_name": "avatarframe_name_2003",
+    "avatarframe_desc": "avatarframe_desc_2002",
+    "picture": "avatarframe_pic_2003",
+    "order": 40,
+    "is_show": 1
+  }
+]

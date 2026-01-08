@@ -1,0 +1,334 @@
+[
+  {
+    "id": 10340001,
+    "type": 2,
+    "reward": [
+      {
+        "type": 1,
+        "confId": 103,
+        "num": 2000
+      }
+    ],
+    "weight": 100
+  }, 
+  {
+    "id": 10340002,
+    "type": 2,
+    "reward": [
+      {
+        "type": 1,
+        "confId": 104,
+        "num": 100
+      }
+    ],
+    "weight": 100
+  }, 
+  {
+    "id": 10340003,
+    "type": 2,
+    "reward": [
+      {
+        "type": 1,
+        "confId": 105,
+        "num": 60
+      }
+    ],
+    "weight": 100
+  }, 
+  {
+    "id": 10340004,
+    "type": 2,
+    "reward": [
+      {
+        "type": 1,
+        "confId": 106,
+        "num": 3
+      }
+    ],
+    "weight": 100
+  }, 
+  {
+    "id": 10340005,
+    "type": 2,
+    "reward": [
+      {
+        "type": 1,
+        "confId": 107,
+        "num": 1
+      }
+    ],
+    "weight": 100
+  }, 
+  {
+    "id": 10340006,
+    "type": 2,
+    "reward": [
+      {
+        "type": 1,
+        "confId": 110,
+        "num": 30
+      }
+    ],
+    "weight": 100
+  }, 
+  {
+    "id": 10340007,
+    "type": 2,
+    "reward": [
+      {
+        "type": 1,
+        "confId": 111,
+        "num": 60
+      }
+    ],
+    "weight": 100
+  }, 
+  {
+    "id": 10340008,
+    "type": 2,
+    "reward": [
+      {
+        "type": 1,
+        "confId": 103,
+        "num": 2500
+      }
+    ],
+    "weight": 100
+  }, 
+  {
+    "id": 10340009,
+    "type": 2,
+    "reward": [
+      {
+        "type": 1,
+        "confId": 104,
+        "num": 120
+      }
+    ],
+    "weight": 100
+  }, 
+  {
+    "id": 10340010,
+    "type": 2,
+    "reward": [
+      {
+        "type": 1,
+        "confId": 105,
+        "num": 100
+      }
+    ],
+    "weight": 100
+  }, 
+  {
+    "id": 10340011,
+    "type": 2,
+    "reward": [
+      {
+        "type": 1,
+        "confId": 106,
+        "num": 3
+      }
+    ],
+    "weight": 100
+  }, 
+  {
+    "id": 10340012,
+    "type": 2,
+    "reward": [
+      {
+        "type": 1,
+        "confId": 107,
+        "num": 1
+      }
+    ],
+    "weight": 100
+  }, 
+  {
+    "id": 10340013,
+    "type": 2,
+    "reward": [
+      {
+        "type": 1,
+        "confId": 110,
+        "num": 25
+      }
+    ],
+    "weight": 100
+  }, 
+  {
+    "id": 10340014,
+    "type": 2,
+    "reward": [
+      {
+        "type": 1,
+        "confId": 111,
+        "num": 65
+      }
+    ],
+    "weight": 100
+  }, 
+  {
+    "id": 10340015,
+    "type": 2,
+    "reward": [
+      {
+        "type": 1,
+        "confId": 103,
+        "num": 2200
+      }
+    ],
+    "weight": 100
+  }, 
+  {
+    "id": 10340016,
+    "type": 2,
+    "reward": [
+      {
+        "type": 1,
+        "confId": 104,
+        "num": 150
+      }
+    ],
+    "weight": 100
+  }, 
+  {
+    "id": 10340017,
+    "type": 2,
+    "reward": [
+      {
+        "type": 1,
+        "confId": 105,
+        "num": 150
+      }
+    ],
+    "weight": 100
+  }, 
+  {
+    "id": 10340018,
+    "type": 2,
+    "reward": [
+      {
+        "type": 1,
+        "confId": 106,
+        "num": 3
+      }
+    ],
+    "weight": 100
+  }, 
+  {
+    "id": 10340019,
+    "type": 2,
+    "reward": [
+      {
+        "type": 1,
+        "confId": 107,
+        "num": 1
+      }
+    ],
+    "weight": 100
+  }, 
+  {
+    "id": 10340020,
+    "type": 2,
+    "reward": [
+      {
+        "type": 1,
+        "confId": 110,
+        "num": 35
+      }
+    ],
+    "weight": 100
+  }, 
+  {
+    "id": 10340021,
+    "type": 2,
+    "reward": [
+      {
+        "type": 1,
+        "confId": 111,
+        "num": 50
+      }
+    ],
+    "weight": 100
+  }, 
+  {
+    "id": 10340022,
+    "type": 1,
+    "attr_desc": "relic_attr_50001",
+    "attr_type": "Attack%",
+    "attr_para": 10.000000,
+    "weight": 100
+  }, 
+  {
+    "id": 10340023,
+    "type": 1,
+    "attr_desc": "relic_attr_50002",
+    "attr_type": "AttackSpeed%",
+    "attr_para": 10.000000,
+    "weight": 100
+  }, 
+  {
+    "id": 10340024,
+    "type": 1,
+    "attr_desc": "relic_attr_50003",
+    "attr_type": "Stun%",
+    "attr_para": 10.000000,
+    "weight": 100
+  }, 
+  {
+    "id": 10340025,
+    "type": 1,
+    "attr_desc": "relic_attr_50004",
+    "attr_type": "BossDamage%",
+    "attr_para": 10.000000,
+    "weight": 100
+  }, 
+  {
+    "id": 10340026,
+    "type": 1,
+    "attr_desc": "relic_attr_50005",
+    "attr_type": "SkillDamage%",
+    "attr_para": 10.000000,
+    "weight": 100
+  }, 
+  {
+    "id": 10340027,
+    "type": 1,
+    "attr_desc": "relic_attr_50006",
+    "attr_type": "Slow",
+    "attr_para": 5.000000,
+    "weight": 100
+  }, 
+  {
+    "id": 10340028,
+    "type": 1,
+    "attr_desc": "relic_attr_50007",
+    "attr_type": "ReduceDefense",
+    "attr_para": 5.000000,
+    "weight": 100
+  }, 
+  {
+    "id": 10340029,
+    "type": 1,
+    "attr_desc": "relic_attr_50008",
+    "attr_type": "PhysicalDamage%",
+    "attr_para": 5.000000,
+    "weight": 100
+  }, 
+  {
+    "id": 10340030,
+    "type": 1,
+    "attr_desc": "relic_attr_50009",
+    "attr_type": "MagicDamage%",
+    "attr_para": 5.000000,
+    "weight": 100
+  }, 
+  {
+    "id": 10340031,
+    "type": 1,
+    "attr_desc": "relic_attr_50020",
+    "attr_type": "Critical%",
+    "attr_para": 5.000000,
+    "weight": 100
+  }
+]

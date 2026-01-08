@@ -1,0 +1,128 @@
+[
+  {
+    "id": 1,
+    "name": "金币",
+    "limit_type": 1,
+    "buy_limit": 10,
+    "buy_cost": {
+      "type": 1,
+      "confId": 112,
+      "num": 100
+    },
+    "reward": {
+      "type": 1,
+      "confId": 103,
+      "num": 2000
+    },
+    "need_alliance_lv": 1,
+    "order": 1
+  }, 
+  {
+    "id": 2,
+    "name": "招募券",
+    "limit_type": 1,
+    "buy_limit": 5,
+    "buy_cost": {
+      "type": 1,
+      "confId": 112,
+      "num": 120
+    },
+    "reward": {
+      "type": 1,
+      "confId": 105,
+      "num": 60
+    },
+    "need_alliance_lv": 3,
+    "order": 2
+  }, 
+  {
+    "id": 3,
+    "name": "神话石",
+    "limit_type": 2,
+    "buy_limit": 2,
+    "buy_cost": {
+      "type": 1,
+      "confId": 112,
+      "num": 2000
+    },
+    "reward": {
+      "type": 1,
+      "confId": 106,
+      "num": 20
+    },
+    "need_alliance_lv": 5,
+    "order": 3
+  }, 
+  {
+    "id": 5,
+    "name": "凝气丹",
+    "limit_type": 1,
+    "buy_limit": 5,
+    "buy_cost": {
+      "type": 1,
+      "confId": 112,
+      "num": 150
+    },
+    "reward": {
+      "type": 1,
+      "confId": 110,
+      "num": 50
+    },
+    "need_alliance_lv": 7,
+    "order": 4
+  }, 
+  {
+    "id": 4,
+    "name": "文物钥匙",
+    "limit_type": 2,
+    "buy_limit": 10,
+    "buy_cost": {
+      "type": 1,
+      "confId": 112,
+      "num": 600
+    },
+    "reward": {
+      "type": 1,
+      "confId": 107,
+      "num": 2
+    },
+    "need_alliance_lv": 9,
+    "order": 5
+  }, 
+  {
+    "id": 6,
+    "name": "古神符",
+    "limit_type": 1,
+    "buy_limit": 2,
+    "buy_cost": {
+      "type": 1,
+      "confId": 112,
+      "num": 400
+    },
+    "reward": {
+      "type": 1,
+      "confId": 111,
+      "num": 100
+    },
+    "need_alliance_lv": 10,
+    "order": 6
+  }, 
+  {
+    "id": 7,
+    "name": "天神英雄宝箱",
+    "limit_type": 2,
+    "buy_limit": 1,
+    "buy_cost": {
+      "type": 1,
+      "confId": 112,
+      "num": 3000
+    },
+    "reward": {
+      "type": 2,
+      "confId": 200001,
+      "num": 1
+    },
+    "need_alliance_lv": 11,
+    "order": 7
+  }
+]

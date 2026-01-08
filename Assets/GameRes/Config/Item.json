@@ -1,0 +1,154 @@
+[
+  {
+    "id": 200001,
+    "name": "随机天神宝箱",
+    "type": 2,
+    "in_warehouse": 4,
+    "color": 5,
+    "show_level": 1,
+    "rand_reward": [
+      {
+        "type": 2,
+        "confId": 200004,
+        "num": 1,
+        "rate": 100
+      }, 
+      {
+        "type": 2,
+        "confId": 200005,
+        "num": 1,
+        "rate": 100
+      }
+    ],
+    "item_name": "Item_Name_200001",
+    "item_desc": "Item_Desc_200001",
+    "package": "items",
+    "icon": "Item_icon_200001",
+    "order_id": 1
+  }, 
+  {
+    "id": 200002,
+    "name": "固定奖励宝箱",
+    "type": 1,
+    "in_warehouse": 4,
+    "color": 2,
+    "show_level": 1,
+    "reward": [
+      {
+        "type": 1,
+        "confId": 105,
+        "num": 50000
+      }, 
+      {
+        "type": 1,
+        "confId": 106,
+        "num": 10000
+      }
+    ],
+    "item_name": "Item_Name_200002",
+    "item_desc": "Item_Desc_200002",
+    "package": "items",
+    "icon": "Item_icon_200002",
+    "order_id": 2
+  }, 
+  {
+    "id": 200003,
+    "name": "固定奖励+随机奖励宝箱",
+    "type": 3,
+    "in_warehouse": 4,
+    "color": 3,
+    "show_level": 2,
+    "reward": [
+      {
+        "type": 1,
+        "confId": 105,
+        "num": 50000
+      }, 
+      {
+        "type": 1,
+        "confId": 106,
+        "num": 10000
+      }
+    ],
+    "rand_reward": [
+      {
+        "type": 2,
+        "confId": 200004,
+        "num": 1,
+        "rate": 100
+      }, 
+      {
+        "type": 2,
+        "confId": 200005,
+        "num": 1,
+        "rate": 100
+      }
+    ],
+    "item_name": "Item_Name_200003",
+    "item_desc": "Item_Desc_200003",
+    "package": "items",
+    "icon": "Item_icon_200003",
+    "order_id": 3
+  }, 
+  {
+    "id": 200004,
+    "name": "铲子",
+    "type": 5,
+    "sub_type": 1,
+    "in_warehouse": 4,
+    "color": 3,
+    "show_level": 1,
+    "item_name": "Item_Name_200004",
+    "item_desc": "Item_Desc_200004",
+    "package": "items",
+    "icon": "Item_icon_200004",
+    "buy_use": {
+      "type": 1,
+      "confId": 104,
+      "num": 100
+    },
+    "sell_value": {
+      "type": 1,
+      "confId": 103,
+      "num": 100
+    },
+    "order_id": 4
+  }, 
+  {
+    "id": 200005,
+    "name": "砖块",
+    "type": 5,
+    "sub_type": 2,
+    "in_warehouse": 4,
+    "color": 3,
+    "show_level": 1,
+    "item_name": "Item_Name_200005",
+    "item_desc": "Item_Desc_200005",
+    "package": "items",
+    "icon": "Item_icon_200005",
+    "buy_use": {
+      "type": 1,
+      "confId": 104,
+      "num": 100
+    },
+    "sell_value": {
+      "type": 1,
+      "confId": 103,
+      "num": 100
+    },
+    "order_id": 5
+  }, 
+  {
+    "id": 200006,
+    "name": "孙悟空静态头像物品",
+    "type": 6,
+    "in_warehouse": 4,
+    "color": 5,
+    "value": 10201005,
+    "item_name": "Item_Name_200006",
+    "item_desc": "Item_Desc_200006",
+    "package": "avatar",
+    "icon": "Item_icon_200006",
+    "order_id": 6
+  }
+]

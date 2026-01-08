@@ -1,0 +1,89 @@
+[
+  {
+    "id": 1,
+    "tab_type": 1,
+    "tab_name": "giftShop_name_01",
+    "tab_banner": "Banner_tabs_01",
+    "tab_icon": "Tabs_icon_01",
+    "order": 1
+  }, 
+  {
+    "id": 2,
+    "tab_type": 1,
+    "tab_name": "giftShop_name_05",
+    "tab_banner": "Banner_tabs_05",
+    "tab_icon": "Tabs_icon_05",
+    "order": 2
+  }, 
+  {
+    "id": 3,
+    "tab_type": 1,
+    "tab_name": "giftShop_name_03",
+    "tab_banner": "Banner_tabs_04",
+    "tab_icon": "Tabs_icon_04",
+    "order": 3
+  }, 
+  {
+    "id": 4,
+    "tab_type": 1,
+    "tab_name": "giftShop_name_04",
+    "tab_banner": "Banner_tabs_07",
+    "tab_icon": "Tabs_icon_06",
+    "order": 4
+  }, 
+  {
+    "id": 5,
+    "tab_type": 1,
+    "tab_name": "giftShop_name_05",
+    "order": 5
+  }, 
+  {
+    "id": 6,
+    "tab_type": 1,
+    "tab_name": "giftShop_name_06",
+    "order": 6
+  }, 
+  {
+    "id": 7,
+    "tab_type": 1,
+    "tab_name": "giftShop_name_07",
+    "tab_banner": "Banner_tabs_07",
+    "tab_icon": "Tabs_icon_06",
+    "order": 7
+  }, 
+  {
+    "id": 99,
+    "tab_type": 99,
+    "tab_icon": "Tabs_icon_06"
+  }, 
+  {
+    "id": 91,
+    "tab_type": 1
+  }, 
+  {
+    "id": 98,
+    "tab_type": 98
+  }, 
+  {
+    "id": 971,
+    "tab_type": 97,
+    "tab_name": "SuperWelfare_hero",
+    "tab_banner": "cflb_xssd_banner01",
+    "tab_icon": "cflb_icon01"
+  }, 
+  {
+    "id": 972,
+    "tab_type": 97,
+    "tab_name": "SuperWelfare_shop",
+    "tab_banner": "cflb_thsd_banner01",
+    "tab_icon": "cflb_icon02"
+  }, 
+  {
+    "id": 973,
+    "tab_type": 97
+  }, 
+  {
+    "id": 981,
+    "tab_type": 98
+  }
+]

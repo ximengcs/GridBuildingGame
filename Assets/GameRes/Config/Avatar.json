@@ -1,0 +1,23 @@
+[
+  {
+    "id": 10200001,
+    "unlock_type": 1,
+    "avatar_name": "PlayerAvatar_name_0001",
+    "picture": "recruit_avatar_32003",
+    "order": 1
+  }, 
+  {
+    "id": 10201001,
+    "unlock_type": 3,
+    "condition": {
+      "type": 3001,
+      "para1": 0,
+      "para2": 1,
+      "add": 1
+    },
+    "avatar_name": "PlayerAvatar_name_1001",
+    "avatar_desc": "PlayerAvatar_desc_1001",
+    "picture": "recruit_avatar_35010",
+    "order": 8
+  }
+]

@@ -1,0 +1,65 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b05c83971e3dca94f9fa460d396385e5, type: 3}
+  m_Name: BuildinCatalog
+  m_EditorClassIdentifier: 
+  PackageName: DefaultPackage
+  PackageVersion: 2025-01-25-898
+  Wrappers:
+  - BundleGUID: 174f26b53bee63fea4ff1004d60c910d
+    FileName: defaultpackage_assets_gameres_audio_174f26b53bee63fea4ff1004d60c910d.bundle
+  - BundleGUID: c0e9a70bd31e47010085af0e9387fa14
+    FileName: defaultpackage_assets_gameres_c0e9a70bd31e47010085af0e9387fa14.bundle
+  - BundleGUID: c67fd831df77cc3d729827d3384f00c9
+    FileName: defaultpackage_assets_gameres_config_c67fd831df77cc3d729827d3384f00c9.bundle
+  - BundleGUID: 4965acbc5144cbec0a90737b9af1da96
+    FileName: defaultpackage_assets_gameres_fontconfig_cn_4965acbc5144cbec0a90737b9af1da96.bundle
+  - BundleGUID: 112214d06c2cf57b6ac6cb882c23b472
+    FileName: defaultpackage_assets_gameres_fontconfig_en_112214d06c2cf57b6ac6cb882c23b472.bundle
+  - BundleGUID: cc0dc6caf772fe3f126180730ec7e41e
+    FileName: defaultpackage_assets_gameres_fontconfig__no_auto_edit_cc0dc6caf772fe3f126180730ec7e41e.bundle
+  - BundleGUID: a289bdf5987e3285bb210150ee8ee0b1
+    FileName: defaultpackage_assets_gameres_hotupdatedlls_a289bdf5987e3285bb210150ee8ee0b1.bundle
+  - BundleGUID: df4bf74df49e36668055d7b4bbbb5bac
+    FileName: defaultpackage_assets_gameres_map_configs_df4bf74df49e36668055d7b4bbbb5bac.bundle
+  - BundleGUID: cf8db940ffdef92e49642019d74eab97
+    FileName: defaultpackage_assets_gameres_map_data_cf8db940ffdef92e49642019d74eab97.bundle
+  - BundleGUID: f0b5dd6d4d946964025c22eda291e477
+    FileName: defaultpackage_assets_gameres_map_prefabs_f0b5dd6d4d946964025c22eda291e477.bundle
+  - BundleGUID: a792b06f438d3474ba61ed39db556268
+    FileName: defaultpackage_assets_gameres_map_textures_atlas_a792b06f438d3474ba61ed39db556268.bundle
+  - BundleGUID: 4abf09578c45cc394a4e8c024f132b39
+    FileName: defaultpackage_assets_gameres_map_textures_common_4abf09578c45cc394a4e8c024f132b39.bundle
+  - BundleGUID: e68caf3cbc3cb409af4c02655fd480ef
+    FileName: defaultpackage_assets_gameres_map_textures_other_e68caf3cbc3cb409af4c02655fd480ef.bundle
+  - BundleGUID: dcce8f5f1ad18fe44b2bb31cbcf6e43a
+    FileName: defaultpackage_assets_gameres_map_textures_sky_dcce8f5f1ad18fe44b2bb31cbcf6e43a.bundle
+  - BundleGUID: 5f2637898a3b32317701dfc4d77a421a
+    FileName: defaultpackage_assets_gameres_map_textures_surfacedecorate_5f2637898a3b32317701dfc4d77a421a.bundle
+  - BundleGUID: ea3396aa4b5b1f918cce932afa5eefd4
+    FileName: defaultpackage_assets_gameres_map_textures_surface_ea3396aa4b5b1f918cce932afa5eefd4.bundle
+  - BundleGUID: 9f3ece32192b81b48971247a9f24fa56
+    FileName: defaultpackage_assets_gameres_prefabs_uicomponent_9f3ece32192b81b48971247a9f24fa56.bundle
+  - BundleGUID: 449c538e9a0265f66bfd21dcdabc0d8a
+    FileName: defaultpackage_assets_gameres_prefabs_ui_449c538e9a0265f66bfd21dcdabc0d8a.bundle
+  - BundleGUID: afcfcb10ddb0b915743b28611a847bb6
+    FileName: defaultpackage_assets_gameres_scenes_afcfcb10ddb0b915743b28611a847bb6.bundle
+  - BundleGUID: f90451fb1502eee059dbd3a7e8758171
+    FileName: defaultpackage_assets_gameres_sprite_avatarframe_f90451fb1502eee059dbd3a7e8758171.bundle
+  - BundleGUID: 30527efbdf86c606628a72cc133c36b6
+    FileName: defaultpackage_assets_gameres_sprite_avatar_30527efbdf86c606628a72cc133c36b6.bundle
+  - BundleGUID: 13d0085564f93e26e7202838f7351398
+    FileName: defaultpackage_assets_gameres_sprite_item_13d0085564f93e26e7202838f7351398.bundle
+  - BundleGUID: 7c583aed8a7a82d23d22d6a13676c750
+    FileName: defaultpackage_share_assets_gameart_ui_7c583aed8a7a82d23d22d6a13676c750.bundle
+  - BundleGUID: ffbf2a804899d385a5f15f6cd199d834
+    FileName: defaultpackage_unityshaders_ffbf2a804899d385a5f15f6cd199d834.bundle

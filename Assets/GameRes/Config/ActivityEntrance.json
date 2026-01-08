@@ -1,0 +1,219 @@
+[
+  {
+    "id": 1000001,
+    "name": "首充",
+    "static_entrance_path": "activity_icon_FirstPay",
+    "position": 1,
+    "order": 1,
+    "module_type": 1,
+    "entrance_name": "Entrance_1000001",
+    "anim_entrance_path": "activity_icon_FirstPay"
+  }, 
+  {
+    "id": 3000001,
+    "name": "活动",
+    "static_entrance_path": "activity_icon_activity",
+    "position": 1,
+    "order": 3,
+    "module_type": 2,
+    "entrance_name": "Entrance_3000001",
+    "anim_entrance_path": "activity_icon_activity"
+  }, 
+  {
+    "id": 2000001,
+    "name": "商城礼包",
+    "static_entrance_path": "activity_icon_gift",
+    "position": 1,
+    "order": 4,
+    "module_type": 2,
+    "entrance_name": "Entrance_2000001",
+    "anim_entrance_path": "activity_icon_gift"
+  }, 
+  {
+    "id": 1000002,
+    "name": "战令（狩猎通行证）",
+    "static_entrance_path": "activity_icon_PassCard_002",
+    "position": 1,
+    "order": 5,
+    "module_type": 2,
+    "entrance_name": "Entrance_1000002",
+    "anim_entrance_path": "UI_tmzt"
+  }, 
+  {
+    "id": 2000002,
+    "name": "弹窗礼包",
+    "static_entrance_path": "activity_icon_gift_trigger",
+    "position": 1,
+    "order": 6,
+    "module_type": 3,
+    "entrance_name": "Entrance_2000002",
+    "anim_entrance_path": "activity_icon_gift_trigger"
+  }, 
+  {
+    "id": 2000006,
+    "name": "任务",
+    "static_entrance_path": "activity_icon_task",
+    "position": 2,
+    "order": 7,
+    "module_type": 2,
+    "entrance_name": "Entrance_2000006",
+    "anim_entrance_path": "UI_xuanshang"
+  }, 
+  {
+    "id": 2000003,
+    "name": "社区",
+    "static_entrance_path": "activity_icon_community",
+    "position": 4,
+    "order": 1,
+    "module_type": 1,
+    "entrance_name": "Entrance_2000003",
+    "anim_entrance_path": "activity_icon_community"
+  }, 
+  {
+    "id": 1000007,
+    "name": "邀请新玩家",
+    "static_entrance_path": "activity_icon_InviteNew",
+    "position": 4,
+    "order": 2,
+    "module_type": 2,
+    "entrance_name": "Entrance_1000007",
+    "anim_entrance_path": "activity_icon_InviteNew"
+  }, 
+  {
+    "id": 1000004,
+    "name": "7日登录",
+    "static_entrance_path": "activity_icon_SignIn_004",
+    "position": 3,
+    "order": 10,
+    "module_type": 2,
+    "entrance_name": "Entrance_1000004"
+  }, 
+  {
+    "id": 1000005,
+    "name": "5日目标",
+    "static_entrance_path": "activity_icon_FiveDayGoal",
+    "position": 3,
+    "order": 11,
+    "module_type": 4,
+    "entrance_name": "Entrance_1000005"
+  }, 
+  {
+    "id": 1000003,
+    "name": "等级基金",
+    "static_entrance_path": "activity_icon_found_003",
+    "position": 3,
+    "order": 12,
+    "module_type": 2,
+    "entrance_name": "Entrance_1000003"
+  }, 
+  {
+    "id": 1000009,
+    "name": "招募基金",
+    "static_entrance_path": "activity_icon_found_009",
+    "position": 3,
+    "order": 13,
+    "module_type": 2,
+    "entrance_name": "Entrance_1000009"
+  }, 
+  {
+    "id": 1000008,
+    "name": "月签到",
+    "static_entrance_path": "activity_icon_SignIn_008",
+    "position": 3,
+    "order": 14,
+    "module_type": 2,
+    "entrance_name": "Entrance_1000008"
+  }, 
+  {
+    "id": 2000007,
+    "name": "每日祈福",
+    "static_entrance_path": "activity_icon_DailyBlessing",
+    "position": 3,
+    "order": 15,
+    "module_type": 4,
+    "entrance_name": "Entrance_2000007"
+  }, 
+  {
+    "id": 2000004,
+    "name": "订阅有礼",
+    "static_entrance_path": "activity_icon_Subscribe",
+    "position": 3,
+    "order": 16,
+    "module_type": 2,
+    "entrance_name": "Entrance_2000004"
+  }, 
+  {
+    "id": 2000005,
+    "name": "收藏",
+    "static_entrance_path": "activity_icon_Collect",
+    "position": 3,
+    "order": 17,
+    "module_type": 2,
+    "entrance_name": "Entrance_2000005"
+  }, 
+  {
+    "id": 1000015,
+    "name": "国庆登录",
+    "static_entrance_path": "activity_icon_SignIn_0010",
+    "position": 3,
+    "order": 9,
+    "module_type": 2,
+    "entrance_name": "Entrance_1000015"
+  }, 
+  {
+    "id": 1000016,
+    "name": "国庆献礼",
+    "static_entrance_path": "activity_icon_nationalday",
+    "position": 1,
+    "order": 6,
+    "module_type": 3,
+    "entrance_name": "Entrance_1000016",
+    "anim_entrance_path": "activity_icon_nationalday"
+  }, 
+  {
+    "id": 1000017,
+    "name": "超值福利",
+    "static_entrance_path": "acticity_icon_SignIn_009",
+    "position": 1,
+    "order": 2,
+    "module_type": 2,
+    "entrance_name": "Entrance_1000017",
+    "anim_entrance_path": "chaozhilibao"
+  }, 
+  {
+    "id": 1000018,
+    "name": "新手礼包（通关助礼）",
+    "static_entrance_path": "acticity_icon_SignIn_010",
+    "position": 1,
+    "order": 18,
+    "module_type": 4,
+    "entrance_name": "Entrance_1000018",
+    "anim_entrance_path": "xinshoulibao"
+  }, 
+  {
+    "id": 1000019,
+    "name": "新手礼包（通关嘉礼）",
+    "static_entrance_path": "acticity_icon_SignIn_011",
+    "position": 2,
+    "order": 22,
+    "module_type": 4,
+    "entrance_name": "Entrance_1000019",
+    "anim_entrance_path": "xinshoulibao2"
+  }, 
+  {
+    "id": 1000020,
+    "name": "抖音福利",
+    "static_entrance_path": "douyin_02",
+    "position": 2,
+    "order": 20,
+    "module_type": 2,
+    "entrance_name": "Entrance_1000020"
+  }, 
+  {
+    "id": 1000021,
+    "name": "新英雄主题活动",
+    "position": 2,
+    "order": 21,
+    "module_type": 5
+  }
+]

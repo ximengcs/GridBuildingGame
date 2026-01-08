@@ -1,0 +1,178 @@
+[
+  {
+    "id": 1010001,
+    "activity_id": 1000001,
+    "pay_type": 1,
+    "price_rmb": 6,
+    "product_id_china": "com.jsjq.xx.128lb",
+    "efficient": 10,
+    "ios_pay_rmb": "com.mmkj.yzdq.0099"
+  }, 
+  {
+    "id": 1010002,
+    "activity_id": 1000002,
+    "pay_type": 1,
+    "price_rmb": 30,
+    "product_id_china": "com.jsjq.xx.68lb",
+    "efficient": 12,
+    "ios_pay_rmb": "com.mmkj.yzdq.0499"
+  }, 
+  {
+    "id": 1010003,
+    "activity_id": 1000003,
+    "pay_type": 1,
+    "price_rmb": 18,
+    "product_id_china": "com.jsjq.xx.30lb",
+    "efficient": 10,
+    "ios_pay_rmb": "com.mmkj.yzdq.0299"
+  }, 
+  {
+    "id": 1010004,
+    "activity_id": 1000009,
+    "pay_type": 1,
+    "price_rmb": 30,
+    "product_id_china": "com.jsjq.xx.128lb",
+    "efficient": 12,
+    "ios_pay_rmb": "com.mmkj.yzdq.0499"
+  }, 
+  {
+    "id": 1010005,
+    "activity_id": 1000010,
+    "pay_type": 1,
+    "price_rmb": 30,
+    "efficient": 10,
+    "ios_pay_rmb": "com.mmkj.yzdq.0499"
+  }, 
+  {
+    "id": 1010006,
+    "activity_id": 1000011,
+    "pay_type": 1,
+    "price_rmb": 68,
+    "efficient": 10,
+    "ios_pay_rmb": "com.mmkj.yzdq.0999"
+  }, 
+  {
+    "id": 1010007,
+    "pay_type": 2,
+    "price_rmb": 6,
+    "ios_pay_rmb": "com.mmkj.yzdq.0099"
+  }, 
+  {
+    "id": 1010008,
+    "pay_type": 2,
+    "price_rmb": 30,
+    "ios_pay_rmb": "com.mmkj.yzdq.0499"
+  }, 
+  {
+    "id": 1010009,
+    "pay_type": 2,
+    "price_rmb": 98,
+    "ios_pay_rmb": "com.mmkj.yzdq.1499"
+  }, 
+  {
+    "id": 1010010,
+    "pay_type": 2,
+    "price_rmb": 198,
+    "ios_pay_rmb": "com.mmkj.yzdq.2999"
+  }, 
+  {
+    "id": 1010011,
+    "pay_type": 2,
+    "price_rmb": 328,
+    "ios_pay_rmb": "com.mmkj.yzdq.4999"
+  }, 
+  {
+    "id": 1010012,
+    "pay_type": 2,
+    "price_rmb": 648,
+    "ios_pay_rmb": "com.mmkj.yzdq.9999"
+  }, 
+  {
+    "id": 1000013,
+    "activity_id": 1000013,
+    "pay_type": 1,
+    "price_rmb": 12,
+    "product_id_china": "com.jsjq.xx.128lb",
+    "efficient": 10,
+    "ios_pay_rmb": "com.mmkj.yzdq.0199"
+  }, 
+  {
+    "id": 1000014,
+    "activity_id": 1000014,
+    "pay_type": 1,
+    "price_rmb": 18,
+    "product_id_china": "com.jsjq.xx.128lb",
+    "efficient": 10,
+    "ios_pay_rmb": "com.mmkj.yzdq.0299"
+  }, 
+  {
+    "id": 1000015,
+    "pay_type": 3,
+    "price_rmb": 30,
+    "product_id_china": "com.jsjq.xx.30lb",
+    "ios_pay_rmb": "com.mmkj.yzdq.0499"
+  }, 
+  {
+    "id": 1000016,
+    "pay_type": 3,
+    "price_rmb": 30,
+    "product_id_china": "com.jsjq.xx.30lb",
+    "ios_pay_rmb": "com.mmkj.yzdq.0499"
+  }, 
+  {
+    "id": 1000017,
+    "pay_type": 3,
+    "price_rmb": 68,
+    "product_id_china": "com.jsjq.xx.68lb",
+    "ios_pay_rmb": "com.mmkj.yzdq.0999"
+  }, 
+  {
+    "id": 1000018,
+    "pay_type": 3,
+    "price_rmb": 68,
+    "product_id_china": "com.jsjq.xx.68lb",
+    "ios_pay_rmb": "com.mmkj.yzdq.0999"
+  }, 
+  {
+    "id": 1000021,
+    "activity_id": 1000021,
+    "pay_type": 1,
+    "price_rmb": 6,
+    "ios_pay_rmb": "com.mmkj.yzdq.0099"
+  }, 
+  {
+    "id": 1000022,
+    "activity_id": 1000021,
+    "pay_type": 1,
+    "price_rmb": 30,
+    "ios_pay_rmb": "com.mmkj.yzdq.0499"
+  }, 
+  {
+    "id": 1000023,
+    "activity_id": 1000021,
+    "pay_type": 1,
+    "price_rmb": 68,
+    "ios_pay_rmb": "com.mmkj.yzdq.0999"
+  }, 
+  {
+    "id": 1000024,
+    "activity_id": 1000021,
+    "pay_type": 1,
+    "price_rmb": 128,
+    "ios_pay_rmb": "com.mmkj.yzdq.1999"
+  }, 
+  {
+    "id": 1000025,
+    "activity_id": 1000021,
+    "pay_type": 1,
+    "price_rmb": 328,
+    "ios_pay_rmb": "com.mmkj.yzdq.4999"
+  }, 
+  {
+    "id": 1000026,
+    "activity_id": 1000021,
+    "pay_type": 1,
+    "price_rmb": 648,
+    "ios_pay_rmb": "com.mmkj.yzdq.9999"
+  }
+]

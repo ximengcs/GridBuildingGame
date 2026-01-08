@@ -1,0 +1,67 @@
+[
+  {
+    "id": 1,
+    "permission": "退出公会权限",
+    "right_name": "XXXX"
+  }, 
+  {
+    "id": 2,
+    "permission": "转让会长权限",
+    "right_name": "XXXX"
+  }, 
+  {
+    "id": 3,
+    "permission": "任职副会长权限",
+    "right_name": "XXXX"
+  }, 
+  {
+    "id": 4,
+    "permission": "世界频道发布招募权限",
+    "right_name": "XXXX"
+  }, 
+  {
+    "id": 5,
+    "permission": "入会审批权限",
+    "right_name": "XXXX"
+  }, 
+  {
+    "id": 6,
+    "permission": "踢出普通成员权限",
+    "right_name": "XXXX"
+  }, 
+  {
+    "id": 7,
+    "permission": "踢出副会长权限",
+    "right_name": "XXXX"
+  }, 
+  {
+    "id": 8,
+    "permission": "修改公会名称权限",
+    "right_name": "XXXX"
+  }, 
+  {
+    "id": 9,
+    "permission": "修改公会公告权限",
+    "right_name": "XXXX"
+  }, 
+  {
+    "id": 10,
+    "permission": "公会解散权限",
+    "right_name": "XXXX"
+  }, 
+  {
+    "id": 11,
+    "permission": "旗帜修改权限",
+    "right_name": "XXXX"
+  }, 
+  {
+    "id": 12,
+    "permission": "查看申请列表（包含入会申请等级调整权限、入会是否免审核调整权限）",
+    "right_name": "XXXX"
+  }, 
+  {
+    "id": 13,
+    "permission": "解散公会权限",
+    "right_name": "XXXX"
+  }
+]

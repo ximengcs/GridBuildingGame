@@ -1,0 +1,802 @@
+[
+  {
+    "id": "AchievementTask_text_1",
+    "cn": "<color = #a95d00><color = #4c2f24>玩家累积登录{0}天</color>"
+  }, 
+  {
+    "id": "AchievementTask_title_1",
+    "cn": "<color = #a95d00><color = #4c2f24>累积登录</color>"
+  }, 
+  {
+    "id": "Chat_Tips1",
+    "cn": "最多输入{0}个汉字"
+  }, 
+  {
+    "id": "Chat_Tips2",
+    "cn": "输入内容不能为空"
+  }, 
+  {
+    "id": "Chat_Tips3",
+    "cn": "还有{0}秒才能发言"
+  }, 
+  {
+    "id": "Chat_Tips4",
+    "cn": "所有消息已清空"
+  }, 
+  {
+    "id": "Chat_Tips5",
+    "cn": "所有消息设置为已读"
+  }, 
+  {
+    "id": "Chat_Tips6",
+    "cn": "暂无可读消息"
+  }, 
+  {
+    "id": "Mail_Tips1",
+    "cn": "邮件全部已读"
+  }, 
+  {
+    "id": "Mail_Tips2",
+    "cn": "暂无邮件可删除"
+  }, 
+  {
+    "id": "Friend_Tips1",
+    "cn": "没有找到该玩家"
+  }, 
+  {
+    "id": "Friend_Tips2",
+    "cn": "不能查找自己"
+  }, 
+  {
+    "id": "Friend_Tips3",
+    "cn": "已发送好友申请"
+  }, 
+  {
+    "id": "Friend_Tips4",
+    "cn": "您的好友已满，无法发送申请"
+  }, 
+  {
+    "id": "Friend_Tips5",
+    "cn": "对方好友申请已满，无法发送申请"
+  }, 
+  {
+    "id": "Friend_Tips6",
+    "cn": "刷新成功"
+  }, 
+  {
+    "id": "Friend_Tips7",
+    "cn": "还有{0}秒才能刷新"
+  }, 
+  {
+    "id": "Friend_Tips8",
+    "cn": "已拒绝对方的申请"
+  }, 
+  {
+    "id": "Friend_Tips9",
+    "cn": "已同意对方的申请"
+  }, 
+  {
+    "id": "Friend_Tips10",
+    "cn": "您的好友数量已达上限"
+  }, 
+  {
+    "id": "Friend_Tips11",
+    "cn": "对方好友数量已达上限"
+  }, 
+  {
+    "id": "Friend_Tips12",
+    "cn": "您在对方黑名单中，无法同意"
+  }, 
+  {
+    "id": "Friend_Tips13",
+    "cn": "对方在您的黑名单中，无法同意"
+  }, 
+  {
+    "id": "Friend_Tips14",
+    "cn": "已拒绝所有申请"
+  }, 
+  {
+    "id": "Friend_Tips15",
+    "cn": "您的好友数量已达上限，剩余申请无法同意"
+  }, 
+  {
+    "id": "Friend_Tips16",
+    "cn": "已将对方拉黑，无法发送好友申请"
+  }, 
+  {
+    "id": "Friend_Tips17",
+    "cn": "黑名单人数已满"
+  }, 
+  {
+    "id": "Warehouse_Tips1",
+    "cn": "仓库已满"
+  }, 
+  {
+    "id": "Warehouse_Tips2",
+    "cn": "{0}不足"
+  }, 
+  {
+    "id": "Warehouse_Tips3",
+    "cn": "已达最小数量"
+  }, 
+  {
+    "id": "Warehouse_Tips4",
+    "cn": "已达最大数量"
+  }, 
+  {
+    "id": "Player_information1",
+    "cn": "请选择头像"
+  }, 
+  {
+    "id": "Player_information2",
+    "cn": "请选择头像框"
+  }, 
+  {
+    "id": "Player_information3",
+    "cn": "钻石数量不足"
+  }, 
+  {
+    "id": "Player_information4",
+    "cn": "请输入{0}-{1}个字的昵称"
+  }, 
+  {
+    "id": "Player_information5",
+    "cn": "请勿输入敏感词"
+  }, 
+  {
+    "id": "Marquee_Test1",
+    "cn": "恭喜玩家<color = #a95d00>{0}</color>在幻阁流光中获取到<color = #a95d00>{1}</color>！"
+  }, 
+  {
+    "id": "Marquee_Test2",
+    "cn": "恭喜玩家<color = #a95d00>{0}</color>兑换到绝世美花：<color = #a95d00>{1}</color>！"
+  }, 
+  {
+    "id": "Marquee_Test3",
+    "cn": "恭喜玩家<color = #a95d00>{0}</color>解锁花瓶<color = #a95d00>{1}</color>！"
+  }, 
+  {
+    "id": "Marquee_Test4",
+    "cn": "恭喜玩家<color = #a95d00>{0}</color>解锁成就，获得奖励<color = #a95d00>{1}</color>！"
+  }, 
+  {
+    "id": "SystemNotice_Test1",
+    "cn": "维护生态，保障财产安全！"
+  }, 
+  {
+    "id": "DailyTask_text_1",
+    "cn": "登入{1}次"
+  }, 
+  {
+    "id": "DailyTask_text_2",
+    "cn": "收获蓝色品质以上花{1}次"
+  }, 
+  {
+    "id": "UI_Text_Player_information1",
+    "cn": "玩家ID："
+  }, 
+  {
+    "id": "UI_Text_Player_information2",
+    "cn": "修改昵称"
+  }, 
+  {
+    "id": "UI_Text_Player_information3",
+    "cn": "新昵称"
+  }, 
+  {
+    "id": "UI_Text_Player_information4",
+    "cn": "请输入昵称"
+  }, 
+  {
+    "id": "UI_Text_Player_information5",
+    "cn": "昵称长度2~10个字，不能输入空格和特殊符合"
+  }, 
+  {
+    "id": "UI_Text_Player_information6",
+    "cn": "修改"
+  }, 
+  {
+    "id": "UI_Text_Player_information7",
+    "cn": "使用中"
+  }, 
+  {
+    "id": "UI_Text_Player_information8",
+    "cn": "更换"
+  }, 
+  {
+    "id": "UI_Text_Player_information9",
+    "cn": "头像"
+  }, 
+  {
+    "id": "UI_Text_Player_information10",
+    "cn": "头像框"
+  }, 
+  {
+    "id": "UI_Text_Player_information11",
+    "cn": "已使用"
+  }, 
+  {
+    "id": "UI_Text_Player_information12",
+    "cn": "等级"
+  }, 
+  {
+    "id": "UI_Text_Player_information13",
+    "cn": "拜访"
+  }, 
+  {
+    "id": "UI_Text_Player_information14",
+    "cn": "私聊"
+  }, 
+  {
+    "id": "UI_Text_Player_information15",
+    "cn": "拉黑"
+  }, 
+  {
+    "id": "UI_Text_Player_information16",
+    "cn": "添加好友"
+  }, 
+  {
+    "id": "UI_Text_Player_information17",
+    "cn": "解除拉黑"
+  }, 
+  {
+    "id": "UI_Text_Player_information18",
+    "cn": "删除好友"
+  }, 
+  {
+    "id": "UI_Text_Setting1",
+    "cn": "设置"
+  }, 
+  {
+    "id": "UI_Text_Setting2",
+    "cn": "语言"
+  }, 
+  {
+    "id": "UI_Text_Setting3",
+    "cn": "背景音乐"
+  }, 
+  {
+    "id": "UI_Text_Setting4",
+    "cn": "音效"
+  }, 
+  {
+    "id": "UI_Text_Setting5",
+    "cn": "震动"
+  }, 
+  {
+    "id": "UI_Text_Setting6",
+    "cn": "退出账号"
+  }, 
+  {
+    "id": "UI_Text_Setting7",
+    "cn": "更换区服"
+  }, 
+  {
+    "id": "UI_Text_Setting8",
+    "cn": "简体中文"
+  }, 
+  {
+    "id": "UI_Text_Setting9",
+    "cn": "繁体中文"
+  }, 
+  {
+    "id": "UI_Text_Setting10",
+    "cn": "English"
+  }, 
+  {
+    "id": "UI_Text_Chat1",
+    "cn": "系统"
+  }, 
+  {
+    "id": "UI_Text_Chat2",
+    "cn": "世界"
+  }, 
+  {
+    "id": "UI_Text_Chat3",
+    "cn": "公会"
+  }, 
+  {
+    "id": "UI_Text_Chat4",
+    "cn": "私聊"
+  }, 
+  {
+    "id": "UI_Text_Chat5",
+    "cn": "发送"
+  }, 
+  {
+    "id": "UI_Text_Chat6",
+    "cn": "按住说话"
+  }, 
+  {
+    "id": "UI_Text_Chat7",
+    "cn": "松开发送消息"
+  }, 
+  {
+    "id": "UI_Text_Chat8",
+    "cn": "松开取消发送"
+  }, 
+  {
+    "id": "UI_Text_Chat9",
+    "cn": "暂未加入公会"
+  }, 
+  {
+    "id": "UI_Text_Chat10",
+    "cn": "前往查看"
+  }, 
+  {
+    "id": "UI_Text_Chat11",
+    "cn": "暂无聊天对象"
+  }, 
+  {
+    "id": "UI_Text_Chat12",
+    "cn": "前往查看"
+  }, 
+  {
+    "id": "UI_Text_Chat13",
+    "cn": "一键清空"
+  }, 
+  {
+    "id": "UI_Text_Chat14",
+    "cn": "一键已读"
+  }, 
+  {
+    "id": "UI_Text_Chat15",
+    "cn": "移除"
+  }, 
+  {
+    "id": "UI_Text_Chat16",
+    "cn": "请选择一位玩家开始聊天"
+  }, 
+  {
+    "id": "UI_Text_Chat17",
+    "cn": "正在与{0}聊天中"
+  }, 
+  {
+    "id": "UI_Text_Mail1",
+    "cn": "邮件"
+  }, 
+  {
+    "id": "UI_Text_Mail2",
+    "cn": "邮箱容量："
+  }, 
+  {
+    "id": "UI_Text_Mail3",
+    "cn": "（超出上限后，自动删除日期最早的邮件）"
+  }, 
+  {
+    "id": "UI_Text_Mail4",
+    "cn": "有效期："
+  }, 
+  {
+    "id": "UI_Text_Mail5",
+    "cn": "天"
+  }, 
+  {
+    "id": "UI_Text_Mail6",
+    "cn": "时"
+  }, 
+  {
+    "id": "UI_Text_Mail7",
+    "cn": "分"
+  }, 
+  {
+    "id": "UI_Text_Mail8",
+    "cn": "一键删除"
+  }, 
+  {
+    "id": "UI_Text_Mail9",
+    "cn": "一键领取"
+  }, 
+  {
+    "id": "UI_Text_Mail10",
+    "cn": "一键阅读"
+  }, 
+  {
+    "id": "UI_Text_Mail11",
+    "cn": "发件人："
+  }, 
+  {
+    "id": "UI_Text_Mail12",
+    "cn": "领取"
+  }, 
+  {
+    "id": "UI_Text_Mail13",
+    "cn": "已领取"
+  }, 
+  {
+    "id": "UI_Text_Mail14",
+    "cn": "当前暂无邮件"
+  }, 
+  {
+    "id": "UI_Text_Mail15",
+    "cn": "是否删除所有已读邮件？"
+  }, 
+  {
+    "id": "UI_Text_General1",
+    "cn": "提示"
+  }, 
+  {
+    "id": "UI_Text_General2",
+    "cn": "确定"
+  }, 
+  {
+    "id": "UI_Text_General3",
+    "cn": "取消"
+  }, 
+  {
+    "id": "UI_Text_Friend1",
+    "cn": "好友"
+  }, 
+  {
+    "id": "UI_Text_Friend2",
+    "cn": "好友："
+  }, 
+  {
+    "id": "UI_Text_Friend3",
+    "cn": "暂无好友"
+  }, 
+  {
+    "id": "UI_Text_Friend4",
+    "cn": "我的好友"
+  }, 
+  {
+    "id": "UI_Text_Friend5",
+    "cn": "添加好友"
+  }, 
+  {
+    "id": "UI_Text_Friend6",
+    "cn": "好友申请"
+  }, 
+  {
+    "id": "UI_Text_Friend7",
+    "cn": "黑名单"
+  }, 
+  {
+    "id": "UI_Text_Friend8",
+    "cn": "等级："
+  }, 
+  {
+    "id": "UI_Text_Friend9",
+    "cn": "在线"
+  }, 
+  {
+    "id": "UI_Text_Friend10",
+    "cn": "离线{0}分钟"
+  }, 
+  {
+    "id": "UI_Text_Friend11",
+    "cn": "离线{0}小时"
+  }, 
+  {
+    "id": "UI_Text_Friend12",
+    "cn": "离线{0}天"
+  }, 
+  {
+    "id": "UI_Text_Friend13",
+    "cn": "输入玩家ID"
+  }, 
+  {
+    "id": "UI_Text_Friend14",
+    "cn": "查找"
+  }, 
+  {
+    "id": "UI_Text_Friend15",
+    "cn": "刷新"
+  }, 
+  {
+    "id": "UI_Text_Friend16",
+    "cn": "秒"
+  }, 
+  {
+    "id": "UI_Text_Friend17",
+    "cn": "推荐好友："
+  }, 
+  {
+    "id": "UI_Text_Friend18",
+    "cn": "暂无好友申请"
+  }, 
+  {
+    "id": "UI_Text_Friend19",
+    "cn": "申请："
+  }, 
+  {
+    "id": "UI_Text_Friend20",
+    "cn": "一键拒绝"
+  }, 
+  {
+    "id": "UI_Text_Friend21",
+    "cn": "一键同意"
+  }, 
+  {
+    "id": "UI_Text_Friend22",
+    "cn": "暂无黑名单人员"
+  }, 
+  {
+    "id": "UI_Text_Friend23",
+    "cn": "黑名单："
+  }, 
+  {
+    "id": "UI_Text_Friend24",
+    "cn": "解除拉黑"
+  }, 
+  {
+    "id": "UI_Text_Friend25",
+    "cn": "添加好友"
+  }, 
+  {
+    "id": "UI_Text_Friend26",
+    "cn": "已发送"
+  }, 
+  {
+    "id": "UI_Text_Rolling_Messages1",
+    "cn": "关闭后{0}小时内不再显示"
+  }, 
+  {
+    "id": "UI_Text_Warehouse1",
+    "cn": "仓库"
+  }, 
+  {
+    "id": "UI_Text_Warehouse2",
+    "cn": "全部"
+  }, 
+  {
+    "id": "UI_Text_Warehouse3",
+    "cn": "鲜花"
+  }, 
+  {
+    "id": "UI_Text_Warehouse4",
+    "cn": "制品"
+  }, 
+  {
+    "id": "UI_Text_Warehouse5",
+    "cn": "其他"
+  }, 
+  {
+    "id": "UI_Text_Warehouse6",
+    "cn": "容量："
+  }, 
+  {
+    "id": "UI_Text_Warehouse7",
+    "cn": "扩容"
+  }, 
+  {
+    "id": "UI_Text_Warehouse8",
+    "cn": "扩充仓库"
+  }, 
+  {
+    "id": "UI_Text_Warehouse9",
+    "cn": "必要材料"
+  }, 
+  {
+    "id": "UI_Text_Warehouse10",
+    "cn": "扩充"
+  }, 
+  {
+    "id": "UI_Text_Warehouse11",
+    "cn": "以下道具不足"
+  }, 
+  {
+    "id": "UI_Text_Warehouse12",
+    "cn": "立刻购买"
+  }, 
+  {
+    "id": "UI_Text_Warehouse13",
+    "cn": "盈收"
+  }, 
+  {
+    "id": "UI_Text_Warehouse14",
+    "cn": "出售"
+  }, 
+  {
+    "id": "UI_Text_Warehouse15",
+    "cn": "此道具无法出售"
+  }, 
+  {
+    "id": "UI_Text_Warehouse16",
+    "cn": "使用"
+  }, 
+  {
+    "id": "UI_Text_Warehouse17",
+    "cn": "使用后随机获得以下奖励"
+  }, 
+  {
+    "id": "UI_Text_Warehouse18",
+    "cn": "使用后立即获得以下奖励"
+  }, 
+  {
+    "id": "UI_Text_Notice1",
+    "cn": "公告"
+  }, 
+  {
+    "id": "DailyTask_text_3",
+    "cn": "今日消耗{0}达到{1}个"
+  }, 
+  {
+    "id": "Daily_Achievements_UI_Text1",
+    "cn": "日常"
+  }, 
+  {
+    "id": "Daily_Achievements_UI_Text2",
+    "cn": "成就"
+  }, 
+  {
+    "id": "Daily_Achievements_UI_Text3",
+    "cn": "领取"
+  }, 
+  {
+    "id": "Daily_Achievements_UI_Text4",
+    "cn": "前往"
+  }, 
+  {
+    "id": "Daily_Achievements_UI_Text5",
+    "cn": "已领取"
+  }, 
+  {
+    "id": "Daily_Achievements_UI_Text6",
+    "cn": "任务进度每天0点重置"
+  }, 
+  {
+    "id": "Daily_Achievements_Tips1",
+    "cn": "暂无奖励可领取"
+  }, 
+  {
+    "id": "DailyTask_title_1",
+    "cn": "日常任务标题test1"
+  }, 
+  {
+    "id": "DailyTask_title_2",
+    "cn": "日常任务标题test2"
+  }, 
+  {
+    "id": "DailyTask_title_3",
+    "cn": "日常任务标题test3"
+  }, 
+  {
+    "id": "currency_name_101",
+    "cn": "体力"
+  }, 
+  {
+    "id": "currency_name_102",
+    "cn": "经验"
+  }, 
+  {
+    "id": "currency_name_103",
+    "cn": "金币"
+  }, 
+  {
+    "id": "currency_name_104",
+    "cn": "宝石"
+  }, 
+  {
+    "id": "currency_name_105",
+    "cn": "仙盟贡献"
+  }, 
+  {
+    "id": "currency_name_106",
+    "cn": "仙盟经验"
+  }, 
+  {
+    "id": "currency_name_201",
+    "cn": "通行证经验"
+  }, 
+  {
+    "id": "currency_name_202",
+    "cn": "每日任务经验"
+  }, 
+  {
+    "id": "currency_name_203",
+    "cn": "七日任务分数"
+  }, 
+  {
+    "id": "currency_name_1004",
+    "cn": "玩家代币"
+  }, 
+  {
+    "id": "currency_desc_101",
+    "cn": "体力临时描述"
+  }, 
+  {
+    "id": "currency_desc_102",
+    "cn": "经验临时描述"
+  }, 
+  {
+    "id": "currency_desc_103",
+    "cn": "金币临时描述"
+  }, 
+  {
+    "id": "currency_desc_104",
+    "cn": "宝石临时描述"
+  }, 
+  {
+    "id": "currency_desc_105",
+    "cn": "仙盟贡献临时描述"
+  }, 
+  {
+    "id": "currency_desc_106",
+    "cn": "仙盟经验临时描述"
+  }, 
+  {
+    "id": "currency_desc_201",
+    "cn": "通行证经验临时描述"
+  }, 
+  {
+    "id": "currency_desc_202",
+    "cn": "每日任务经验临时描述"
+  }, 
+  {
+    "id": "currency_desc_203",
+    "cn": "七日任务分数临时描述"
+  }, 
+  {
+    "id": "currency_desc_1004",
+    "cn": "玩家代币临时描述"
+  }, 
+  {
+    "id": "Item_Name_200001",
+    "cn": "随机天神宝箱"
+  }, 
+  {
+    "id": "Item_Name_200002",
+    "cn": "固定奖励宝箱"
+  }, 
+  {
+    "id": "Item_Name_200003",
+    "cn": "固定奖励+随机奖励宝箱"
+  }, 
+  {
+    "id": "Item_Name_200004",
+    "cn": "铲子"
+  }, 
+  {
+    "id": "Item_Name_200005",
+    "cn": "砖块"
+  }, 
+  {
+    "id": "Item_Desc_200001",
+    "cn": "随机天神宝箱描述"
+  }, 
+  {
+    "id": "Item_Desc_200002",
+    "cn": "固定奖励宝箱描述"
+  }, 
+  {
+    "id": "Item_Desc_200003",
+    "cn": "固定奖励+随机奖励宝箱描述"
+  }, 
+  {
+    "id": "Item_Desc_200004",
+    "cn": "铲子描述"
+  }, 
+  {
+    "id": "Item_Desc_200005",
+    "cn": "砖块描述"
+  }, 
+  {
+    "id": "WarehouseType_Name_01",
+    "cn": "全部"
+  }, 
+  {
+    "id": "WarehouseType_Name_02",
+    "cn": "鲜花"
+  }, 
+  {
+    "id": "WarehouseType_Name_03",
+    "cn": "制品"
+  }, 
+  {
+    "id": "WarehouseType_Name_04",
+    "cn": "其他"
+  }, 
+  {
+    "id": "Build_Tips_1",
+    "cn": "必须先解锁相邻地块"
+  }, 
+  {
+    "id": "Item_Name_200006",
+    "cn": "头像XX"
+  }, 
+  {
+    "id": "Item_Desc_200006",
+    "cn": "头像描述XX"
+  }
+]

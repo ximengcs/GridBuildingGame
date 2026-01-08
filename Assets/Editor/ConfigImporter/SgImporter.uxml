@@ -1,0 +1,19 @@
+<ui:UXML xmlns:ui="UnityEngine.UIElements" xmlns:uie="UnityEditor.UIElements" xsi="http://www.w3.org/2001/XMLSchema-instance" engine="UnityEngine.UIElements" editor="UnityEditor.UIElements" noNamespaceSchemaLocation="../../../UIElementsSchema/UIElements.xsd" editor-extension-mode="False">
+    <Style src="project://database/Assets/Editor/ConfigImporter/SgImporter.uss?fileID=7433441132597879392&amp;guid=4ce36048008ba1e4a9b017ec5b6eb039&amp;type=3#SgImporter" />
+    <ui:GroupBox style="flex-direction: row; flex-wrap: nowrap;">
+        <ui:TextField picking-mode="Ignore" label="Proto Path" readonly="true" name="proto-path" style="justify-content: flex-start; flex-basis: 60%; -unity-text-align: middle-center; text-overflow: clip; white-space: normal;" />
+        <ui:Button text="Select" parse-escape-sequences="true" display-tooltip-when-elided="true" name="btn-proto-path" />
+        <ui:Button text="更新" parse-escape-sequences="true" display-tooltip-when-elided="true" name="btn-proto-update" />
+        <ui:Button text="生成" parse-escape-sequences="true" display-tooltip-when-elided="true" name="btn-proto-gen" />
+    </ui:GroupBox>
+    <ui:GroupBox style="flex-direction: row;">
+        <ui:TextField picking-mode="Ignore" label="Config Path" readonly="true" name="config-path" style="justify-content: flex-start; flex-basis: 60%; -unity-text-align: middle-center; text-overflow: clip; white-space: normal;" />
+        <ui:Button text="Select" parse-escape-sequences="true" display-tooltip-when-elided="true" name="btn-config-path" />
+        <ui:Button text="更新" parse-escape-sequences="true" display-tooltip-when-elided="true" name="btn-config-update" />
+        <ui:Button text="生成" parse-escape-sequences="true" display-tooltip-when-elided="true" name="btn-config-gen" />
+    </ui:GroupBox>
+    <ui:GroupBox style="flex-direction: row;">
+        <ui:TextField picking-mode="Ignore" label="变体搜集路径" readonly="true" name="scv-path" value="Assets/GameRes/FontConfig/_no_auto_edit/ShaderVariants.shadervariants" style="justify-content: flex-start; flex-basis: 70%; -unity-text-align: middle-center; text-overflow: clip; white-space: normal;" />
+        <ui:Button text="搜集" parse-escape-sequences="true" display-tooltip-when-elided="true" name="btn-scv-gen" />
+    </ui:GroupBox>
+</ui:UXML>

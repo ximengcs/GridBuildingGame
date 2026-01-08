@@ -1,0 +1,1 @@
+"D:\Editor\2022.3.48f1c1\Editor\Unity.exe" -quit -batchmode -nographics -projectPath "." -executeMethod  "Builder.SgBuilder.BuildWithPath" "BuildScripts/android.json" -logFile "test_build.log"

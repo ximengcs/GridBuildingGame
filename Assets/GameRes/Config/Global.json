@@ -1,0 +1,62 @@
+{
+  "StaminaCooltime": 600,
+  "StaminaChargeCount": 1,
+  "StaminaMaxCount": 30,
+  "StaminaGameCost": 5,
+  "ChangeNickNameCost": 200,
+  "NicknameMinLength": 2,
+  "NicknameMaxLength": 10,
+  "RewardTypeCurrency": 1,
+  "RewardTypeItem": 2,
+  "RewardTypeCrops": 3,
+  "FeedbackWordLimit": 100,
+  "AdsId": "adunit-8454067132ac2643",
+  "FirstPayInterval": 1,
+  "DisplayQuantity": 200,
+  "SpeechCD": 5,
+  "PrivateChatLimit": 25,
+  "ChatActivationLevel": 3,
+  "CharacterLimit": 100,
+  "ChatMaxCount": 200,
+  "ChatInitCount": 50,
+  "SpeechLevel": 4,
+  "AddLevel": 4,
+  "FriendReferNumLimit": 10,
+  "ApplicationRestrictions": 100,
+  "FriendLimit": 100,
+  "BlacklistUpperLimit": 20,
+  "FriendReferCD": 10,
+  "AllianceGetInNeedLv": 5,
+  "CreateAllianceSpend": [
+    {
+      "type": 1,
+      "confId": 104,
+      "num": 3000
+    }
+  ],
+  "AllianceDonateNumAdd": 1,
+  "AllianceNameMaxLength": 7,
+  "AllianceNoticeMaxLength": 100,
+  "AllianceRepeatEnterCdBase": 7200,
+  "AllianceRepeatEnterCdMax": 86400,
+  "AllianceRename": [
+    {
+      "type": 1,
+      "confId": 104,
+      "num": 500
+    }
+  ],
+  "AllianceChallengeScore": 1,
+  "AllianceChallengeMail": 70008,
+  "AllianceListNum": 10,
+  "AllianceJoinShowNum": 20,
+  "AllianceEventNum": 50,
+  "AllianceRecruitCD": 60,
+  "AllianceMakeOverTime": 5,
+  "StaminaAdsCount": 3,
+  "AdsStaminaGiveCount": 5,
+  "PaidStaminaGiveCount": 15,
+  "BuyStaminaCost": 100,
+  "MarqueeSpeed": 15,
+  "MarqueeIntervalSeconds": 0.500000
+}
